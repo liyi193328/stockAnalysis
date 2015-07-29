@@ -1,0 +1,2 @@
+python runsinaCrawler.py
+pause

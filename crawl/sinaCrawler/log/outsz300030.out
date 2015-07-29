@@ -1,0 +1,3154 @@
+connection to sinaData suc
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz300030.phtml完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150723/134522772087.shtml']
+快讯：医疗器械板块飙升 美康生物等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150723/134522772087.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150723/134522772087.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150720/133522737310.shtml']
+快讯：医疗器械大涨 迪安诊断等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150720/133522737310.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150720/133522737310.shtml
+[u'http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml']
+股海导航 7月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml']
+周一335只股票复牌潮来临 如何把握复牌股机会
+http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml
+[u'http://finance.sina.com.cn/stock/t/20150707/201222615665.shtml']
+[公司]阳普医疗实控人承诺12个月内不减持
+http://finance.sina.com.cn/stock/t/20150707/201222615665.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150707/201222615665.shtml
+[u'http://finance.sina.com.cn/stock/t/20150707/033922606865.shtml']
+关于嘉实低价策略股票型证券投资基金延长募集期的公告
+http://finance.sina.com.cn/stock/t/20150707/033922606865.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150707/033922606865.shtml
+[u'http://finance.sina.com.cn/stock/t/20150707/023422606133.shtml']
+嘉实基金管理有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150707/023422606133.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150707/023422606133.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150703/133222584394.shtml']
+快讯：医疗器械拉升 迪瑞医疗等3股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150703/133222584394.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150703/133222584394.shtml
+[u'http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml']
+股海导航 7月2日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml
+[u'http://finance.sina.com.cn/stock/s/20150701/205722565322.shtml']
+三公司并购重组获通过
+http://finance.sina.com.cn/stock/s/20150701/205722565322.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150701/205722565322.shtml
+[u'http://finance.sina.com.cn/stock/t/20150701/201422565154.shtml']
+阳普医疗2日开市起复牌
+http://finance.sina.com.cn/stock/t/20150701/201422565154.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150701/201422565154.shtml
+[u'http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml']
+7月1日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150701/102322561441.shtml']
+快讯：医疗器械概念爆发 千山药机等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150701/102322561441.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150701/102322561441.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/034022548232.shtml']
+华宝兴业标普石油天然气上游股票指数证券投资基金(LOF)因美国主要交易所休市暂停申购赎回及定期定额投资业务的公告
+http://finance.sina.com.cn/stock/t/20150630/034022548232.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/034022548232.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/034022548207.shtml']
+关于嘉实定制账户费率优惠的公告
+http://finance.sina.com.cn/stock/t/20150630/034022548207.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/034022548207.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/034022548141.shtml']
+华商基金管理有限公司关于旗下部分基金
+http://finance.sina.com.cn/stock/t/20150630/034022548141.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/034022548141.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/023422547668.shtml']
+华商基金管理有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150630/023422547668.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/023422547668.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/023422547648.shtml']
+华宝兴业基金管理有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150630/023422547648.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/023422547648.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/023422547328.shtml']
+嘉实基金管理有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150630/023422547328.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/023422547328.shtml
+[u'http://finance.sina.com.cn/stock/s/20150626/071822523593.shtml']
+股海导航 6月26日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150626/071822523593.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150626/071822523593.shtml
+[u'http://finance.sina.com.cn/stock/s/20150625/171822517563.shtml']
+6月25日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150625/171822517563.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150625/171822517563.shtml
+[u'http://finance.sina.com.cn/stock/t/20150625/094022513939.shtml']
+[公司]阳普医疗等5公司因重大事项今起停牌
+http://finance.sina.com.cn/stock/t/20150625/094022513939.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150625/094022513939.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150619/162722478916.shtml']
+医药生物行业中期投资策略:把握处方药招标、创新主线
+http://finance.sina.com.cn/stock/hyyj/20150619/162722478916.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150619/162722478916.shtml
+[u'http://finance.sina.com.cn/stock/s/20150619/065922474344.shtml']
+股海导航 6月19日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150619/065922474344.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150619/065922474344.shtml
+[u'http://finance.sina.com.cn/stock/s/20150618/170722468298.shtml']
+6月18日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150618/170722468298.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150618/170722468298.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150617/015322449266.shtml']
+医疗服务行业迎来快速发展期 三领域8只龙头股迎布局良机
+http://finance.sina.com.cn/stock/hyyj/20150617/015322449266.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150617/015322449266.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150616/031422439328.shtml']
+“互联网+”引爆医疗健康产业 把握投资机会
+http://finance.sina.com.cn/stock/hyyj/20150616/031422439328.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150616/031422439328.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150612/095822417052.shtml']
+快讯：医疗器械概念股大涨 迪瑞医疗等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150612/095822417052.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150612/095822417052.shtml
+[u'http://finance.sina.com.cn/stock/t/20150608/081722372948.shtml']
+[传闻求证]利德曼也有MERS检测试剂？
+http://finance.sina.com.cn/stock/t/20150608/081722372948.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150608/081722372948.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150604/163622349928.shtml']
+医药行业6月投资策略:以市值为参照 加大对验证性的考察
+http://finance.sina.com.cn/stock/hyyj/20150604/163622349928.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150604/163622349928.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150602/024922321426.shtml']
+多重利好助医药行业升温 三板块狂欢显“升”机
+http://finance.sina.com.cn/stock/hyyj/20150602/024922321426.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150602/024922321426.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150601/094922314753.shtml']
+快讯：医疗保健概念暴涨 三鑫医疗等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150601/094922314753.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150601/094922314753.shtml
+[u'http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml']
+[传闻求证]兴森科技给大疆无人机供货？
+http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml
+[u'http://finance.sina.com.cn/stock/t/20150530/053922305982.shtml']
+8公司重要股东增持 股价大涨
+http://finance.sina.com.cn/stock/t/20150530/053922305982.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150530/053922305982.shtml
+[u'http://finance.sina.com.cn/stock/t/20150529/032422295256.shtml']
+年内8家公司重要股东停牌前增持增持后股价平均涨幅逾3倍
+http://finance.sina.com.cn/stock/t/20150529/032422295256.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150529/032422295256.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150527/221722282616.shtml']
+国泰君安中期策略会行业观点汇总 :放飞梦想 重仓未来
+http://finance.sina.com.cn/stock/hyyj/20150527/221722282616.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150527/221722282616.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150527/010422273058.shtml']
+医药并购潮涌 244起公告涉及金额600亿元
+http://finance.sina.com.cn/stock/hyyj/20150527/010422273058.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150527/010422273058.shtml
+[u'http://finance.sina.com.cn/stock/t/20150523/023022248030.shtml']
+创业板担当中国梦重任 五维度解析“不死鸟”传奇
+http://finance.sina.com.cn/stock/t/20150523/023022248030.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150523/023022248030.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150522/094622242118.shtml']
+快讯：医疗保健概念暴涨 通策医疗等5股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150522/094622242118.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150522/094622242118.shtml
+[u'http://finance.sina.com.cn/stock/t/20150522/062022240617.shtml']
+“互联网+”医疗峰会召开 三大概念股再现“升”机
+http://finance.sina.com.cn/stock/t/20150522/062022240617.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150522/062022240617.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150723/134522772087.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150701/201422565154.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/034022548207.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150701/102322561441.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/034022548232.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150701/205722565322.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/034022548141.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150703/133222584394.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150707/023422606133.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150707/033922606865.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150707/201222615665.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150720/133522737310.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150522/062022240617.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150522/094622242118.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150527/010422273058.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150527/221722282616.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150529/032422295256.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=2完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/hyyj/20150522/015122238485.shtml']
+“互联网+”医疗峰会召开 三大概念股再现升机
+http://finance.sina.com.cn/stock/hyyj/20150522/015122238485.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150522/015122238485.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150530/053922305982.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150601/094922314753.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150602/024922321426.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150521/135622234839.shtml']
+[公司]阳普医疗:公司试剂销售占比将会递增
+http://finance.sina.com.cn/stock/t/20150521/135622234839.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150521/135622234839.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150521/021822229140.shtml']
+重磅新药高端医械迎“中国制造2025”商机
+http://finance.sina.com.cn/stock/hyyj/20150521/021822229140.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150521/021822229140.shtml
+[u'http://finance.sina.com.cn/stock/t/20150518/110122204247.shtml']
+[公司]阳普医疗:采血管占比将呈现下降趋势
+http://finance.sina.com.cn/stock/t/20150518/110122204247.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150518/110122204247.shtml
+[u'http://finance.sina.com.cn/china/hgjj/20150518/031922200542.shtml']
+公立医院改革试点意见出台 两大领域分享盛宴
+http://finance.sina.com.cn/china/hgjj/20150518/031922200542.shtml
+request Y href http://finance.sina.com.cn/china/hgjj/20150518/031922200542.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150514/095722178853.shtml']
+阳普医疗：构建新模式 增持评级
+http://finance.sina.com.cn/stock/companyresearch/20150514/095722178853.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150514/095722178853.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150514/094922178864.shtml']
+阳普医疗：试水移动医疗是拓展医疗服务领域的开端 强烈推荐评级
+http://finance.sina.com.cn/stock/companyresearch/20150514/094922178864.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150514/094922178864.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150514/005922174457.shtml']
+卫计委：互联网+向医疗领域渗透 已开始试点工作
+http://finance.sina.com.cn/stock/hyyj/20150514/005922174457.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150514/005922174457.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150513/142122170996.shtml']
+阳普医疗:从产品到服务 构建新模式
+http://finance.sina.com.cn/stock/companyresearch/20150513/142122170996.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150513/142122170996.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150511/112022151093.shtml']
+快讯：医疗器械概念飙升 迪安诊断等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150511/112022151093.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150511/112022151093.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150511/083722149541.shtml']
+医疗改革政策密集出台 相关概念股迎机遇
+http://finance.sina.com.cn/stock/hyyj/20150511/083722149541.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150511/083722149541.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150507/005922121308.shtml']
+上市公司扎堆医疗并购基金 规模超百亿
+http://finance.sina.com.cn/stock/hyyj/20150507/005922121308.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150507/005922121308.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150506/130822117780.shtml']
+快讯：医疗保健概念暴涨 阳普医疗等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150506/130822117780.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150506/130822117780.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150504/014122095011.shtml']
+远程医疗百亿市场“解冻” 资源成决胜关键
+http://finance.sina.com.cn/stock/hyyj/20150504/014122095011.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150504/014122095011.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150430/093722082250.shtml']
+快讯：总理力挺医药卫生体制改革 概念股大涨
+http://finance.sina.com.cn/stock/gujiayidong/20150430/093722082250.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150430/093722082250.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150429/203722076198.shtml']
+李克强力挺医药卫生体制改革 机构:关注三类股
+http://finance.sina.com.cn/stock/hyyj/20150429/203722076198.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150429/203722076198.shtml
+[u'http://finance.sina.com.cn/stock/t/20150428/061922059289.shtml']
+广州阳普医疗科技股份有限公司关于披露2015年第一季度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20150428/061922059289.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150428/061922059289.shtml
+[u'http://finance.sina.com.cn/stock/s/20150427/171722055201.shtml']
+4月27日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150427/171722055201.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150427/171722055201.shtml
+[u'http://finance.sina.com.cn/stock/s/20150423/065322025538.shtml']
+股海导航 4月23日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150423/065322025538.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150423/065322025538.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150604/163622349928.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150608/081722372948.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150612/095822417052.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150616/031422439328.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150422/171822020891.shtml']
+4月22日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150422/171822020891.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150422/171822020891.shtml
+[u'http://finance.sina.com.cn/stock/s/20150422/070522016129.shtml']
+股海导航 4月22日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150422/070522016129.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150422/070522016129.shtml
+[u'http://finance.sina.com.cn/stock/s/20150421/171322010529.shtml']
+4月21日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150421/171322010529.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150421/171322010529.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150420/141721998368.shtml']
+快讯：医疗器械板块重挫4% 新华医疗跌8%
+http://finance.sina.com.cn/stock/gujiayidong/20150420/141721998368.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150420/141721998368.shtml
+[u'http://finance.sina.com.cn/china/20150419/162721990836.shtml']
+广东自贸区4月21日南沙挂牌 深圳前海紧随其后
+http://finance.sina.com.cn/china/20150419/162721990836.shtml
+request Y href http://finance.sina.com.cn/china/20150419/162721990836.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150416/083621969294.shtml']
+阳普医疗：加速外延布局 增持评级
+http://finance.sina.com.cn/stock/companyresearch/20150416/083621969294.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150416/083621969294.shtml
+[u'http://finance.sina.com.cn/stock/t/20150416/021921966920.shtml']
+嘉实基金管理有限公司关于旗下基金持有的“当升科技”恢复收盘价估值的公告
+http://finance.sina.com.cn/stock/t/20150416/021921966920.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150416/021921966920.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150415/142321962390.shtml']
+阳普医疗:成立并购基金 加速外延布局
+http://finance.sina.com.cn/stock/companyresearch/20150415/142321962390.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150415/142321962390.shtml
+[u'http://finance.sina.com.cn/stock/t/20150415/081321959344.shtml']
+4月15日两市重大投资公告一览
+http://finance.sina.com.cn/stock/t/20150415/081321959344.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150415/081321959344.shtml
+[u'http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml']
+股海导航 4月15日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml
+[u'http://finance.sina.com.cn/stock/t/20150414/190021954460.shtml']
+阳普医疗拟设产业并购基金
+http://finance.sina.com.cn/stock/t/20150414/190021954460.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150414/190021954460.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150617/015322449266.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/marketresearch/20150523/023022248030.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150618/170722468298.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150619/065922474344.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml']
+4月14日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150414/095321950627.shtml']
+快讯：医疗器械股大涨 维力医疗等6股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150414/095321950627.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150414/095321950627.shtml
+[u'http://finance.sina.com.cn/stock/s/20150414/070621949330.shtml']
+股海导航 4月14日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150414/070621949330.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150414/070621949330.shtml
+[u'http://finance.sina.com.cn/stock/t/20150414/011921946626.shtml']
+工银瑞信基金管理有限公司关于旗下部分基金持有的股票阳普医疗估值方法的公告
+http://finance.sina.com.cn/stock/t/20150414/011921946626.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150414/011921946626.shtml
+[u'http://finance.sina.com.cn/stock/s/20150413/165721944380.shtml']
+4月13日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150413/165721944380.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150413/165721944380.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150413/131621942550.shtml']
+快讯：医疗器械股大涨 新华医疗等8股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150413/131621942550.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150413/131621942550.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150413/112321942007.shtml']
+阳普医疗:并购进军医疗信息化 试水移动医疗
+http://finance.sina.com.cn/stock/companyresearch/20150413/112321942007.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150413/112321942007.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150413/104621941660.shtml']
+快讯：医药板块大涨 以岭药业等11股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150413/104621941660.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150413/104621941660.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150410/103621926533.shtml']
+基因概念再度爆发 迪安诊断等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150410/103621926533.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150410/103621926533.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150410/102621926417.shtml']
+快讯：医疗板块强势 阳普医疗等4股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150410/102621926417.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150410/102621926417.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150619/162722478916.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150625/094022513939.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150625/171822517563.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150626/071822523593.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/023422547328.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/023422547648.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/023422547668.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150522/015122238485.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150427/171722055201.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150428/061922059289.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150429/203722076198.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150423/065322025538.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150430/093722082250.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150504/014122095011.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150506/130822117780.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150507/005922121308.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150511/083722149541.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150511/112022151093.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150513/142122170996.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150514/005922174457.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150414/190021954460.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150410/102621926417.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150410/103621926533.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150413/104621941660.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150413/112321942007.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150413/131621942550.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150413/165721944380.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150414/011921946626.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150414/095321950627.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150415/081321959344.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150415/142321962390.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=3完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20150410/070321924784.shtml']
+股海导航 4月10日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150410/070321924784.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150410/070321924784.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150416/021921966920.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20150408/153621909101.shtml']
+一季度69股获高管增持近45亿 医药生物业居首
+http://finance.sina.com.cn/stock/hyyj/20150408/153621909101.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150408/153621909101.shtml
+[u'http://finance.sina.com.cn/stock/t/20150408/005921902279.shtml']
+嘉实基金管理有限公司
+http://finance.sina.com.cn/stock/t/20150408/005921902279.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150408/005921902279.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml']
+多重利好叠加 广东上市公司引领时代大潮
+http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150407/061921895766.shtml']
+238家双增公司助力牛市 传媒等三行业成造富先锋
+http://finance.sina.com.cn/stock/hyyj/20150407/061921895766.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150407/061921895766.shtml
+[u'http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml']
+股海导航 4月1日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml
+[u'http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml']
+3月31日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150330/080621841260.shtml']
+“十三五”规划浮现 医疗器械迎发展机遇(附股)
+http://finance.sina.com.cn/stock/hyyj/20150330/080621841260.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150330/080621841260.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150330/072721840942.shtml']
+十三五规划浮现 医疗器械望迎三大风口
+http://finance.sina.com.cn/stock/hyyj/20150330/072721840942.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150330/072721840942.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150324/112521794917.shtml']
+医药生物行业:MRI 外资仍是主流 国产逐步发力
+http://finance.sina.com.cn/stock/hyyj/20150324/112521794917.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150324/112521794917.shtml
+[u'http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml']
+广东自贸区挂牌在即 多家上市公司分享政策红利
+http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml
+request Y href http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml
+[u'http://finance.sina.com.cn/stock/s/20150318/065821746505.shtml']
+股海导航 3月18日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150318/065821746505.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150318/065821746505.shtml
+[u'http://finance.sina.com.cn/stock/t/20150318/011921744424.shtml']
+摩根士丹利华鑫基金管理有限公司关于旗下基金调整停牌股票“阳普医疗”估值方法的公告
+http://finance.sina.com.cn/stock/t/20150318/011921744424.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150318/011921744424.shtml
+[u'http://finance.sina.com.cn/stock/s/20150317/172921741938.shtml']
+3月17日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150317/172921741938.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150317/172921741938.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150311/074321694101.shtml']
+基因技术受青睐 生物科技股高潮不断
+http://finance.sina.com.cn/stock/hyyj/20150311/074321694101.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150311/074321694101.shtml
+[u'http://finance.sina.com.cn/stock/s/20150311/070921693936.shtml']
+股海导航 3月11日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150311/070921693936.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150311/070921693936.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150309/073121675249.shtml']
+总理报告再提医疗 互联网医疗迎新机遇
+http://finance.sina.com.cn/stock/hyyj/20150309/073121675249.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150309/073121675249.shtml
+[u'http://finance.sina.com.cn/stock/t/20150305/161721655498.shtml']
+[路演]阳普医疗:真空采血管收入占比最大
+http://finance.sina.com.cn/stock/t/20150305/161721655498.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150305/161721655498.shtml
+[u'http://finance.sina.com.cn/stock/t/20150305/154621654396.shtml']
+[路演]阳普医疗:料2015年毛利率变动不大
+http://finance.sina.com.cn/stock/t/20150305/154621654396.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150305/154621654396.shtml
+[u'http://finance.sina.com.cn/stock/t/20150305/152021653874.shtml']
+[路演]阳普医疗:空气净化系统厂房尚在建设
+http://finance.sina.com.cn/stock/t/20150305/152021653874.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150305/152021653874.shtml
+[u'http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml']
+股海导航 3月4日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150414/070621949330.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150416/083621969294.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20150419/162721990836.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150420/141721998368.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150421/171322010529.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150422/171822020891.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150514/094922178864.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150303/165521634352.shtml']
+3月3日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150303/165521634352.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150303/165521634352.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150302/105621622204.shtml']
+柴静雾霾调查视频走红 盘点医药股中的防护概念股
+http://finance.sina.com.cn/stock/hyyj/20150302/105621622204.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150302/105621622204.shtml
+[u'http://finance.sina.com.cn/money/fund/20150227/074321604381.shtml']
+QFII最新布局路线曝光 英唐智控等4股成新宠
+http://finance.sina.com.cn/money/fund/20150227/074321604381.shtml
+request Y href http://finance.sina.com.cn/money/fund/20150227/074321604381.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20150227/010121601566.shtml']
+QFII最新布局路线曝光 英唐智控等4股成新宠
+http://finance.sina.com.cn/stock/zldx/20150227/010121601566.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20150227/010121601566.shtml
+[u'http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml']
+股海导航 2月26日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml
+[u'http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml']
+2月25日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml
+[u'http://finance.sina.com.cn/stock/t/20150225/091121589033.shtml']
+[公司]阳普医疗25日起停牌 拟披露重大事项
+http://finance.sina.com.cn/stock/t/20150225/091121589033.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150225/091121589033.shtml
+[u'http://finance.sina.com.cn/stock/s/20150216/065021561572.shtml']
+股海导航 2月16日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150216/065021561572.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150216/065021561572.shtml
+[u'http://finance.sina.com.cn/stock/t/20150216/023921560639.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150216/023921560639.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150216/023921560639.shtml
+[u'http://finance.sina.com.cn/stock/t/20150216/005921559684.shtml']
+广州阳普医疗科技股份有限公司关于披露2014年年度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20150216/005921559684.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150216/005921559684.shtml
+[u'http://finance.sina.com.cn/stock/t/20150215/225721559102.shtml']
+[公司]阳普医疗拟投资设立创新孵化中心
+http://finance.sina.com.cn/stock/t/20150215/225721559102.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150215/225721559102.shtml
+[u'http://finance.sina.com.cn/stock/s/20150215/210721558924.shtml']
+阳普医疗2014年净利增15% 拟10派0.3
+http://finance.sina.com.cn/stock/s/20150215/210721558924.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150215/210721558924.shtml
+[u'http://finance.sina.com.cn/stock/s/20150215/201321558832.shtml']
+2月15日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20150215/201321558832.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150215/201321558832.shtml
+[u'http://finance.sina.com.cn/stock/s/20150215/181021558644.shtml']
+2月15日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150215/181021558644.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150215/181021558644.shtml
+[u'http://finance.sina.com.cn/stock/t/20150215/180021558649.shtml']
+[年报]阳普医疗去年利增15% 拟10派0.3元
+http://finance.sina.com.cn/stock/t/20150215/180021558649.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150215/180021558649.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150212/142721539187.shtml']
+医疗器械股强势 华润万东涨超5%
+http://finance.sina.com.cn/stock/gujiayidong/20150212/142721539187.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150212/142721539187.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150514/095722178853.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/hgjj/20150518/031922200542.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150212/100621537256.shtml']
+快讯：医疗器械板块大涨 阳普医疗涨近6%
+http://finance.sina.com.cn/stock/gujiayidong/20150212/100621537256.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150212/100621537256.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml']
+吉林政府报告提出申报自贸区 分析称获批希望较大
+http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml']
+广东自贸区方案与部委达成共识 预计近期获批
+http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150422/070522016129.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150518/110122204247.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150521/021822229140.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150521/135622234839.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150305/152021653874.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150305/161721655498.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150305/154621654396.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150410/070321924784.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150309/073121675249.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150311/070921693936.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150311/074321694101.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150317/172921741938.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150318/011921744424.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150318/065821746505.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150324/112521794917.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150330/072721840942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150212/142721539187.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150215/180021558649.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150212/100621537256.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150215/181021558644.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150215/201321558832.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150215/210721558924.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150215/225721559102.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150216/005921559684.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150216/023921560639.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150216/065021561572.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=4完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150205/135421484630.shtml']
+快讯：医疗器械股拉升 迪安诊断涨近9%
+http://finance.sina.com.cn/stock/gujiayidong/20150205/135421484630.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150205/135421484630.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150225/091121589033.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20150202/031921449848.shtml']
+“蛮牛”转“慢牛” 六角度围猎二月投资主题
+http://finance.sina.com.cn/stock/hyyj/20150202/031921449848.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150202/031921449848.shtml
+[u'http://finance.sina.com.cn/stock/s/20150202/015921449285.shtml']
+1月75家上市公司被股东增持
+http://finance.sina.com.cn/stock/s/20150202/015921449285.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150202/015921449285.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150115/142021306020.shtml']
+快讯：医药板块大涨 西藏药业等三股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150115/142021306020.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150115/142021306020.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20150114/165121297882.shtml']
+阳普医疗:二次增持计划扩大 成长趋势仍将延续
+http://finance.sina.com.cn/stock/companyresearch/20150114/165121297882.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20150114/165121297882.shtml
+[u'http://finance.sina.com.cn/stock/t/20150114/073421293775.shtml']
+今日公告现利好 27股有潜力
+http://finance.sina.com.cn/stock/t/20150114/073421293775.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150114/073421293775.shtml
+[u'http://finance.sina.com.cn/stock/t/20150113/215921290352.shtml']
+[公司]阳普医疗实控人为资管计划增持股份
+http://finance.sina.com.cn/stock/t/20150113/215921290352.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150113/215921290352.shtml
+[u'http://finance.sina.com.cn/stock/t/20150113/211921289589.shtml']
+大股东担保 阳普医疗员工与代理商融资买入股票
+http://finance.sina.com.cn/stock/t/20150113/211921289589.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150113/211921289589.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150112/015921272326.shtml']
+医疗板块滞涨带来建仓契机
+http://finance.sina.com.cn/stock/hyyj/20150112/015921272326.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150112/015921272326.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150109/022421257607.shtml']
+近500亿元资金昨日出逃 10股逆市吸金近5亿元
+http://finance.sina.com.cn/stock/hyyj/20150109/022421257607.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150109/022421257607.shtml
+[u'http://finance.sina.com.cn/money/fund/20150108/071521250456.shtml']
+逾200亿元资金撤出A股 6.4亿元大单流入10股
+http://finance.sina.com.cn/money/fund/20150108/071521250456.shtml
+request Y href http://finance.sina.com.cn/money/fund/20150108/071521250456.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150108/014921248027.shtml']
+逾200亿元资金撤出A股 6.4亿元大单流入10股
+http://finance.sina.com.cn/stock/hyyj/20150108/014921248027.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150108/014921248027.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20150107/015821238903.shtml']
+通用等洋医疗器械维修费被指离谱：零整比10倍
+http://finance.sina.com.cn/chanjing/cyxw/20150107/015821238903.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20150107/015821238903.shtml
+[u'http://finance.sina.com.cn/stock/t/20150105/135721225952.shtml']
+[公司]阳普医疗料2014年净利同比增5%-35%
+http://finance.sina.com.cn/stock/t/20150105/135721225952.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150105/135721225952.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20150227/010121601566.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20150227/074321604381.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150302/105621622204.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150105/130821225498.shtml']
+阳普医疗预计年度业绩增长5%至35%
+http://finance.sina.com.cn/stock/t/20150105/130821225498.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150105/130821225498.shtml
+[u'http://finance.sina.com.cn/stock/t/20141229/214321191056.shtml']
+[公司]阳普医疗6.45万股限售股6日解禁上市
+http://finance.sina.com.cn/stock/t/20141229/214321191056.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141229/214321191056.shtml
+[u'http://finance.sina.com.cn/stock/t/20141226/100121170983.shtml']
+[数据]26日深市上市公司网络投票特别提示
+http://finance.sina.com.cn/stock/t/20141226/100121170983.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141226/100121170983.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141222/071121131402.shtml']
+明年医药四大领域孕育投资机会
+http://finance.sina.com.cn/stock/hyyj/20141222/071121131402.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141222/071121131402.shtml
+[u'http://finance.sina.com.cn/stock/t/20141216/103921088090.shtml']
+阳普医疗：目前正推出多功能口罩
+http://finance.sina.com.cn/stock/t/20141216/103921088090.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141216/103921088090.shtml
+[u'http://finance.sina.com.cn/stock/t/20141216/102221087860.shtml']
+[互动]阳普医疗:目前公司推出"多功能口罩"
+http://finance.sina.com.cn/stock/t/20141216/102221087860.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141216/102221087860.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141212/023221057340.shtml']
+“吃”新药“练”器械  PE热捧医疗健康产业
+http://finance.sina.com.cn/stock/hyyj/20141212/023221057340.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141212/023221057340.shtml
+[u'http://finance.sina.com.cn/stock/t/20141211/083221049951.shtml']
+[传闻求证]腾邦国际欲购基金买卖网？
+http://finance.sina.com.cn/stock/t/20141211/083221049951.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141211/083221049951.shtml
+[u'http://finance.sina.com.cn/stock/t/20141208/144821023010.shtml']
+[互动]阳普医疗:采血针主要是自产部分外购
+http://finance.sina.com.cn/stock/t/20141208/144821023010.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141208/144821023010.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141205/035021002081.shtml']
+西南证券：沉寂医药板块即将迎来黎明
+http://finance.sina.com.cn/stock/hyyj/20141205/035021002081.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141205/035021002081.shtml
+[u'http://finance.sina.com.cn/stock/s/20141204/013920990689.shtml']
+下半年222家上市公司高管砸31.6亿元增持
+http://finance.sina.com.cn/stock/s/20141204/013920990689.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141204/013920990689.shtml
+[u'http://finance.sina.com.cn/stock/t/20141128/152620949073.shtml']
+[互动]阳普医疗:公司未来会推出空气检测仪
+http://finance.sina.com.cn/stock/t/20141128/152620949073.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141128/152620949073.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141128/062020944499.shtml']
+机构调研医药股“别有用心” 看好背后并购整合
+http://finance.sina.com.cn/stock/hyyj/20141128/062020944499.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141128/062020944499.shtml
+[u'http://finance.sina.com.cn/stock/t/20141125/153320915765.shtml']
+[互动]阳普医疗:今年完成采血系统超过30套
+http://finance.sina.com.cn/stock/t/20141125/153320915765.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141125/153320915765.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20141125/130320914303.shtml']
+戴维医疗：传统业务回暖 并购预期明确
+http://finance.sina.com.cn/stock/companyresearch/20141125/130320914303.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20141125/130320914303.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150303/165521634352.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150330/080621841260.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150407/061921895766.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/companyresearch/20141124/235920907090.shtml']
+戴维医疗：并购预期明确 增持评级
+http://finance.sina.com.cn/stock/companyresearch/20141124/235920907090.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20141124/235920907090.shtml
+[u'http://finance.sina.com.cn/stock/t/20141121/161320887047.shtml']
+[互动]阳普医疗:公司尚未专门涉及养老业务
+http://finance.sina.com.cn/stock/t/20141121/161320887047.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141121/161320887047.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20141121/103520883569.shtml']
+揭秘口腔业暴利背后：洋品牌垄断 种植牙成本3000卖1万
+http://finance.sina.com.cn/consume/puguangtai/20141121/103520883569.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20141121/103520883569.shtml
+[u'http://finance.sina.com.cn/stock/t/20141120/140820873530.shtml']
+[互动]阳普医疗:有部分POCT产品仍在申报中
+http://finance.sina.com.cn/stock/t/20141120/140820873530.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141120/140820873530.shtml
+[u'http://finance.sina.com.cn/stock/t/20141120/130420872941.shtml']
+[互动]阳普医疗:公司暂没有进入可穿戴领域
+http://finance.sina.com.cn/stock/t/20141120/130420872941.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141120/130420872941.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml']
+权威人士：广东自贸区不设两份负面清单
+http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml
+[u'http://finance.sina.com.cn/stock/t/20141118/083520847516.shtml']
+[公司]阳普医疗:空气净化系统年底前出样机
+http://finance.sina.com.cn/stock/t/20141118/083520847516.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141118/083520847516.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml']
+广东国资改革方案落地 概念股蓄势待发
+http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml']
+广东国企改革方案落地 机构趁涨甩卖概念股
+http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml
+[u'http://finance.sina.com.cn/stock/s/20141111/110720785810.shtml']
+11月以来“两板”公司遭减持43亿元
+http://finance.sina.com.cn/stock/s/20141111/110720785810.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141111/110720785810.shtml
+[u'http://finance.sina.com.cn/stock/s/20141111/042020782600.shtml']
+阳普医疗五大业务并举 在研产品想象空间大
+http://finance.sina.com.cn/stock/s/20141111/042020782600.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141111/042020782600.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150408/005921902279.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150408/153621909101.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150205/135421484630.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150105/135721225952.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20150107/015821238903.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150108/014921248027.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20150108/071521250456.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150109/022421257607.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150112/015921272326.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150113/211921289589.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150113/215921290352.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150114/073421293775.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20150114/165121297882.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150115/142021306020.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150202/015921449285.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20141125/130320914303.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141125/153320915765.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141128/062020944499.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141111/042020782600.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141111/110720785810.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141118/083520847516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141120/130420872941.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141120/140820873530.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20141121/103520883569.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=5完成
+getting title's text and href
+[u'http://finance.sina.com.cn/chanjing/sdbd/20141110/024720772162.shtml']
+洋医械为垄断售后取消维修说明书:在香港并不这么做
+http://finance.sina.com.cn/chanjing/sdbd/20141110/024720772162.shtml
+request Y href http://finance.sina.com.cn/chanjing/sdbd/20141110/024720772162.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141121/161320887047.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20141124/235920907090.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141128/152620949073.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141204/013920990689.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/china/20141109/211120770541.shtml']
+全国人大财经委：药品价格全面放开时机成熟
+http://finance.sina.com.cn/china/20141109/211120770541.shtml
+request Y href http://finance.sina.com.cn/china/20141109/211120770541.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141104/101920725853.shtml']
+医药行业:短期估值切换空间收敛 着眼于中线配置
+http://finance.sina.com.cn/stock/hyyj/20141104/101920725853.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141104/101920725853.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141027/103920650243.shtml']
+医疗器械行业:三季报业绩密集发布期临近
+http://finance.sina.com.cn/stock/hyyj/20141027/103920650243.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141027/103920650243.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141026/140720643712.shtml']
+业绩增厚方法多 次新股变脸频繁
+http://finance.sina.com.cn/stock/hyyj/20141026/140720643712.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141026/140720643712.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20141023/170620622482.shtml']
+明日股市三大猜想及应对策略
+http://finance.sina.com.cn/stock/jsy/20141023/170620622482.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20141023/170620622482.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20141023/093020618297.shtml']
+三季报暴露牛散踪迹 赵建平新晋阳普医疗十大股东
+http://finance.sina.com.cn/stock/zldx/20141023/093020618297.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20141023/093020618297.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20141023/070920617116.shtml']
+我国高端医疗设备依赖进口加剧看病贵:价高50%
+http://finance.sina.com.cn/consume/puguangtai/20141023/070920617116.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20141023/070920617116.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141022/140220609781.shtml']
+快讯：埃博拉概念股继续回调 个股普跌
+http://finance.sina.com.cn/stock/gujiayidong/20141022/140220609781.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141022/140220609781.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20141022/023920603307.shtml']
+和睦家医院销售不合格待产包 PH值超标刺激皮肤
+http://finance.sina.com.cn/consume/puguangtai/20141022/023920603307.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20141022/023920603307.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20141020/232820589978.shtml']
+国家队操作路线图展露尖角 增持传统行业不忘互联网
+http://finance.sina.com.cn/stock/zldx/20141020/232820589978.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20141020/232820589978.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141020/100120584886.shtml']
+快讯：埃博拉疫情扩散 概念股大涨
+http://finance.sina.com.cn/stock/gujiayidong/20141020/100120584886.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141020/100120584886.shtml
+[u'http://finance.sina.com.cn/stock/t/20141018/014120574203.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141018/014120574203.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141018/014120574203.shtml
+[u'http://finance.sina.com.cn/stock/t/20141018/010020573596.shtml']
+广州阳普医疗科技股份有限公司关于披露2014年第三季度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20141018/010020573596.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141018/010020573596.shtml
+[u'http://finance.sina.com.cn/stock/t/20141017/195320572650.shtml']
+[季报]阳普医疗1-9月净利4069万 同比增41%
+http://finance.sina.com.cn/stock/t/20141017/195320572650.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141017/195320572650.shtml
+[u'http://finance.sina.com.cn/stock/t/20141017/162620571020.shtml']
+财苑走进上市公司：阳普医疗暂不考虑进军移动医疗
+http://finance.sina.com.cn/stock/t/20141017/162620571020.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141017/162620571020.shtml
+[u'http://finance.sina.com.cn/stock/t/20141017/144820571249.shtml']
+[直播]走进阳普医疗 年底带来啥惊喜？
+http://finance.sina.com.cn/stock/t/20141017/144820571249.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141017/144820571249.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141205/035021002081.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141208/144821023010.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141211/083221049951.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20141015/161920547118.shtml']
+[互动]阳普医疗:空气净化系统进入调研阶段
+http://finance.sina.com.cn/stock/t/20141015/161920547118.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141015/161920547118.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20141014/204920537173.shtml']
+阳普医疗：业绩延续高增长趋势
+http://finance.sina.com.cn/stock/companyresearch/20141014/204920537173.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20141014/204920537173.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141014/015620527041.shtml']
+医药板块逆市上涨再成避风港 三类概念股或将迎升机
+http://finance.sina.com.cn/stock/hyyj/20141014/015620527041.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141014/015620527041.shtml
+[u'http://finance.sina.com.cn/stock/t/20141013/183620524554.shtml']
+阳普医疗前三季业绩预增35%至50%
+http://finance.sina.com.cn/stock/t/20141013/183620524554.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141013/183620524554.shtml
+[u'http://finance.sina.com.cn/stock/s/20141010/155320505041.shtml']
+63家公司下周披露三季报 华东科技预增翻倍
+http://finance.sina.com.cn/stock/s/20141010/155320505041.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141010/155320505041.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20141008/145520482469.shtml']
+阳普医疗：代理+自产双轮加速 业绩持续高增长期来临
+http://finance.sina.com.cn/stock/companyresearch/20141008/145520482469.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20141008/145520482469.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141008/142220482085.shtml']
+医药板块走强 新华制药等6股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20141008/142220482085.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141008/142220482085.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141008/015020476680.shtml']
+金秋十月立足三季报 六大线索把握战机
+http://finance.sina.com.cn/stock/hyyj/20141008/015020476680.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141008/015020476680.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140930/140420454782.shtml']
+国产替代化需求强烈 医疗器械股引关注
+http://finance.sina.com.cn/stock/hyyj/20140930/140420454782.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140930/140420454782.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140930/102620453072.shtml']
+快讯：医疗器械概念股活跃 千山药机涨逾5%
+http://finance.sina.com.cn/stock/gujiayidong/20140930/102620453072.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140930/102620453072.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140929/134220443160.shtml']
+快讯：医疗器材板块表现亮眼 华润万东涨超5%
+http://finance.sina.com.cn/stock/gujiayidong/20140929/134220443160.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140929/134220443160.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140928/104320433961.shtml']
+外资把控我国高端医疗器械市场：价格可达国产1.7倍
+http://finance.sina.com.cn/chanjing/cyxw/20140928/104320433961.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140928/104320433961.shtml
+[u'http://finance.sina.com.cn/stock/e/20140919/095520359672.shtml']
+快讯：医疗器械板块拉升 华润万东涨停
+http://finance.sina.com.cn/stock/e/20140919/095520359672.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140919/095520359672.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140918/150720341740.shtml']
+医药行业:人脑工程 生物制药新蓝海
+http://finance.sina.com.cn/stock/hyyj/20140918/150720341740.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140918/150720341740.shtml
+[u'http://finance.sina.com.cn/stock/e/20140918/100620336734.shtml']
+快讯：医疗器械板块走强 华润万东涨停
+http://finance.sina.com.cn/stock/e/20140918/100620336734.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140918/100620336734.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141212/023221057340.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141216/102221087860.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141216/103921088090.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141222/071121131402.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141226/100121170983.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140916/041220300112.shtml']
+医药并购火热 资本逐鹿三大细分领域
+http://finance.sina.com.cn/stock/hyyj/20140916/041220300112.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140916/041220300112.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140912/150220278504.shtml']
+下周最具爆发力六大牛股
+http://finance.sina.com.cn/stock/companyresearch/20140912/150220278504.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140912/150220278504.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140912/112620277050.shtml']
+医疗器械、移动医疗成产业基金最新投资方向
+http://finance.sina.com.cn/stock/hyyj/20140912/112620277050.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140912/112620277050.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140912/110820276843.shtml']
+医疗器械行业协会：医疗器械产业发展空间巨大(股)
+http://finance.sina.com.cn/stock/hyyj/20140912/110820276843.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140912/110820276843.shtml
+[u'http://finance.sina.com.cn/stock/s/20140909/170420245423.shtml']
+9月9日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140909/170420245423.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140909/170420245423.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140905/141920224909.shtml']
+快讯：埃博拉传播速度加快 概念股大幅拉升
+http://finance.sina.com.cn/stock/gujiayidong/20140905/141920224909.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140905/141920224909.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140905/013220217339.shtml']
+发改委等反垄断动作频繁 下步或指向医疗器械
+http://finance.sina.com.cn/chanjing/cyxw/20140905/013220217339.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140905/013220217339.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140829/154120162911.shtml']
+昌红科技:业绩超预期 新业务撑起未来发展空间
+http://finance.sina.com.cn/stock/companyresearch/20140829/154120162911.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140829/154120162911.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141229/214321191056.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150105/130821225498.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150202/031921449848.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/sdbd/20141110/024720772162.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141017/144820571249.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141017/162620571020.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141017/195320572650.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141018/010020573596.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141018/014120574203.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141020/100120584886.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20141020/232820589978.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20141022/023920603307.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141022/140220609781.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20141023/070920617116.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20141023/093020618297.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20141023/170620622482.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140918/100620336734.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140918/150720341740.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140919/095520359672.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140829/154120162911.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140905/013220217339.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140905/141920224909.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140909/170420245423.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140912/110820276843.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140912/112620277050.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140912/150220278504.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140916/041220300112.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=6完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/t/20140829/083920158778.shtml']
+[数据]29日深市上市公司网络投票特别提示
+http://finance.sina.com.cn/stock/t/20140829/083920158778.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140829/083920158778.shtml
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140928/104320433961.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140929/134220443160.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140930/102620453072.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140930/140420454782.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141008/015020476680.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140827/104120134803.shtml']
+两部委:允许境外投资者在北上广等地设独资医院
+http://finance.sina.com.cn/chanjing/cyxw/20140827/104120134803.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140827/104120134803.shtml
+[u'http://finance.sina.com.cn/stock/t/20140826/041020117084.shtml']
+广州阳普医疗科技股份有限公司关于披露2014年年度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20140826/041020117084.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140826/041020117084.shtml
+[u'http://finance.sina.com.cn/stock/s/20140825/171820112981.shtml']
+8月25日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140825/171820112981.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140825/171820112981.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml']
+改革将为广东国企带来并购重组机会 关联个股机会大
+http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140822/135120092549.shtml']
+快讯：医疗器材个股全线飘红 康耐特领涨超6%
+http://finance.sina.com.cn/stock/gujiayidong/20140822/135120092549.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140822/135120092549.shtml
+[u'http://finance.sina.com.cn/stock/t/20140821/133920080257.shtml']
+[互动]阳普医疗:空气净化系统尚处于研发阶段
+http://finance.sina.com.cn/stock/t/20140821/133920080257.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140821/133920080257.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140821/132820079979.shtml']
+传LED产品关税将上调 聚飞光电拉升涨超7%
+http://finance.sina.com.cn/stock/gujiayidong/20140821/132820079979.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140821/132820079979.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140820/014120059896.shtml']
+移动医疗直面四重困境 政策制约居首
+http://finance.sina.com.cn/stock/hyyj/20140820/014120059896.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140820/014120059896.shtml
+[u'http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml']
+广东国资改革意见出炉 力度超预期
+http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml
+request Y href http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140819/033020049877.shtml']
+两部委力挺国产医疗设备 将建主动使用激励机制
+http://finance.sina.com.cn/stock/hyyj/20140819/033020049877.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140819/033020049877.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140818/093820040888.shtml']
+两部委力推国产医疗设备 概念股表现活跃
+http://finance.sina.com.cn/stock/gujiayidong/20140818/093820040888.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140818/093820040888.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140818/012120036617.shtml']
+政策护航并购开路 医疗器械行业剑指8万亿蛋糕
+http://finance.sina.com.cn/stock/hyyj/20140818/012120036617.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140818/012120036617.shtml
+[u'http://finance.sina.com.cn/stock/e/20140814/102920009744.shtml']
+快讯：医疗器械板块涨 九安医疗大涨
+http://finance.sina.com.cn/stock/e/20140814/102920009744.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140814/102920009744.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140805/132619917759.shtml']
+巴菲特收购医疗器械业务公司 国内行业或受提振
+http://finance.sina.com.cn/stock/hyyj/20140805/132619917759.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140805/132619917759.shtml
+[u'http://finance.sina.com.cn/stock/t/20140805/105319917042.shtml']
+[互动]阳普医疗:暂无直接检测埃博拉病毒试剂
+http://finance.sina.com.cn/stock/t/20140805/105319917042.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140805/105319917042.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140804/095019904215.shtml']
+快讯：医药板块大涨 北生药业等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140804/095019904215.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140804/095019904215.shtml
+[u'http://finance.sina.com.cn/stock/t/20140731/080419871999.shtml']
+[传闻求证]华胜天成与华为签合作协议？
+http://finance.sina.com.cn/stock/t/20140731/080419871999.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140731/080419871999.shtml
+[u'http://finance.sina.com.cn/stock/t/20140729/160319852412.shtml']
+[公司]阳普医疗:采血针后期产能会逐渐释放
+http://finance.sina.com.cn/stock/t/20140729/160319852412.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140729/160319852412.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20141008/145520482469.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141010/155320505041.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141008/142220482085.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140724/111819806681.shtml']
+[互动]阳普医疗:料下半年推出POCT系列等新品
+http://finance.sina.com.cn/stock/t/20140724/111819806681.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140724/111819806681.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140724/084119804627.shtml']
+北京下放民营医疗机构审批权限 四类股望爆发
+http://finance.sina.com.cn/stock/hyyj/20140724/084119804627.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140724/084119804627.shtml
+[u'http://finance.sina.com.cn/stock/t/20140723/092019793176.shtml']
+[公司]阳普医疗:年底推室内空气质量管理产品
+http://finance.sina.com.cn/stock/t/20140723/092019793176.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140723/092019793176.shtml
+[u'http://finance.sina.com.cn/stock/t/20140722/112219782992.shtml']
+[传闻求证]超强台风吹“惨”上市公司？
+http://finance.sina.com.cn/stock/t/20140722/112219782992.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140722/112219782992.shtml
+[u'http://finance.sina.com.cn/stock/t/20140721/083619768809.shtml']
+基金二季度大举加仓医药股 9股迎上涨空间（附股）
+http://finance.sina.com.cn/stock/t/20140721/083619768809.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140721/083619768809.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140718/132719749268.shtml']
+外媒分析在华外企为何容易成反腐目标：中国更加自信
+http://finance.sina.com.cn/chanjing/gsnews/20140718/132719749268.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140718/132719749268.shtml
+[u'http://finance.sina.com.cn/stock/e/20140717/110219729614.shtml']
+快讯：医疗器械服务股走强 乐普医疗领涨
+http://finance.sina.com.cn/stock/e/20140717/110219729614.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140717/110219729614.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20140716/154519723188.shtml']
+创业板持续大幅调整 14股遭抛售连跌超10%
+http://finance.sina.com.cn/stock/zldx/20140716/154519723188.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20140716/154519723188.shtml
+[u'http://finance.sina.com.cn/stock/t/20140714/154319698352.shtml']
+[互动]阳普医疗:已有检测糖尿病基因芯片技术
+http://finance.sina.com.cn/stock/t/20140714/154319698352.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140714/154319698352.shtml
+[u'http://finance.sina.com.cn/stock/t/20140708/103319639733.shtml']
+[求证]涉足基因测序引关注 阳普医疗:还没产品
+http://finance.sina.com.cn/stock/t/20140708/103319639733.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140708/103319639733.shtml
+[u'http://finance.sina.com.cn/stock/t/20140704/230619614727.shtml']
+[公司]阳普医疗股东减持473.4万股 占比1.93%
+http://finance.sina.com.cn/stock/t/20140704/230619614727.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140704/230619614727.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140704/010419602102.shtml']
+政策红利不断释放 六主线掘金医疗器械板块
+http://finance.sina.com.cn/stock/hyyj/20140704/010419602102.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140704/010419602102.shtml
+[u'http://finance.sina.com.cn/stock/s/20140703/071919593567.shtml']
+汤臣倍健入股互联网金融 跨界金融成土豪药企趋同选择
+http://finance.sina.com.cn/stock/s/20140703/071919593567.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140703/071919593567.shtml
+[u'http://finance.sina.com.cn/stock/t/20140630/190219564415.shtml']
+阳普医疗上半年业绩回升 预增40%-60%
+http://finance.sina.com.cn/stock/t/20140630/190219564415.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140630/190219564415.shtml
+[u'http://finance.sina.com.cn/stock/t/20140630/180219564173.shtml']
+[公司]阳普医疗预计上半年净利同比增40%-60%
+http://finance.sina.com.cn/stock/t/20140630/180219564173.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140630/180219564173.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140630/080219561825.shtml']
+青岛西海岸新区再迎发展动力 8股腾飞在即
+http://finance.sina.com.cn/stock/hyyj/20140630/080219561825.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140630/080219561825.shtml
+[u'http://finance.sina.com.cn/china/20140626/162319533251.shtml']
+血透机的秘密：国外厂家与公立医院利益捆绑遭查
+http://finance.sina.com.cn/china/20140626/162319533251.shtml
+request Y href http://finance.sina.com.cn/china/20140626/162319533251.shtml
+[u'http://finance.sina.com.cn/money/fund/20140626/085419527450.shtml']
+医药医疗并购活跃 基金扎堆调研
+http://finance.sina.com.cn/money/fund/20140626/085419527450.shtml
+request Y href http://finance.sina.com.cn/money/fund/20140626/085419527450.shtml
+[u'http://finance.sina.com.cn/stock/t/20140626/085219527378.shtml']
+医药医疗并购活跃 基金扎堆调研
+http://finance.sina.com.cn/stock/t/20140626/085219527378.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140626/085219527378.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140624/024719499729.shtml']
+高送转题材股炒作过半见光死
+http://finance.sina.com.cn/stock/hyyj/20140624/024719499729.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140624/024719499729.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140623/100919492224.shtml']
+快讯：医疗器材板块大涨 宝莱特涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140623/100919492224.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140623/100919492224.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141013/183620524554.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141014/015620527041.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20141014/204920537173.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141015/161920547118.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141026/140720643712.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141027/103920650243.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141104/101920725853.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20141109/211120770541.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140829/083920158778.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140729/160319852412.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140731/080419871999.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140804/095019904215.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140805/105319917042.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140805/132619917759.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140814/102920009744.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140818/012120036617.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140818/093820040888.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140819/033020049877.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140820/014120059896.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140821/132820079979.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140623/100919492224.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140624/024719499729.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140626/085219527378.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20140626/085419527450.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140626/162319533251.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140630/080219561825.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140630/180219564173.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140630/190219564415.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140703/071919593567.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140704/010419602102.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=7完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140620/031319467383.shtml']
+融资增持捆绑共盈 简易版股权激励风行
+http://finance.sina.com.cn/stock/s/20140620/031319467383.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140620/031319467383.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140704/230619614727.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140708/103319639733.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140714/154319698352.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20140716/154519723188.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140717/110219729614.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140718/132719749268.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml']
+东莞臭脚米粉涉事企业停业整顿:照片拍于半年前
+http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140610/062219361526.shtml']
+国产医疗设备加速进口替代 三类股尽享政策红包
+http://finance.sina.com.cn/stock/hyyj/20140610/062219361526.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140610/062219361526.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140609/090519353104.shtml']
+基金密集调研医疗器械行业 四角度掘金概念股
+http://finance.sina.com.cn/stock/hyyj/20140609/090519353104.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140609/090519353104.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140609/090519352481.shtml']
+基金密集调研医疗器械行业 四角度掘金概念股
+http://finance.sina.com.cn/stock/hyyj/20140609/090519352481.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140609/090519352481.shtml
+[u'http://finance.sina.com.cn/stock/s/20140605/185019326679.shtml']
+6月5日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140605/185019326679.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140605/185019326679.shtml
+[u'http://finance.sina.com.cn/stock/t/20140605/182919326474.shtml']
+阳普医疗逾1亿前海设融资租赁公司
+http://finance.sina.com.cn/stock/t/20140605/182919326474.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140605/182919326474.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140603/174119301871.shtml']
+杭州发布鼓励民营办医实施意见 推进公立医院改制
+http://finance.sina.com.cn/stock/hyyj/20140603/174119301871.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140603/174119301871.shtml
+[u'http://finance.sina.com.cn/china/20140603/005319293165.shtml']
+北京楼市或迎实质性降价 库存达2013年来最高点
+http://finance.sina.com.cn/china/20140603/005319293165.shtml
+request Y href http://finance.sina.com.cn/china/20140603/005319293165.shtml
+[u'http://finance.sina.com.cn/stock/e/20140530/110219277919.shtml']
+快讯：医疗器械股回调 爱尔眼科下跌
+http://finance.sina.com.cn/stock/e/20140530/110219277919.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140530/110219277919.shtml
+[u'http://finance.sina.com.cn/stock/e/20140528/141819252357.shtml']
+快讯：医疗器械板块涨 理邦仪器大涨
+http://finance.sina.com.cn/stock/e/20140528/141819252357.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140528/141819252357.shtml
+[u'http://finance.sina.com.cn/china/20140528/101019250014.shtml']
+国办:加快推动公立医院改革 推动社会办医
+http://finance.sina.com.cn/china/20140528/101019250014.shtml
+request Y href http://finance.sina.com.cn/china/20140528/101019250014.shtml
+[u'http://finance.sina.com.cn/money/fund/20140527/053919232624.shtml']
+基金2000点逐渐看多 加仓军工医药新能源
+http://finance.sina.com.cn/money/fund/20140527/053919232624.shtml
+request Y href http://finance.sina.com.cn/money/fund/20140527/053919232624.shtml
+[u'http://finance.sina.com.cn/money/fund/20140527/020619231357.shtml']
+新基金热衷发行行业基金
+http://finance.sina.com.cn/money/fund/20140527/020619231357.shtml
+request Y href http://finance.sina.com.cn/money/fund/20140527/020619231357.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140526/102619225173.shtml']
+快讯：沪指窄幅震荡 医疗器械股领涨两市
+http://finance.sina.com.cn/stock/jsy/20140526/102619225173.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140526/102619225173.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140526/100519224861.shtml']
+快讯：高端医疗设备国产化加速 医疗器械股大涨
+http://finance.sina.com.cn/stock/gujiayidong/20140526/100519224861.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140526/100519224861.shtml
+[u'http://finance.sina.com.cn/stock/e/20140523/141919207454.shtml']
+快讯：医疗器械板块涨 千山药机涨停
+http://finance.sina.com.cn/stock/e/20140523/141919207454.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140523/141919207454.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140523/024219198969.shtml']
+医疗器械板块逆市涨2.54% 三主线布局投资机会
+http://finance.sina.com.cn/stock/hyyj/20140523/024219198969.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140523/024219198969.shtml
+[u'http://finance.sina.com.cn/stock/s/20140522/172619195535.shtml']
+5月22日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140522/172619195535.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140522/172619195535.shtml
+[u'http://finance.sina.com.cn/stock/e/20140522/104319191609.shtml']
+快讯：医疗器械板块涨 理邦仪器大涨
+http://finance.sina.com.cn/stock/e/20140522/104319191609.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140522/104319191609.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140723/092019793176.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140721/083619768809.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140722/112219782992.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140522/101619191236.shtml']
+快讯：医疗保健板块走强 泰格医药领涨
+http://finance.sina.com.cn/stock/gujiayidong/20140522/101619191236.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140522/101619191236.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140521/101519177525.shtml']
+贵州百灵研制产品具降血糖作用 盘中一度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140521/101519177525.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140521/101519177525.shtml
+[u'http://finance.sina.com.cn/money/fund/20140521/071919174363.shtml']
+基金配置医药近历史高位 投资思路现分化
+http://finance.sina.com.cn/money/fund/20140521/071919174363.shtml
+request Y href http://finance.sina.com.cn/money/fund/20140521/071919174363.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140520/134219165831.shtml']
+计划收购基因生物公司 千山药机一度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140520/134219165831.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140520/134219165831.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140520/103219163955.shtml']
+三精制药董事长跳楼身亡 哈药股份跳水大跌
+http://finance.sina.com.cn/stock/gujiayidong/20140520/103219163955.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140520/103219163955.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140520/101519163719.shtml']
+医疗保健板块走强 阳普医疗涨逾4%
+http://finance.sina.com.cn/stock/jsy/20140520/101519163719.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140520/101519163719.shtml
+[u'http://finance.sina.com.cn/stock/e/20140520/101219163685.shtml']
+医疗保健板块走强 阳普医疗大涨
+http://finance.sina.com.cn/stock/e/20140520/101219163685.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140520/101219163685.shtml
+[u'http://finance.sina.com.cn/stock/t/20140520/100219163564.shtml']
+医疗保健板块走强 阳普医疗涨逾4%
+http://finance.sina.com.cn/stock/t/20140520/100219163564.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140520/100219163564.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140516/134519132770.shtml']
+快讯：医疗板块下挫 尚荣医疗跌逾8%
+http://finance.sina.com.cn/stock/gujiayidong/20140516/134519132770.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140516/134519132770.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140516/103519131017.shtml']
+我武生物拟10转6派3元 盘中一度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140516/103519131017.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140516/103519131017.shtml
+[u'http://finance.sina.com.cn/stock/e/20140516/100919130286.shtml']
+快讯：医疗器械板块跌 迪安诊断下跌
+http://finance.sina.com.cn/stock/e/20140516/100919130286.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140516/100919130286.shtml
+[u'http://finance.sina.com.cn/stock/t/20140513/163619093561.shtml']
+[路演]阳普医疗:目前尚未进军血液透析领域
+http://finance.sina.com.cn/stock/t/20140513/163619093561.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140513/163619093561.shtml
+[u'http://finance.sina.com.cn/stock/s/20140513/070219085578.shtml']
+股海导航 5月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140513/070219085578.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140513/070219085578.shtml
+[u'http://finance.sina.com.cn/stock/t/20140513/025019083883.shtml']
+山东蓝帆塑胶股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140513/025019083883.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140513/025019083883.shtml
+[u'http://finance.sina.com.cn/stock/t/20140513/011019082611.shtml']
+山东蓝帆塑胶股份有限公司第二届董事会第四十三次会议决议公告
+http://finance.sina.com.cn/stock/t/20140513/011019082611.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140513/011019082611.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140724/084119804627.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140724/111819806681.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140821/133920080257.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140822/135120092549.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140512/171419080309.shtml']
+5月12日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140512/171419080309.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140512/171419080309.shtml
+[u'http://finance.sina.com.cn/stock/s/20140509/123119056879.shtml']
+午间公告：普邦园林非公开发行股票申请获受理
+http://finance.sina.com.cn/stock/s/20140509/123119056879.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140509/123119056879.shtml
+[u'http://finance.sina.com.cn/stock/t/20140509/122119056833.shtml']
+阳普医疗遭省医保减持166万股
+http://finance.sina.com.cn/stock/t/20140509/122119056833.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140509/122119056833.shtml
+[u'http://finance.sina.com.cn/stock/t/20140509/121819056824.shtml']
+阳普医疗遭股东减持166万股
+http://finance.sina.com.cn/stock/t/20140509/121819056824.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140509/121819056824.shtml
+[u'http://finance.sina.com.cn/stock/t/20140509/120519056894.shtml']
+[公司]阳普医疗股东减持166万股 占股本0.92%
+http://finance.sina.com.cn/stock/t/20140509/120519056894.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140509/120519056894.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140825/171820112981.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140826/041020117084.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140827/104120134803.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140620/031319467383.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140522/104319191609.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140523/024219198969.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140523/141919207454.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140526/100519224861.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140526/102619225173.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140522/172619195535.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20140527/020619231357.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20140527/053919232624.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140528/101019250014.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140528/141819252357.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140530/110219277919.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140603/005319293165.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140513/011019082611.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140513/025019083883.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140509/120519056894.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140509/121819056824.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140509/122119056833.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140513/070219085578.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140509/123119056879.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140513/163619093561.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140516/100919130286.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140516/103519131017.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140512/171419080309.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140516/134519132770.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=8完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/e/20140509/110019056090.shtml']
+快讯：医疗器械板块跌 泰格医药大跌
+http://finance.sina.com.cn/stock/e/20140509/110019056090.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140509/110019056090.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140520/100219163564.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140520/101219163685.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140520/101519163719.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/e/20140507/135419029533.shtml']
+快讯：医疗器械板块跌 迪安诊断跌
+http://finance.sina.com.cn/stock/e/20140507/135419029533.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140507/135419029533.shtml
+[u'http://finance.sina.com.cn/stock/e/20140506/110219014997.shtml']
+快讯：医疗器械板块涨 宝莱特大涨
+http://finance.sina.com.cn/stock/e/20140506/110219014997.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140506/110219014997.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140505/133819003293.shtml']
+精华制药非公开发行股票获批复 午后复牌涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140505/133819003293.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140505/133819003293.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140502/134318986685.shtml']
+一季报披露收官 医药行业收获靓丽成绩单
+http://finance.sina.com.cn/stock/hyyj/20140502/134318986685.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140502/134318986685.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140425/094718920984.shtml']
+快讯：医疗保健板块下挫 鱼跃医疗跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140425/094718920984.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140425/094718920984.shtml
+[u'http://finance.sina.com.cn/stock/t/20140424/161218910945.shtml']
+4月24日晚间沪深上市公司重大公告速递(更新中)
+http://finance.sina.com.cn/stock/t/20140424/161218910945.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140424/161218910945.shtml
+[u'http://finance.sina.com.cn/stock/e/20140424/141218909564.shtml']
+快讯：医疗器械板块跌 鱼跃医疗近跌停
+http://finance.sina.com.cn/stock/e/20140424/141218909564.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140424/141218909564.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140424/140318909471.shtml']
+快讯：医疗保健板块重挫 阳普医疗跌逾7%
+http://finance.sina.com.cn/stock/gujiayidong/20140424/140318909471.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140424/140318909471.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140424/095318907070.shtml']
+大股东拟接盘华润万东 鱼跃医疗复牌跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140424/095318907070.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140424/095318907070.shtml
+[u'http://finance.sina.com.cn/stock/t/20140423/041018887774.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140423/041018887774.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140423/041018887774.shtml
+[u'http://finance.sina.com.cn/stock/t/20140423/014218886646.shtml']
+广州阳普医疗科技股份有限公司关于披露2014年第一季度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20140423/014218886646.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140423/014218886646.shtml
+[u'http://finance.sina.com.cn/stock/t/20140422/221118885193.shtml']
+[季报]阳普医疗一季净利654.8万 同比增116%
+http://finance.sina.com.cn/stock/t/20140422/221118885193.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140422/221118885193.shtml
+[u'http://finance.sina.com.cn/stock/t/20140422/201618884521.shtml']
+阳普医疗今年首季净利增长116%
+http://finance.sina.com.cn/stock/t/20140422/201618884521.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140422/201618884521.shtml
+[u'http://finance.sina.com.cn/stock/t/20140422/200918884439.shtml']
+阳普医疗今年首季净利增长116%
+http://finance.sina.com.cn/stock/t/20140422/200918884439.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140422/200918884439.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140422/140618880805.shtml']
+快讯：医疗保健板块全线重挫 新华医疗跌近9%
+http://finance.sina.com.cn/stock/gujiayidong/20140422/140618880805.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140422/140618880805.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140520/103219163955.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140520/134219165831.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20140521/071919174363.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140521/101519177525.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140522/101619191236.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140603/174119301871.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140605/182919326474.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml']
+股海导航 4月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml
+[u'http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml']
+4月20日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml
+[u'http://finance.sina.com.cn/stock/e/20140416/145118818361.shtml']
+快讯：医疗器械板块跌 九安医疗大跌
+http://finance.sina.com.cn/stock/e/20140416/145118818361.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140416/145118818361.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml']
+广东省长：粤港澳自贸区设想获中央支持
+http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140412/094418779742.shtml']
+医疗器械股再添利好 基金重仓驻扎16只股(附股)
+http://finance.sina.com.cn/stock/hyyj/20140412/094418779742.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140412/094418779742.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140410/073418754936.shtml']
+王亚伟连续加仓华润万东 资金追捧医疗器械股
+http://finance.sina.com.cn/stock/hyyj/20140410/073418754936.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140410/073418754936.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140410/023018751732.shtml']
+民营医疗价格放开 概念股全线飘红
+http://finance.sina.com.cn/stock/hyyj/20140410/023018751732.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140410/023018751732.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140409/103118744653.shtml']
+快讯：医疗器械概念股活跃 九安医疗涨逾7%
+http://finance.sina.com.cn/stock/gujiayidong/20140409/103118744653.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140409/103118744653.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140408/035918729064.shtml']
+38只自然人概念股年内涨幅逾50% 计算机等三行业受垂青
+http://finance.sina.com.cn/stock/hyyj/20140408/035918729064.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140408/035918729064.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140408/011118727632.shtml']
+104家年报药企83家净利润增长 医疗器械板块硕果累累
+http://finance.sina.com.cn/stock/hyyj/20140408/011118727632.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140408/011118727632.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140402/134818691269.shtml']
+快讯：医疗保健板块集体下跌 爱尔眼科跌逾6%
+http://finance.sina.com.cn/stock/gujiayidong/20140402/134818691269.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140402/134818691269.shtml
+[u'http://finance.sina.com.cn/stock/e/20140402/102618689753.shtml']
+快讯：医疗器械股走势不佳 三诺生物领跌
+http://finance.sina.com.cn/stock/e/20140402/102618689753.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140402/102618689753.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140605/185019326679.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140331/104818665235.shtml']
+医疗器械监督管理条例正式公布 概念股望受捧
+http://finance.sina.com.cn/stock/hyyj/20140331/104818665235.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140331/104818665235.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml']
+广东正积极申报自贸区 制定两份清单
+http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140331/021218659447.shtml']
+国家拟对医疗器械行业分类监管 将掀并购重组高潮
+http://finance.sina.com.cn/chanjing/cyxw/20140331/021218659447.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140331/021218659447.shtml
+[u'http://finance.sina.com.cn/stock/t/20140328/171718648840.shtml']
+[公司]阳普医疗股东减持644万股 占总股本5%
+http://finance.sina.com.cn/stock/t/20140328/171718648840.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140328/171718648840.shtml
+[u'http://finance.sina.com.cn/stock/t/20140328/160918647889.shtml']
+阳普医疗遭省医保累计减持5%股份
+http://finance.sina.com.cn/stock/t/20140328/160918647889.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140328/160918647889.shtml
+[u'http://finance.sina.com.cn/stock/e/20140328/103318644723.shtml']
+医疗器械板块全线受挫 三诺生物领跌
+http://finance.sina.com.cn/stock/e/20140328/103318644723.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140328/103318644723.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140328/095818644168.shtml']
+快讯：医疗器械重挫逾2% 三诺生物逼近跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140328/095818644168.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140328/095818644168.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20140326/153818620888.shtml']
+机构连续三季度增持47只股 关注乐山电力等
+http://finance.sina.com.cn/stock/zldx/20140326/153818620888.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20140326/153818620888.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140324/100018592990.shtml']
+快讯：医疗器械全线飘绿 尚荣医疗跌5%
+http://finance.sina.com.cn/stock/gujiayidong/20140324/100018592990.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140324/100018592990.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140324/050918590182.shtml']
+解密30股暴涨幕后原因
+http://finance.sina.com.cn/stock/companyresearch/20140324/050918590182.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140324/050918590182.shtml
+[u'http://finance.sina.com.cn/stock/t/20140323/171118587462.shtml']
+周末利好消息一览（更新中）
+http://finance.sina.com.cn/stock/t/20140323/171118587462.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140323/171118587462.shtml
+[u'http://finance.sina.com.cn/stock/s/20140322/040618582312.shtml']
+近八成公司拟派红包 5只高送转强势股有“钱”途
+http://finance.sina.com.cn/stock/s/20140322/040618582312.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140322/040618582312.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140609/090519352481.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140609/090519353104.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140610/062219361526.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140509/110019056090.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140422/221118885193.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140423/014218886646.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140422/140618880805.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140422/200918884439.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140422/201618884521.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140423/041018887774.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140424/095318907070.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140424/140318909471.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140424/141218909564.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140424/161218910945.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140425/094718920984.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140502/134318986685.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140505/133819003293.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140402/102618689753.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140402/134818691269.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140408/011118727632.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140322/040618582312.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140323/171118587462.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140324/050918590182.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140324/100018592990.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20140326/153818620888.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140328/095818644168.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140328/103318644723.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140328/160918647889.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140328/171718648840.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140331/021218659447.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=9完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/e/20140321/101218575391.shtml']
+快讯：医疗器械板块跌 三诺生物大跌
+http://finance.sina.com.cn/stock/e/20140321/101218575391.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140321/101218575391.shtml
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140331/104818665235.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140408/035918729064.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140321/094818574813.shtml']
+快讯：医疗器械重挫逾3% 三诺生物跌6%
+http://finance.sina.com.cn/stock/gujiayidong/20140321/094818574813.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140321/094818574813.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140320/150618565516.shtml']
+阳普医疗:集团化整合开始
+http://finance.sina.com.cn/stock/companyresearch/20140320/150618565516.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140320/150618565516.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457_2.shtml']
+明日最具爆发力六大牛股(2)
+http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457_2.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457_2.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457.shtml']
+明日最具爆发力六大牛股
+http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20140320/022318557368.shtml']
+牛散赵建平重仓5股赚9600万 造富神话或是团队
+http://finance.sina.com.cn/stock/zldx/20140320/022318557368.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20140320/022318557368.shtml
+[u'http://finance.sina.com.cn/stock/t/20140319/185518555023.shtml']
+阳普医疗遭省医保累计减持约1%股份
+http://finance.sina.com.cn/stock/t/20140319/185518555023.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140319/185518555023.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140409/103118744653.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140410/023018751732.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140410/073418754936.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140412/094418779742.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140416/145118818361.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/companyresearch/20140319/145718553218.shtml']
+明日最具爆发力六大牛股
+http://finance.sina.com.cn/stock/companyresearch/20140319/145718553218.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140319/145718553218.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140319/141018552657.shtml']
+快讯：医疗器械拉升 乐普医疗冲击涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140319/141018552657.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140319/141018552657.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140319/135918552572.shtml']
+阳普医疗：迎接业绩加速增长期的到来
+http://finance.sina.com.cn/stock/companyresearch/20140319/135918552572.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140319/135918552572.shtml
+[u'http://finance.sina.com.cn/stock/t/20140319/080618549039.shtml']
+3月19日早间深市创业板公告汇总
+http://finance.sina.com.cn/stock/t/20140319/080618549039.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140319/080618549039.shtml
+[u'http://finance.sina.com.cn/stock/t/20140319/032418545612.shtml']
+广州阳普医疗科技股份有限公司关于披露2013年年度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20140319/032418545612.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140319/032418545612.shtml
+[u'http://finance.sina.com.cn/stock/t/20140319/011018544129.shtml']
+广州阳普医疗科技股份有限公司关于披露2013年年度报告的提示性公告
+http://finance.sina.com.cn/stock/t/20140319/011018544129.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140319/011018544129.shtml
+[u'http://finance.sina.com.cn/stock/t/20140318/212718543429.shtml']
+3月18日晚间深市创业板公告一览
+http://finance.sina.com.cn/stock/t/20140318/212718543429.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140318/212718543429.shtml
+[u'http://finance.sina.com.cn/stock/t/20140318/210118546503.shtml']
+[年报]阳普医疗去年利增两成 拟10转10派0.5元
+http://finance.sina.com.cn/stock/t/20140318/210118546503.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140318/210118546503.shtml
+[u'http://finance.sina.com.cn/stock/t/20140318/201518543107.shtml']
+阳普医疗首季业绩预增100%至130% 年报拟10转10派0.5
+http://finance.sina.com.cn/stock/t/20140318/201518543107.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140318/201518543107.shtml
+[u'http://finance.sina.com.cn/stock/s/20140318/164018541873.shtml']
+解密35股涨停内幕：重组及新型城镇化题材火爆
+http://finance.sina.com.cn/stock/s/20140318/164018541873.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140318/164018541873.shtml
+[u'http://finance.sina.com.cn/stock/e/20140318/102718538462.shtml']
+快讯：医疗器械板块大涨 阳普医疗涨停
+http://finance.sina.com.cn/stock/e/20140318/102718538462.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140318/102718538462.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140318/102718538463.shtml']
+医疗器械飙涨 阳普医疗再度涨停
+http://finance.sina.com.cn/stock/jsy/20140318/102718538463.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140318/102718538463.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140318/101218538318.shtml']
+快讯：医疗器械飙涨 阳普医疗再度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140318/101218538318.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140318/101218538318.shtml
+[u'http://finance.sina.com.cn/stock/t/20140318/081418536505.shtml']
+医疗器械专项整治启动 相关上市公司有望从中受益
+http://finance.sina.com.cn/stock/t/20140318/081418536505.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140318/081418536505.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140318/035518533922.shtml']
+医疗器械进入政策甜蜜期 5000万资金涌入3股
+http://finance.sina.com.cn/stock/hyyj/20140318/035518533922.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140318/035518533922.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140318/024318533241.shtml']
+食药监总局出手严 打倒逼医疗器械行业整合加速
+http://finance.sina.com.cn/stock/hyyj/20140318/024318533241.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140318/024318533241.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140318/022918532997.shtml']
+“五整治”专项行动启动 医疗器械龙头有望受益
+http://finance.sina.com.cn/stock/hyyj/20140318/022918532997.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140318/022918532997.shtml
+[u'http://finance.sina.com.cn/stock/s/20140317/161918529832.shtml']
+解密40股涨停内幕：新型城镇化概念集体爆发
+http://finance.sina.com.cn/stock/s/20140317/161918529832.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140317/161918529832.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140317/135018528511.shtml']
+快讯：医疗器械飙涨 阳普医疗午后强势涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140317/135018528511.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140317/135018528511.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140317/115018527914.shtml']
+新规明确优先发展县级医院 医疗器械股望受益
+http://finance.sina.com.cn/stock/hyyj/20140317/115018527914.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140317/115018527914.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140317/111818527473.shtml']
+快讯：医疗器械再受追捧 阳普医疗涨近8%
+http://finance.sina.com.cn/stock/gujiayidong/20140317/111818527473.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140317/111818527473.shtml
+[u'http://finance.sina.com.cn/stock/e/20140317/103518527082.shtml']
+快讯：医疗器械板块涨 阳普医疗大涨
+http://finance.sina.com.cn/stock/e/20140317/103518527082.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140317/103518527082.shtml
+[u'http://finance.sina.com.cn/stock/e/20140314/100418508824.shtml']
+快讯：医疗器械板块涨 阳普医疗大涨
+http://finance.sina.com.cn/stock/e/20140314/100418508824.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140314/100418508824.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140314/013218502604.shtml']
+医药公司业绩丰收 医疗器械异军突起
+http://finance.sina.com.cn/stock/hyyj/20140314/013218502604.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140314/013218502604.shtml
+[u'http://finance.sina.com.cn/stock/e/20140313/142618498816.shtml']
+快讯：医疗器械板块涨 乐普医疗大涨
+http://finance.sina.com.cn/stock/e/20140313/142618498816.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140313/142618498816.shtml
+[u'http://finance.sina.com.cn/stock/e/20140311/145718473896.shtml']
+医疗保健板块走弱 阳普医疗大跌
+http://finance.sina.com.cn/stock/e/20140311/145718473896.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140311/145718473896.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140311/145118473834.shtml']
+医疗保健板块走弱 阳普医疗跌逾5%
+http://finance.sina.com.cn/stock/jsy/20140311/145118473834.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140311/145118473834.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20140311/101018471194.shtml']
+机构动向：买入众信旅游 卖出海王生物
+http://finance.sina.com.cn/stock/zldx/20140311/101018471194.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20140311/101018471194.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140506/110219014997.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140507/135419029533.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140321/101218575391.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml']
+两会现场传佳音 广东自贸区概念股逆市逞强
+http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml
+[u'http://finance.sina.com.cn/stock/e/20140307/105018437939.shtml']
+快讯：医疗器械板块活跃 乐普医疗大涨
+http://finance.sina.com.cn/stock/e/20140307/105018437939.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140307/105018437939.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140307/103218437719.shtml']
+快讯：医疗器械板块表现活跃 乐普医疗涨逾8%
+http://finance.sina.com.cn/stock/gujiayidong/20140307/103218437719.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140307/103218437719.shtml
+[u'http://finance.sina.com.cn/china/20140306/133218426128.shtml']
+习近平谈广东结构调整：腾笼换鸟 凤凰涅槃
+http://finance.sina.com.cn/china/20140306/133218426128.shtml
+request Y href http://finance.sina.com.cn/china/20140306/133218426128.shtml
+[u'http://finance.sina.com.cn/stock/e/20140306/102518424364.shtml']
+快讯：医疗器械板块跌 宝莱特下跌
+http://finance.sina.com.cn/stock/e/20140306/102518424364.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140306/102518424364.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140321/094818574813.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140319/185518555023.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20140320/022318557368.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140320/150418565457_2.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140320/150618565516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140318/024318533241.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140318/035518533922.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140318/081418536505.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140318/101218538318.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140318/102718538463.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140318/102718538462.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140318/164018541873.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140318/201518543107.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140318/210118546503.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140318/212718543429.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20140311/101018471194.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140311/145118473834.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140311/145718473896.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140313/142618498816.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140314/013218502604.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140314/100418508824.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140306/102518424364.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140306/133218426128.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140307/103218437719.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140307/105018437939.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140317/103518527082.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140317/111818527473.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140317/115018527914.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140317/135018528511.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140317/161918529832.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=10完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140306/101918424225.shtml']
+快讯：医疗器械全线走低 宝莱特跌6%
+http://finance.sina.com.cn/stock/gujiayidong/20140306/101918424225.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140306/101918424225.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140318/022918532997.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140319/011018544129.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140319/032418545612.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140319/080618549039.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140319/135918552572.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140319/141018552657.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml']
+资产注入预期升温 广东国资股受追捧
+http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140305/074618407771.shtml']
+阳普医疗：国际化大门开启
+http://finance.sina.com.cn/stock/companyresearch/20140305/074618407771.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140305/074618407771.shtml
+[u'http://finance.sina.com.cn/stock/t/20140305/010018403918.shtml']
+■评级简报
+http://finance.sina.com.cn/stock/t/20140305/010018403918.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140305/010018403918.shtml
+[u'http://finance.sina.com.cn/stock/e/20140304/104918398286.shtml']
+快讯：医疗器械板块涨 三诺生物大涨
+http://finance.sina.com.cn/stock/e/20140304/104918398286.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140304/104918398286.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140304/101218397769.shtml']
+快讯：医疗器械再受追捧 通策医疗领涨
+http://finance.sina.com.cn/stock/gujiayidong/20140304/101218397769.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140304/101218397769.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140303/170018389057.shtml']
+59只高送转股获基金提前潜伏(名单)
+http://finance.sina.com.cn/stock/companyresearch/20140303/170018389057.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140303/170018389057.shtml
+[u'http://finance.sina.com.cn/stock/t/20140303/141418387086.shtml']
+医疗器械步入收购兼并高潮期 概念股有望受益
+http://finance.sina.com.cn/stock/t/20140303/141418387086.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140303/141418387086.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml']
+广东国资改革盛宴开席 三领域受益股有望成淘金乐土
+http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml
+[u'http://finance.sina.com.cn/stock/s/20140228/202218370557.shtml']
+2月28日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140228/202218370557.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140228/202218370557.shtml
+[u'http://finance.sina.com.cn/stock/t/20140228/180618369949.shtml']
+阳普医疗拟美国设立医疗器械子公司 布局高端市场
+http://finance.sina.com.cn/stock/t/20140228/180618369949.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140228/180618369949.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140228/104218365812.shtml']
+快讯：医疗器械板块全线重挫 九安医疗逼近跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140228/104218365812.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140228/104218365812.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml']
+广东国资改革进入实操阶段 首批推出54个项目
+http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml']
+广东国企改革已启动 政策利好刺激投资机会
+http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml']
+广东国资混合制提速：千亿国有股权引入民资
+http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml
+[u'http://finance.sina.com.cn/stock/e/20140227/142518353873.shtml']
+快讯：医疗器械板块大跌 宝莱特跌停
+http://finance.sina.com.cn/stock/e/20140227/142518353873.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140227/142518353873.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140227/131818353210.shtml']
+快讯：医疗器械板块大幅走低 宝莱特跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140227/131818353210.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140227/131818353210.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140227/093718350553.shtml']
+快讯：特斯拉概念继续强势 上海普天等多股涨停
+http://finance.sina.com.cn/stock/jsy/20140227/093718350553.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140227/093718350553.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140226/113718337217.shtml']
+快讯：九安医疗强势反弹 振幅达16%
+http://finance.sina.com.cn/stock/jsy/20140226/113718337217.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140226/113718337217.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140319/145718553218.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140226/082818334090.shtml']
+美股医疗保健板块领跑大市 A股医疗板块有望崛起
+http://finance.sina.com.cn/stock/t/20140226/082818334090.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/082818334090.shtml
+[u'http://finance.sina.com.cn/stock/e/20140225/111118322104.shtml']
+快讯：医疗器械板块涨 通策医疗冲涨停
+http://finance.sina.com.cn/stock/e/20140225/111118322104.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140225/111118322104.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140225/043018317668.shtml']
+两会召开在即 民营医院等医改三细分市场开始预热
+http://finance.sina.com.cn/stock/hyyj/20140225/043018317668.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140225/043018317668.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140219/021018257040.shtml']
+273只个股创历史新高 计算机医药及通信三行业领衔
+http://finance.sina.com.cn/stock/hyyj/20140219/021018257040.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140219/021018257040.shtml
+[u'http://finance.sina.com.cn/stock/e/20140217/142918236544.shtml']
+快讯：医疗器械板块大涨 凯利泰近涨停
+http://finance.sina.com.cn/stock/e/20140217/142918236544.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140217/142918236544.shtml
+[u'http://finance.sina.com.cn/china/20140217/010018227942.shtml']
+多地年内将提高医保筹资标准 专家称防基金超支
+http://finance.sina.com.cn/china/20140217/010018227942.shtml
+request Y href http://finance.sina.com.cn/china/20140217/010018227942.shtml
+[u'http://finance.sina.com.cn/stock/s/20140214/141518215288.shtml']
+95上市公司发布年报分红预案 拟派现35.71亿
+http://finance.sina.com.cn/stock/s/20140214/141518215288.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140214/141518215288.shtml
+[u'http://finance.sina.com.cn/stock/e/20140214/141418215226.shtml']
+医疗器械板块大幅走高 冠昊生物领涨
+http://finance.sina.com.cn/stock/e/20140214/141418215226.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140214/141418215226.shtml
+[u'http://finance.sina.com.cn/stock/e/20140213/144118201414.shtml']
+快讯：医疗器械板块跌 和佳股份大跌
+http://finance.sina.com.cn/stock/e/20140213/144118201414.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140213/144118201414.shtml
+[u'http://finance.sina.com.cn/china/20140213/023418192780.shtml']
+粤港澳自贸区范围有望扩大 白云机场保税区或纳入
+http://finance.sina.com.cn/china/20140213/023418192780.shtml
+request Y href http://finance.sina.com.cn/china/20140213/023418192780.shtml
+[u'http://finance.sina.com.cn/stock/s/20140213/013118192097.shtml']
+A股红包行情已开启 59家公司送出大红包
+http://finance.sina.com.cn/stock/s/20140213/013118192097.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140213/013118192097.shtml
+[u'http://finance.sina.com.cn/china/20140212/185718190055.shtml']
+国务院研究治理大气污染 审议通过医疗器械管理条例
+http://finance.sina.com.cn/china/20140212/185718190055.shtml
+request Y href http://finance.sina.com.cn/china/20140212/185718190055.shtml
+[u'http://finance.sina.com.cn/stock/s/20140211/161918175383.shtml']
+48家上市公司拟10转10 关注19只高增长绩优股
+http://finance.sina.com.cn/stock/s/20140211/161918175383.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140211/161918175383.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml']
+媒体称东莞形成色情产业链 年经济效益或达500亿
+http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml
+[u'http://finance.sina.com.cn/china/20140211/013918166313.shtml']
+县级公立医院改革再增700个试点县 明年全国推开
+http://finance.sina.com.cn/china/20140211/013918166313.shtml
+request Y href http://finance.sina.com.cn/china/20140211/013918166313.shtml
+[u'http://finance.sina.com.cn/stock/e/20140210/100618158970.shtml']
+快讯：医疗器械板块涨 九安医疗大涨
+http://finance.sina.com.cn/stock/e/20140210/100618158970.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140210/100618158970.shtml
+[u'http://finance.sina.com.cn/stock/e/20140207/143218144683.shtml']
+医疗器械板块爆发 九安医疗等涨停
+http://finance.sina.com.cn/stock/e/20140207/143218144683.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140207/143218144683.shtml
+[u'http://finance.sina.com.cn/stock/e/20140207/103518143089.shtml']
+快讯：医疗保健股大幅走强 阳普医疗领涨
+http://finance.sina.com.cn/stock/e/20140207/103518143089.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140207/103518143089.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140207/043118140782.shtml']
+机构纷纷摸底创业板:泽熙调研6企业 电科院受宠
+http://finance.sina.com.cn/stock/hyyj/20140207/043118140782.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140207/043118140782.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140207/042918140774.shtml']
+90家券商70家基金公司摸底创业板
+http://finance.sina.com.cn/stock/hyyj/20140207/042918140774.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140207/042918140774.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140130/134118126153.shtml']
+2014年三大板块成长前景可期
+http://finance.sina.com.cn/stock/hyyj/20140130/134118126153.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140130/134118126153.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140306/101918424225.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140226/113718337217.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140228/104218365812.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140227/093718350553.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140227/131818353210.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140227/142518353873.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140228/180618369949.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140228/202218370557.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140303/141418387086.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140303/170018389057.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140304/101218397769.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140304/104918398286.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140305/010018403918.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140130/134118126153.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140207/042918140774.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140207/043118140782.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140207/103518143089.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140207/143218144683.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140210/100618158970.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140211/013918166313.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=11完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/e/20140129/141518119047.shtml']
+医疗器械板块走势强劲 新华医疗大涨
+http://finance.sina.com.cn/stock/e/20140129/141518119047.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140129/141518119047.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140211/161918175383.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140212/185718190055.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140213/013118192097.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140213/023418192780.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140213/144118201414.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140214/141418215226.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140214/141518215288.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140217/010018227942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140129/013418113610.shtml']
+机构调研“问药”觅良机 未来经营拓展成焦点
+http://finance.sina.com.cn/stock/hyyj/20140129/013418113610.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140129/013418113610.shtml
+[u'http://finance.sina.com.cn/stock/s/20140128/091118107158.shtml']
+高送转俱乐部大扩容 38家公司拟转增不低于10股
+http://finance.sina.com.cn/stock/s/20140128/091118107158.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140128/091118107158.shtml
+[u'http://finance.sina.com.cn/stock/companyresearch/20140122/150318045831.shtml']
+明日最具爆发力六大牛股
+http://finance.sina.com.cn/stock/companyresearch/20140122/150318045831.shtml
+request Y href http://finance.sina.com.cn/stock/companyresearch/20140122/150318045831.shtml
+[u'http://finance.sina.com.cn/stock/t/20140122/081618040176.shtml']
+1月22日早间深市创业板公告汇总
+http://finance.sina.com.cn/stock/t/20140122/081618040176.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140122/081618040176.shtml
+[u'http://finance.sina.com.cn/stock/s/20140122/051218037555.shtml']
+49家公司公布利润分配预案 创业板频现高送转
+http://finance.sina.com.cn/stock/s/20140122/051218037555.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140122/051218037555.shtml
+[u'http://finance.sina.com.cn/stock/t/20140121/215218033467.shtml']
+1月21日晚间深市创业板公告一览
+http://finance.sina.com.cn/stock/t/20140121/215218033467.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140121/215218033467.shtml
+[u'http://finance.sina.com.cn/stock/t/20140121/212518033413.shtml']
+[公司]阳普医疗去年利增24% 拟10转10派0.5元
+http://finance.sina.com.cn/stock/t/20140121/212518033413.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140121/212518033413.shtml
+[u'http://finance.sina.com.cn/stock/t/20140121/212518033358.shtml']
+1月21日晚间披露高送转方案公司一览
+http://finance.sina.com.cn/stock/t/20140121/212518033358.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140121/212518033358.shtml
+[u'http://finance.sina.com.cn/stock/t/20140121/202118033158.shtml']
+阳普医疗去年净利增逾两成 拟10转10派0.5
+http://finance.sina.com.cn/stock/t/20140121/202118033158.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140121/202118033158.shtml
+[u'http://finance.sina.com.cn/stock/t/20140121/195118032928.shtml']
+阳普医疗2013年度业绩同比增长24% 拟10转10派0.5元
+http://finance.sina.com.cn/stock/t/20140121/195118032928.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140121/195118032928.shtml
+[u'http://finance.sina.com.cn/stock/s/20140121/160218031102.shtml']
+1月21日晚间利好消息汇总
+http://finance.sina.com.cn/stock/s/20140121/160218031102.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140121/160218031102.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml']
+广东国资改革顶层设计方案将加速出炉
+http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20140117/005917980757.shtml']
+救命心脏支架暴利超贩毒：1支架医药回扣数千元
+http://finance.sina.com.cn/consume/puguangtai/20140117/005917980757.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20140117/005917980757.shtml
+[u'http://finance.sina.com.cn/stock/e/20140114/110717946712.shtml']
+快讯：医疗器械板块涨 鱼跃医疗大涨
+http://finance.sina.com.cn/stock/e/20140114/110717946712.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140114/110717946712.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140110/052017906632.shtml']
+强生不满商标被撤连夜商议上诉 遭18亿巨额索赔
+http://finance.sina.com.cn/chanjing/gsnews/20140110/052017906632.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140110/052017906632.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140110/020217903985.shtml']
+甘李药业7名药代涉商业贿赂被批捕 医生退赃数百万
+http://finance.sina.com.cn/chanjing/gsnews/20140110/020217903985.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140110/020217903985.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140109/102617897255.shtml']
+强生赌输血糖试纸商标案：20亿市场或被瓜分
+http://finance.sina.com.cn/chanjing/gsnews/20140109/102617897255.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140109/102617897255.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140109/053617891298.shtml']
+强生血糖试纸商标被撤销面临下架 成本2毛卖4元
+http://finance.sina.com.cn/chanjing/gsnews/20140109/053617891298.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140109/053617891298.shtml
+[u'http://finance.sina.com.cn/china/20140107/013417860799.shtml']
+药代年会往年酒店跳骑马舞 今年低调在家看视频
+http://finance.sina.com.cn/china/20140107/013417860799.shtml
+request Y href http://finance.sina.com.cn/china/20140107/013417860799.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml']
+佛山富士康厂迁出社区顿时荒芜:商铺几天关一个
+http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140103/022817828635.shtml']
+进口医疗器械暴利之旅：出厂到患者加价300%
+http://finance.sina.com.cn/chanjing/cyxw/20140103/022817828635.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140103/022817828635.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140103/020517828412.shtml']
+海南海药人工耳蜗真伪：购国外样机破解是公开秘密
+http://finance.sina.com.cn/chanjing/gsnews/20140103/020517828412.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140103/020517828412.shtml
+[u'http://finance.sina.com.cn/china/20131226/023917752800.shtml']
+广州国土房管局回应取消限购说：与限购不矛盾
+http://finance.sina.com.cn/china/20131226/023917752800.shtml
+request Y href http://finance.sina.com.cn/china/20131226/023917752800.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml']
+广州酝酿楼市取消限购限价 业内称可能性不大
+http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml']
+广州称将探索逐步取消房地产限价限购
+http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml
+[u'http://finance.sina.com.cn/china/20131224/013117726006.shtml']
+粤港澳自贸区方案已上报国务院 范围将超上海
+http://finance.sina.com.cn/china/20131224/013117726006.shtml
+request Y href http://finance.sina.com.cn/china/20131224/013117726006.shtml
+[u'http://finance.sina.com.cn/stock/e/20131223/141317721546.shtml']
+快讯：医疗器械板块涨 戴维医疗近涨停
+http://finance.sina.com.cn/stock/e/20131223/141317721546.shtml
+request Y href http://finance.sina.com.cn/stock/e/20131223/141317721546.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20131220/034917694140.shtml']
+重拳扶持环保产业 三大细分领域最受益
+http://finance.sina.com.cn/stock/hyyj/20131220/034917694140.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20131220/034917694140.shtml
+[u'http://finance.sina.com.cn/stock/s/20131217/032017653456.shtml']
+上海医药被曝行贿青岛31医院 销售流向成迷
+http://finance.sina.com.cn/stock/s/20131217/032017653456.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131217/032017653456.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20131212/042017607506.shtml']
+A股公司逐一回应雾霾概念
+http://finance.sina.com.cn/stock/hyyj/20131212/042017607506.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20131212/042017607506.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140217/142918236544.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140219/021018257040.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140225/043018317668.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140225/111118322104.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/082818334090.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140305/074618407771.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20131210/051317581947.shtml']
+“涨价”概念股逆市走强 医药等三板块迎新商机
+http://finance.sina.com.cn/stock/hyyj/20131210/051317581947.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20131210/051317581947.shtml
+[u'http://finance.sina.com.cn/stock/t/20131206/201217558163.shtml']
+[公司]阳普医疗:将陆续推出PM2.5系列产品
+http://finance.sina.com.cn/stock/t/20131206/201217558163.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131206/201217558163.shtml
+[u'http://finance.sina.com.cn/stock/t/20131205/214717544223.shtml']
+12月5日晚间两市增持减持公告一览
+http://finance.sina.com.cn/stock/t/20131205/214717544223.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131205/214717544223.shtml
+[u'http://finance.sina.com.cn/stock/t/20131205/205717544052.shtml']
+阳普医疗遭股东省医保减持155.2万股
+http://finance.sina.com.cn/stock/t/20131205/205717544052.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131205/205717544052.shtml
+[u'http://finance.sina.com.cn/stock/usstock/gsyj/20131205/160417542219.shtml']
+券商最新评级：9股逢低布局待飙涨
+http://finance.sina.com.cn/stock/usstock/gsyj/20131205/160417542219.shtml
+request Y href http://finance.sina.com.cn/stock/usstock/gsyj/20131205/160417542219.shtml
+[u'http://finance.sina.com.cn/stock/e/20131205/095917538554.shtml']
+快讯：医疗器械板块跌 东富龙领跌
+http://finance.sina.com.cn/stock/e/20131205/095917538554.shtml
+request Y href http://finance.sina.com.cn/stock/e/20131205/095917538554.shtml
+[u'http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_3.shtml']
+明日最具爆发力六大牛股(3)
+http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_3.shtml
+request Y href http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_3.shtml
+[u'http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_2.shtml']
+明日最具爆发力六大牛股(2)
+http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_2.shtml
+request Y href http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_2.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20131203/093717511389.shtml']
+商务部官员：粤港澳自贸区或最先获批
+http://finance.sina.com.cn/china/dfjj/20131203/093717511389.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131203/093717511389.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140129/141518119047.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140110/020217903985.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140110/052017906632.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140114/110717946712.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20140117/005917980757.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140121/160218031102.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140121/195118032928.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140121/202118033158.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140121/212518033358.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140121/212518033413.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140121/215218033467.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140122/051218037555.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140122/081618040176.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/companyresearch/20140122/150318045831.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140128/091118107158.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20131212/042017607506.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131203/093717511389.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_2.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/usstock/gsyj/20131204/150617527457_3.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20131205/095917538554.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/usstock/gsyj/20131205/160417542219.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131205/205717544052.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131205/214717544223.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131206/201217558163.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300030&Page=12完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20131203/010017505069.shtml']
+千山药机转型医疗器械领域 无菌采血管明年出货
+http://finance.sina.com.cn/stock/s/20131203/010017505069.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131203/010017505069.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20131210/051317581947.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131217/032017653456.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20131220/034917694140.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20131223/141317721546.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20131224/013117726006.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/china/dfjj/20131202/022017493201.shtml']
+广州2593亿政府负债怎么还：专家建议可资产变现
+http://finance.sina.com.cn/china/dfjj/20131202/022017493201.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131202/022017493201.shtml
+[u'http://finance.sina.com.cn/stock/t/20131129/211617483949.shtml']
+11月29日晚间重要增减持公告一览
+http://finance.sina.com.cn/stock/t/20131129/211617483949.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131129/211617483949.shtml
+[u'http://finance.sina.com.cn/stock/t/20131129/204217483898.shtml']
+阳普医疗再遭科创投减持140万股
+http://finance.sina.com.cn/stock/t/20131129/204217483898.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131129/204217483898.shtml
+[u'http://finance.sina.com.cn/stock/s/20131129/191817483419.shtml']
+阳普医疗遭减持140万股 11月累计减持489万股
+http://finance.sina.com.cn/stock/s/20131129/191817483419.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131129/191817483419.shtml
+[u'http://finance.sina.com.cn/stock/t/20131129/190617483469.shtml']
+[公司]阳普医疗股东减持744万股 占股本5.03%
+http://finance.sina.com.cn/stock/t/20131129/190617483469.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131129/190617483469.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20130916/161816776044.shtml']
+10投顾收益翻番 马斌收益189%三天蝉联冠军
+http://finance.sina.com.cn/stock/gujiayidong/20130916/161816776044.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20130916/161816776044.shtml
+下载y页面 url: http://finance.sina.com.cn/china/20131226/023917752800.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140103/020517828412.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140103/022817828635.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140107/013417860799.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140109/053617891298.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140109/102617897255.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140129/013418113610.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131203/010017505069.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20130916/161816776044.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131129/190617483469.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131129/191817483419.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131129/204217483898.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131202/022017493201.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131129/211617483949.shtml完成
+connect mysql sinaData suc!
+insert suc!

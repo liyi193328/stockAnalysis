@@ -1,0 +1,714 @@
+connection to sinaData suc
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sh600577.phtml完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150720/131722737208.shtml']
+快讯：电器行业午后强势 江特电机等4股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150720/131722737208.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150720/131722737208.shtml
+[u'http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml']
+股海导航 7月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml']
+周一335只股票复牌潮来临 如何把握复牌股机会
+http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml
+[u'http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml']
+近500公司申请停牌 总数超1200A股停牌比将破40%(全名单)
+http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml
+[u'http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml']
+近300公司申请停牌 总数超千家占上市公司总数1/3(全名单)
+http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml
+[u'http://finance.sina.com.cn/stock/s/20150616/005922438066.shtml']
+上市公司加速布局P2P领域 借互联网+转型
+http://finance.sina.com.cn/stock/s/20150616/005922438066.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150616/005922438066.shtml
+[u'http://finance.sina.com.cn/stock/s/20150614/172622427755.shtml']
+上市公司加速布局P2P 再掀互联网+热潮
+http://finance.sina.com.cn/stock/s/20150614/172622427755.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150614/172622427755.shtml
+[u'http://finance.sina.com.cn/stock/t/20150609/044422381419.shtml']
+P2P若没有好爹今年容易被洗掉
+http://finance.sina.com.cn/stock/t/20150609/044422381419.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150609/044422381419.shtml
+[u'http://finance.sina.com.cn/stock/s/20150603/230722341269.shtml']
+追赶泡沫盛宴 上市公司求控股P2P
+http://finance.sina.com.cn/stock/s/20150603/230722341269.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150603/230722341269.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150603/021922331634.shtml']
+首届互联网金融大会将召开 资金围堵30只概念股
+http://finance.sina.com.cn/stock/hyyj/20150603/021922331634.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150603/021922331634.shtml
+[u'http://finance.sina.com.cn/stock/s/20150602/015922320873.shtml']
+上市公司频频出手P2P并购 现对赌协议
+http://finance.sina.com.cn/stock/s/20150602/015922320873.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150602/015922320873.shtml
+[u'http://finance.sina.com.cn/stock/s/20150528/193422292514.shtml']
+精达股份携手华安保险推P2P平台“精融汇”
+http://finance.sina.com.cn/stock/s/20150528/193422292514.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150528/193422292514.shtml
+[u'http://finance.sina.com.cn/stock/s/20150528/023922284413.shtml']
+精达股份子公司互联网金融平台上线
+http://finance.sina.com.cn/stock/s/20150528/023922284413.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150528/023922284413.shtml
+[u'http://finance.sina.com.cn/stock/t/20150527/192022281840.shtml']
+精达股份互联网金融服务平台28日正式上线
+http://finance.sina.com.cn/stock/t/20150527/192022281840.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150527/192022281840.shtml
+[u'http://finance.sina.com.cn/stock/s/20150527/175522281347.shtml']
+5月27日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20150527/175522281347.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150527/175522281347.shtml
+[u'http://finance.sina.com.cn/stock/t/20150527/160722280540.shtml']
+[公司]精达股份互联网金融平台精融汇上线
+http://finance.sina.com.cn/stock/t/20150527/160722280540.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150527/160722280540.shtml
+[u'http://finance.sina.com.cn/stock/t/20150527/154722280385.shtml']
+精达股份旗下互联网金融服务平台28日上线
+http://finance.sina.com.cn/stock/t/20150527/154722280385.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150527/154722280385.shtml
+[u'http://finance.sina.com.cn/stock/zldx/20150518/080922202392.shtml']
+机构最看好机械设备 社保券商增仓公募减仓
+http://finance.sina.com.cn/stock/zldx/20150518/080922202392.shtml
+request Y href http://finance.sina.com.cn/stock/zldx/20150518/080922202392.shtml
+[u'http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml']
+多家高含权公司除权后将步入低价股行列
+http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150506/013922112598.shtml']
+资本大鳄“弄潮” 并购重组加快产业整合
+http://finance.sina.com.cn/stock/hyyj/20150506/013922112598.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150506/013922112598.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150427/150322054238.shtml']
+新能源行业:关注清洁能源 风电十二五第五批核准项目达3400万千瓦
+http://finance.sina.com.cn/stock/hyyj/20150427/150322054238.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150427/150322054238.shtml
+[u'http://finance.sina.com.cn/stock/s/20150426/230322047387.shtml']
+资本暗涌海航系：4上市公司密集定增海航投资
+http://finance.sina.com.cn/stock/s/20150426/230322047387.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150426/230322047387.shtml
+[u'http://finance.sina.com.cn/stock/t/20150421/043922003361.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20150421/043922003361.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150421/043922003361.shtml
+[u'http://finance.sina.com.cn/stock/t/20150324/005921787327.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20150324/005921787327.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150324/005921787327.shtml
+[u'http://finance.sina.com.cn/stock/t/20150311/155621698028.shtml']
+[公司]精达股份4400万股解押 质押3000万股
+http://finance.sina.com.cn/stock/t/20150311/155621698028.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150311/155621698028.shtml
+[u'http://finance.sina.com.cn/stock/s/20150306/070521659304.shtml']
+股海导航 3月6日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150306/070521659304.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150306/070521659304.shtml
+[u'http://finance.sina.com.cn/stock/s/20150305/165721654428.shtml']
+3月5日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150305/165721654428.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150305/165721654428.shtml
+[u'http://finance.sina.com.cn/stock/t/20150217/053921569188.shtml']
+铜陵精达特种电磁线股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150217/053921569188.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150217/053921569188.shtml
+[u'http://finance.sina.com.cn/stock/t/20150217/013921567737.shtml']
+铜陵精达特种电磁线股份有限公司第五届董事会第二十一次会议决议公告
+http://finance.sina.com.cn/stock/t/20150217/013921567737.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150217/013921567737.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150212/110821537937.shtml']
+申万宏源：未来2个季度内家电板块需求稳中有升
+http://finance.sina.com.cn/stock/hyyj/20150212/110821537937.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150212/110821537937.shtml
+[u'http://finance.sina.com.cn/stock/s/20150210/091421517094.shtml']
+新庄家硅谷天堂：与市场操纵内幕交易一步之遥
+http://finance.sina.com.cn/stock/s/20150210/091421517094.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150210/091421517094.shtml
+[u'http://finance.sina.com.cn/stock/t/20150202/214721457236.shtml']
+[公司]精达股份2014年度拟10转9送1并派1元
+http://finance.sina.com.cn/stock/t/20150202/214721457236.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150202/214721457236.shtml
+[u'http://finance.sina.com.cn/stock/s/20150202/202621456806.shtml']
+精达股份发布年报高送转预案 拟10转9送1派1元
+http://finance.sina.com.cn/stock/s/20150202/202621456806.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150202/202621456806.shtml
+[u'http://finance.sina.com.cn/stock/s/20150202/170121455678.shtml']
+2月2日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20150202/170121455678.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150202/170121455678.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150130/100021436658.shtml']
+快讯：家电板块走强 四川长虹强势涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150130/100021436658.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150130/100021436658.shtml
+[u'http://finance.sina.com.cn/stock/s/20150130/025221432919.shtml']
+6亿厚礼入账谁救活了万福生科:德隆系旧将隐现
+http://finance.sina.com.cn/stock/s/20150130/025221432919.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150130/025221432919.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150128/035721413830.shtml']
+人民币贬值利好家电业 智能家电大规模走向海外
+http://finance.sina.com.cn/stock/hyyj/20150128/035721413830.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150128/035721413830.shtml
+[u'http://finance.sina.com.cn/stock/t/20141231/021921201766.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20141231/021921201766.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141231/021921201766.shtml
+[u'http://finance.sina.com.cn/stock/s/20141223/102421143095.shtml']
+万福生科挑战退市新规：湖南湘晖司法划拨救壳
+http://finance.sina.com.cn/stock/s/20141223/102421143095.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141223/102421143095.shtml
+[u'http://finance.sina.com.cn/stock/t/20141223/055921140241.shtml']
+精达股份2.49亿认购香港投资基金
+http://finance.sina.com.cn/stock/t/20141223/055921140241.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141223/055921140241.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150528/193422292514.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150527/192022281840.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150603/021922331634.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150527/175522281347.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150602/015922320873.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150720/131722737208.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150603/230722341269.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150528/023922284413.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150614/172622427755.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150616/005922438066.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150527/160722280540.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150712/220422662942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141223/055921140241.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141223/102421143095.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141231/021921201766.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150128/035721413830.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150130/025221432919.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150713/074222666978.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150130/100021436658.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150202/170121455678.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600577&Page=2完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/t/20141222/183221136170.shtml']
+精达股份拟认购股权投资基金4000万美元
+http://finance.sina.com.cn/stock/t/20141222/183221136170.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141222/183221136170.shtml
+下载y页面 url: http://finance.sina.com.cn/money/bank/p2p/20150609/044422381419.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150202/202621456806.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150202/214721457236.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150210/091421517094.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150212/110821537937.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20141125/064320910551.shtml']
+股海导航 11月25日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141125/064320910551.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141125/064320910551.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141113/105820807312.shtml']
+电气设备:沪港通利好电气设备优质龙头
+http://finance.sina.com.cn/stock/hyyj/20141113/105820807312.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141113/105820807312.shtml
+[u'http://finance.sina.com.cn/stock/t/20141023/200620623871.shtml']
+[公司]精达股份向大连海汇提供1.24亿贷款
+http://finance.sina.com.cn/stock/t/20141023/200620623871.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141023/200620623871.shtml
+[u'http://finance.sina.com.cn/stock/s/20141023/042020615005.shtml']
+精达股份5亿豪赌亏损子公司未来 收购资产公允性存疑
+http://finance.sina.com.cn/stock/s/20141023/042020615005.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141023/042020615005.shtml
+[u'http://finance.sina.com.cn/stock/t/20141021/010020590540.shtml']
+铜陵精达特种电磁线股份有限公司第五届董事会第十七次会议决议公告
+http://finance.sina.com.cn/stock/t/20141021/010020590540.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141021/010020590540.shtml
+[u'http://finance.sina.com.cn/stock/t/20140924/171720402699.shtml']
+[公司]精达股份向海汇地产发1.7亿委托贷款
+http://finance.sina.com.cn/stock/t/20140924/171720402699.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140924/171720402699.shtml
+[u'http://finance.sina.com.cn/leadership/crz/20140919/005920348134.shtml']
+董明珠：房地产业赚钱太多太快 易丢掉奉献精神
+http://finance.sina.com.cn/leadership/crz/20140919/005920348134.shtml
+request Y href http://finance.sina.com.cn/leadership/crz/20140919/005920348134.shtml
+[u'http://finance.sina.com.cn/stock/s/20140918/100220336370.shtml']
+四成大股东狂揽定向增发 或涉变相股权激励
+http://finance.sina.com.cn/stock/s/20140918/100220336370.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140918/100220336370.shtml
+[u'http://finance.sina.com.cn/stock/t/20140906/010920228803.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20140906/010920228803.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140906/010920228803.shtml
+[u'http://finance.sina.com.cn/stock/t/20140826/041020117508.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20140826/041020117508.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140826/041020117508.shtml
+[u'http://finance.sina.com.cn/stock/t/20140819/162220057260.shtml']
+[公司]精达股份第一大股东1.34亿股办理质押
+http://finance.sina.com.cn/stock/t/20140819/162220057260.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140819/162220057260.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140818/110220043760.shtml']
+机械行业:土地入铁细则出台 推荐11股
+http://finance.sina.com.cn/stock/hyyj/20140818/110220043760.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140818/110220043760.shtml
+[u'http://finance.sina.com.cn/stock/t/20140814/010020003167.shtml']
+铜陵精达特种电磁线股份有限公司非公开发行股票发行结果暨股本变动公告
+http://finance.sina.com.cn/stock/t/20140814/010020003167.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140814/010020003167.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150217/013921567737.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150217/053921569188.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150305/165721654428.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140812/145719987138.shtml']
+机械行业周报:积极关注核电项目进程
+http://finance.sina.com.cn/stock/hyyj/20140812/145719987138.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140812/145719987138.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140811/132219973561.shtml']
+快讯：保险股午后上扬 新华保险涨超3%
+http://finance.sina.com.cn/stock/gujiayidong/20140811/132219973561.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140811/132219973561.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140719/093519758502.shtml']
+军工股黄金十年开锣 三大改革方向奠定基础
+http://finance.sina.com.cn/stock/hyyj/20140719/093519758502.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140719/093519758502.shtml
+[u'http://finance.sina.com.cn/stock/t/20140705/010019614592.shtml']
+铜陵精达特种电磁线股份有限公司第五届董事会第十四次会议决议公告
+http://finance.sina.com.cn/stock/t/20140705/010019614592.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140705/010019614592.shtml
+[u'http://finance.sina.com.cn/stock/t/20140704/212819613801.shtml']
+7月4日晚间上交所公告一览
+http://finance.sina.com.cn/stock/t/20140704/212819613801.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140704/212819613801.shtml
+[u'http://finance.sina.com.cn/stock/t/20140704/210519613689.shtml']
+精达股份1元收购二股东全资子公司香港重易贸易
+http://finance.sina.com.cn/stock/t/20140704/210519613689.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140704/210519613689.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml']
+安徽军工原董事长黄小虎被查后举报前任董事长
+http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140505/133919003321.shtml']
+军工改革预期升温推动军工板块估值提升
+http://finance.sina.com.cn/stock/hyyj/20140505/133919003321.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140505/133919003321.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140429/024318952906.shtml']
+申银万国：关注国防军工改革进程
+http://finance.sina.com.cn/stock/hyyj/20140429/024318952906.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140429/024318952906.shtml
+[u'http://finance.sina.com.cn/stock/s/20140416/020118808864.shtml']
+年报补丁频现上市公司倒苦水 修改方面颇广
+http://finance.sina.com.cn/stock/s/20140416/020118808864.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140416/020118808864.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140415/142618804324.shtml']
+传格兰仕2000员工砸厂 官方称系员工酒后起哄
+http://finance.sina.com.cn/chanjing/gsnews/20140415/142618804324.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140415/142618804324.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140415/123218803211.shtml']
+格兰仕2000工人不满工资砸厂 特警进厂戒备(图)
+http://finance.sina.com.cn/chanjing/gsnews/20140415/123218803211.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140415/123218803211.shtml
+[u'http://finance.sina.com.cn/stock/s/20140414/065618786196.shtml']
+股海导航 4月14日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140414/065618786196.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140414/065618786196.shtml
+[u'http://finance.sina.com.cn/stock/t/20140413/182218783268.shtml']
+精达股份非公开发行不超2.68亿股获核准
+http://finance.sina.com.cn/stock/t/20140413/182218783268.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140413/182218783268.shtml
+[u'http://finance.sina.com.cn/stock/s/20140413/163618783011.shtml']
+4月13日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140413/163618783011.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140413/163618783011.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150306/070521659304.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150311/155621698028.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150324/005921787327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150421/043922003361.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150426/230322047387.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150427/150322054238.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150506/013922112598.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140409/081718744179.shtml']
+军工板块二季度机会大于风险
+http://finance.sina.com.cn/stock/hyyj/20140409/081718744179.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140409/081718744179.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140409/063418742063.shtml']
+三菱电机拒绝召回问题空调 只在广东停售四款产品
+http://finance.sina.com.cn/chanjing/gsnews/20140409/063418742063.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140409/063418742063.shtml
+[u'http://finance.sina.com.cn/stock/t/20140404/141418715258.shtml']
+精达股份携手民生电商 积极拓展B2B版图
+http://finance.sina.com.cn/stock/t/20140404/141418715258.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140404/141418715258.shtml
+[u'http://finance.sina.com.cn/stock/s/20140404/011018707325.shtml']
+精达股份牵手民生电商
+http://finance.sina.com.cn/stock/s/20140404/011018707325.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140404/011018707325.shtml
+[u'http://finance.sina.com.cn/stock/t/20140404/005918707163.shtml']
+铜陵精达特种电磁线股份有限公司关于与民生电子商务有限责任公司签订战略合作框架协议的公告
+http://finance.sina.com.cn/stock/t/20140404/005918707163.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140404/005918707163.shtml
+[u'http://finance.sina.com.cn/stock/s/20140403/173318705204.shtml']
+精达股份牵手民生电商 提供供应链金融服务
+http://finance.sina.com.cn/stock/s/20140403/173318705204.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140403/173318705204.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml']
+快讯：安徽申请自贸区 概念股午后强势拉升
+http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140328/012618637408.shtml']
+海信刘洪新：OLED电视三四年内难普及
+http://finance.sina.com.cn/stock/hyyj/20140328/012618637408.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140328/012618637408.shtml
+[u'http://finance.sina.com.cn/stock/s/20140321/065418572329.shtml']
+股海导航 3月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140321/065418572329.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140321/065418572329.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml']
+安徽国企改革剑指混合所有制 3企业或首批试点
+http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml
+[u'http://finance.sina.com.cn/stock/s/20140304/070118394750.shtml']
+二月45家公司完成并购 机械与医药行业成主战场
+http://finance.sina.com.cn/stock/s/20140304/070118394750.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140304/070118394750.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/zldx/20150518/080922202392.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150527/154722280385.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141222/183221136170.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140814/010020003167.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140818/110220043760.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140819/162220057260.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140826/041020117508.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140906/010920228803.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140918/100220336370.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/leadership/crz/20140919/005920348134.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140924/171720402699.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141021/010020590540.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141023/042020615005.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141023/200620623871.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141113/105820807312.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140413/163618783011.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140304/070118394750.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140321/065418572329.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140328/012618637408.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140403/173318705204.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140404/005918707163.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140404/011018707325.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600577&Page=3完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140227/065218347484.shtml']
+股海导航 2月27日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140227/065218347484.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140227/065218347484.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140404/141418715258.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140409/063418742063.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140409/081718744179.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140413/182218783268.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140414/065618786196.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140415/123218803211.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140415/142618804324.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140226/165618340937.shtml']
+精达股份非公开发行股票获证监会审核通过
+http://finance.sina.com.cn/stock/t/20140226/165618340937.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/165618340937.shtml
+[u'http://finance.sina.com.cn/stock/t/20140226/162618340657.shtml']
+[公司]精达股份非公开发行申请获证监会通过
+http://finance.sina.com.cn/stock/t/20140226/162618340657.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/162618340657.shtml
+[u'http://finance.sina.com.cn/stock/t/20140226/082518333789.shtml']
+2月26日早间沪市公司公告汇总
+http://finance.sina.com.cn/stock/t/20140226/082518333789.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/082518333789.shtml
+[u'http://finance.sina.com.cn/stock/s/20140226/014018329156.shtml']
+业绩年报逾六成增长 机构加仓轨迹暴露
+http://finance.sina.com.cn/stock/s/20140226/014018329156.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140226/014018329156.shtml
+[u'http://finance.sina.com.cn/stock/t/20140226/010018328974.shtml']
+铜陵精达特种电磁线股份有限公司第五届董事会第十二次会议决议公  告
+http://finance.sina.com.cn/stock/t/20140226/010018328974.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/010018328974.shtml
+[u'http://finance.sina.com.cn/stock/t/20140226/010018328973.shtml']
+铜陵精达特种电磁线股份有限公司
+http://finance.sina.com.cn/stock/t/20140226/010018328973.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140226/010018328973.shtml
+[u'http://finance.sina.com.cn/stock/s/20140226/010018328516.shtml']
+两市96家公司披露年报 整体业绩增长三成
+http://finance.sina.com.cn/stock/s/20140226/010018328516.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140226/010018328516.shtml
+[u'http://finance.sina.com.cn/stock/t/20140225/215318327852.shtml']
+2月25日晚间两市业绩增长0-50%公司公告一览
+http://finance.sina.com.cn/stock/t/20140225/215318327852.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140225/215318327852.shtml
+[u'http://finance.sina.com.cn/stock/t/20140225/202318327774.shtml']
+[年报]精达股份去年利增14% 拟10派0.2元
+http://finance.sina.com.cn/stock/t/20140225/202318327774.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140225/202318327774.shtml
+[u'http://finance.sina.com.cn/stock/t/20140225/194518327246.shtml']
+精达股份2013年净利增14% 产品销量增长
+http://finance.sina.com.cn/stock/t/20140225/194518327246.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140225/194518327246.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml']
+安徽将全力支持芜湖申报自贸区 发展准金融机构
+http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml
+[u'http://finance.sina.com.cn/stock/s/20140130/065618123588.shtml']
+股海导航 1月30日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140130/065618123588.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140130/065618123588.shtml
+[u'http://finance.sina.com.cn/stock/t/20140129/175518120364.shtml']
+精达股份2013年营收约95亿 净利增13%
+http://finance.sina.com.cn/stock/t/20140129/175518120364.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140129/175518120364.shtml
+[u'http://finance.sina.com.cn/stock/t/20140110/013117903696.shtml']
+铜陵精达特种电磁线股份有限公司第五届董事会第十一次会议决议公告
+http://finance.sina.com.cn/stock/t/20140110/013117903696.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140110/013117903696.shtml
+[u'http://finance.sina.com.cn/stock/t/20140109/233217902724.shtml']
+1月9日晚间上交所公告摘要汇总
+http://finance.sina.com.cn/stock/t/20140109/233217902724.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140109/233217902724.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140416/020118808864.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140109/185617901604.shtml']
+精达股份1.18亿元参股民生电商
+http://finance.sina.com.cn/stock/t/20140109/185617901604.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140109/185617901604.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20131226/023917752708.shtml']
+格力空调被控短路引发市场火灾遭索赔亿元
+http://finance.sina.com.cn/consume/puguangtai/20131226/023917752708.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20131226/023917752708.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20131217/102017657653.shtml']
+快讯：家用电器跌幅居前 奥马电器领跌近6%
+http://finance.sina.com.cn/stock/gujiayidong/20131217/102017657653.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20131217/102017657653.shtml
+[u'http://finance.sina.com.cn/stock/s/20131209/052717569192.shtml']
+保险公司接力举牌金地 30亿资金撬动300亿市值控制权
+http://finance.sina.com.cn/stock/s/20131209/052717569192.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131209/052717569192.shtml
+[u'http://finance.sina.com.cn/stock/s/20131202/193517504271.shtml']
+精工钢构3日起复牌 拟定增不超10亿元
+http://finance.sina.com.cn/stock/s/20131202/193517504271.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131202/193517504271.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140429/024318952906.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140505/133919003321.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140704/210519613689.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140704/212819613801.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140705/010019614592.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140719/093519758502.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140811/132219973561.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140812/145719987138.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141125/064320910551.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140227/065218347484.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140109/233217902724.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140110/013117903696.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140129/175518120364.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140130/065618123588.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140225/194518327246.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140225/202318327774.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140225/215318327852.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140226/010018328516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/010018328973.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/010018328974.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140226/014018329156.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131202/193517504271.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131209/052717569192.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20131217/102017657653.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20131226/023917752708.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140109/185617901604.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/082518333789.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/162618340657.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140226/165618340937.shtml完成
+connect mysql sinaData suc!
+insert suc!

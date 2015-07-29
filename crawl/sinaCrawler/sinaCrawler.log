@@ -1,0 +1,1453 @@
+2015-07-23 20:44:19 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:44:19 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:44:19 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:44:19 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:44:19 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:44:19 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64920/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:44:23 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:44:23 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:44:23 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:44:23 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:44:23 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:44:23 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:44:23 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:44:23 [scrapy] INFO: Spider opened
+2015-07-23 20:44:23 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:44:23 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:44:23 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz000415> (referer: None)
+2015-07-23 20:44:23 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:44:23 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 638,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 44, 23, 647000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 44, 23, 220000)}
+2015-07-23 20:44:23 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:44:27 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:44:27 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:44:27 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:44:27 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:44:27 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:44:28 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64941/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:44:31 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:44:31 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:44:31 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:44:31 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:44:31 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:44:31 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:44:31 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:44:31 [scrapy] INFO: Spider opened
+2015-07-23 20:44:31 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:44:31 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:44:31 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002256> (referer: None)
+2015-07-23 20:44:31 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:44:31 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 638,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 44, 31, 774000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 44, 31, 531000)}
+2015-07-23 20:44:31 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:44:35 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:44:35 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:44:35 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:44:35 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:44:36 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:44:36 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64965/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:44:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:44:39 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:44:39 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:44:39 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:44:39 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:44:39 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:44:39 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:44:39 [scrapy] INFO: Spider opened
+2015-07-23 20:44:39 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:44:39 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:44:39 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz300207> (referer: None)
+2015-07-23 20:44:40 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:44:40 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 643,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 44, 40, 109000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 44, 39, 871000)}
+2015-07-23 20:44:40 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:44:43 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:44:43 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:44:43 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:44:43 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:44:43 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:44:44 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:64980/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:44:50 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:44:50 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:44:50 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:44:50 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:44:50 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:44:50 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:44:50 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:44:50 [scrapy] INFO: Spider opened
+2015-07-23 20:44:50 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:44:50 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:44:50 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz300015> (referer: None)
+2015-07-23 20:44:50 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:44:50 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 641,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 44, 50, 546000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 44, 50, 289000)}
+2015-07-23 20:44:50 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:44:54 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:44:54 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:44:54 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:44:54 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:44:54 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:44:55 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65012/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:44:58 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:44:58 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:44:58 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:44:58 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:44:58 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:44:58 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:44:58 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:44:58 [scrapy] INFO: Spider opened
+2015-07-23 20:44:58 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:44:58 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:44:59 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sh600257> (referer: None)
+2015-07-23 20:44:59 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:44:59 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 641,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 44, 59, 274000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 44, 58, 838000)}
+2015-07-23 20:44:59 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:03 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:03 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:03 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:03 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:03 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:04 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65032/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:07 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:07 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:07 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:07 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:07 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:07 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:07 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:07 [scrapy] INFO: Spider opened
+2015-07-23 20:45:07 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:07 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:45:07 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002183> (referer: None)
+2015-07-23 20:45:07 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:07 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 642,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 7, 696000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 7, 434000)}
+2015-07-23 20:45:07 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:11 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:11 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:11 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:11 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:11 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:12 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65046/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:15 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:15 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:15 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:15 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:16 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:16 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:16 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:16 [scrapy] INFO: Spider opened
+2015-07-23 20:45:16 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:16 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:45:16 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002425> (referer: None)
+2015-07-23 20:45:16 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:16 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 636,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 16, 330000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 16, 67000)}
+2015-07-23 20:45:16 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:20 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:20 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:20 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:20 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:20 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:21 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65059/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:24 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:24 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:24 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:24 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:24 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:24 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:24 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:24 [scrapy] INFO: Spider opened
+2015-07-23 20:45:24 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:24 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6025
+2015-07-23 20:45:24 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz000534> (referer: None)
+2015-07-23 20:45:24 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:24 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 642,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 24, 698000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 24, 456000)}
+2015-07-23 20:45:24 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:28 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:28 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:28 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:29 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:29 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:29 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65074/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:32 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:32 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:32 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:32 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:32 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:32 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:32 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:32 [scrapy] INFO: Spider opened
+2015-07-23 20:45:32 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:32 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6023
+2015-07-23 20:45:32 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002711> (referer: None)
+2015-07-23 20:45:32 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:32 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 640,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 32, 797000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 32, 559000)}
+2015-07-23 20:45:32 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:36 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:36 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:36 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:37 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:37 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:37 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65111/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:40 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:40 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:40 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:40 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:40 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:40 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:40 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:40 [scrapy] INFO: Spider opened
+2015-07-23 20:45:40 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:40 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6023
+2015-07-23 20:45:40 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz300030> (referer: None)
+2015-07-23 20:45:40 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:40 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 643,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 40, 690000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 40, 461000)}
+2015-07-23 20:45:40 [scrapy] INFO: Spider closed (finished)
+2015-07-23 20:45:44 [scrapy] INFO: Scrapy 1.0.1 started (bot: sinaCrawler)
+2015-07-23 20:45:44 [scrapy] INFO: Optional features available: ssl, http11, boto
+2015-07-23 20:45:44 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'sinaCrawler.spiders', 'SPIDER_MODULES': ['sinaCrawler.spiders'], 'LOG_FILE': 'sinaCrawler.log', 'DOWNLOAD_DELAY': 0.5, 'BOT_NAME': 'sinaCrawler'}
+2015-07-23 20:45:44 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-07-23 20:45:45 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-07-23 20:45:45 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://127.0.0.1:65147/session {"desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "javascriptEnabled": true, "chromeOptions": {"args": [], "extensions": []}}}
+2015-07-23 20:45:48 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2015-07-23 20:45:48 [boto] DEBUG: Retrieving credentials from metadata server.
+2015-07-23 20:45:48 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 20:45:48 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 20:45:48 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-07-23 20:45:48 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-07-23 20:45:48 [scrapy] INFO: Enabled item pipelines: SinacrawlerPipeline
+2015-07-23 20:45:48 [scrapy] INFO: Spider opened
+2015-07-23 20:45:48 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-07-23 20:45:48 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6023
+2015-07-23 20:45:48 [scrapy] DEBUG: Crawled (200) <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz002130> (referer: None)
+2015-07-23 20:45:48 [scrapy] INFO: Closing spider (finished)
+2015-07-23 20:45:48 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 642,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 7, 23, 12, 45, 48, 482000),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2015, 7, 23, 12, 45, 48, 228000)}
+2015-07-23 20:45:48 [scrapy] INFO: Spider closed (finished)
+2015-07-23 21:37:56 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:37:56 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:40:55 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:40:55 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:44:57 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:44:57 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:45:08 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:45:08 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:45:27 [scrapy] ERROR: Spider error processing <GET http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz000415.phtml> (referer: None)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 149, in parse
+    article = sinaArticleItem()
+EOFError
+2015-07-23 21:45:33 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:45:33 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:53:00 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:53:00 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:55:53 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:55:53 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:57:26 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:57:26 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:58:27 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 21:58:27 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 21:59:30 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=32557&bid=1722&qq-pf-to=pcqq.discussion> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300015&Page=12)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:00:04 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:00:04 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:00:56 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:00:56 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:03:18 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:03:18 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:03:42 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:03:42 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:07:47 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:07:47 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:08:59 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=382&bid=14785> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz002711&Page=14)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:09:13 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:09:13 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:10:18 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:10:18 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:12:56 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:12:56 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:13:36 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:13:36 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:14:09 [scrapy] ERROR: Spider error processing <GET http://licaishi.sina.com.cn/web/viewInfo?v_id=162752> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300167&Page=6)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:14:10 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=16512&bid=2144&qq-pf-to=pcqq.discussion> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300167&Page=6)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:14:27 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:14:27 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:15:53 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:15:53 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:17:31 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:17:31 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:18:54 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:18:54 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:20:22 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:20:22 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:21:32 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:21:32 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:22:42 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:22:42 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:23:19 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:23:19 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:24:49 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:24:49 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:26:03 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:26:03 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:29:12 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:29:12 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:29:33 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:29:33 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:31:17 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:31:17 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:32:57 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:32:57 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:33:53 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:33:53 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:34:55 [scrapy] ERROR: Spider error processing <GET http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300088&Page=11> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz300088&Page=10)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 157, in parse
+    print(st)
+UnicodeEncodeError: 'gbk' codec can't encode character u'\ufffd' in position 11: illegal multibyte sequence
+2015-07-23 22:35:06 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:35:06 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:35:35 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:35:35 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:36:55 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=16261&bid=10305&qq-pf-to=pcqq.c2c> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz002640&Page=13)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:37:37 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:37:37 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:38:37 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=91121985&bid=392&qq-pf-to=pcqq.discussion> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600446&Page=12)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:39:04 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:39:05 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:40:13 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:40:13 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:44:14 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:44:14 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:45:18 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:45:18 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:46:40 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:46:40 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:48:15 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:48:15 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:48:52 [scrapy] ERROR: Spider error processing <GET http://licaishi.sina.com.cn/web/viewInfo?v_id=163610&2349797671943007> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000837&Page=6)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:48:56 [scrapy] ERROR: Spider error processing <GET http://guba.sina.com.cn/?s=thread&tid=91094893&bid=861> (referer: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000837&Page=6)
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Anaconda\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 207, in parseY
+    Date,Time = self.extracttime(text)
+  File "E:\liyi\stockAnaly\crawl\sinaCrawler\sinaCrawler\spiders\sinaSpider.py", line 61, in extracttime
+    s = s.strip()
+AttributeError: 'list' object has no attribute 'strip'
+2015-07-23 22:49:29 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:49:29 [boto] ERROR: Unable to read instance data, giving up
+2015-07-23 22:50:20 [boto] ERROR: Caught exception reading instance data
+Traceback (most recent call last):
+  File "E:\Anaconda\lib\site-packages\boto\utils.py", line 210, in retry_url
+    r = opener.open(req, timeout=timeout)
+  File "E:\Anaconda\lib\urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "E:\Anaconda\lib\urllib2.py", line 449, in _open
+    '_open', req)
+  File "E:\Anaconda\lib\urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "E:\Anaconda\lib\urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "E:\Anaconda\lib\urllib2.py", line 1197, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10051] >
+2015-07-23 22:50:20 [boto] ERROR: Unable to read instance data, giving up

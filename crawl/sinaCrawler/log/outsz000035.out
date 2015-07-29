@@ -1,0 +1,2674 @@
+connection to sinaData suc
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sz000035.phtml完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20150721/064522746569.shtml']
+股海导航 7月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150721/064522746569.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150721/064522746569.shtml
+[u'http://finance.sina.com.cn/stock/t/20150721/050422743889.shtml']
+中国天楹股份有限公司股票交易异常波动公告
+http://finance.sina.com.cn/stock/t/20150721/050422743889.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150721/050422743889.shtml
+[u'http://finance.sina.com.cn/stock/t/20150721/023922743182.shtml']
+中国天楹股份有限公司股票交易异常波动公告
+http://finance.sina.com.cn/stock/t/20150721/023922743182.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150721/023922743182.shtml
+[u'http://finance.sina.com.cn/stock/s/20150720/174222739394.shtml']
+7月20日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150720/174222739394.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150720/174222739394.shtml
+[u'http://finance.sina.com.cn/stock/s/20150717/064422713203.shtml']
+股海导航 7月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150717/064422713203.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150717/064422713203.shtml
+[u'http://finance.sina.com.cn/stock/t/20150717/044422711946.shtml']
+中国天楹股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150717/044422711946.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150717/044422711946.shtml
+[u'http://finance.sina.com.cn/stock/t/20150717/011922710007.shtml']
+中国天楹股份有限公司第六届董事会第九次会议决议公告
+http://finance.sina.com.cn/stock/t/20150717/011922710007.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150717/011922710007.shtml
+[u'http://finance.sina.com.cn/stock/s/20150716/071022701811.shtml']
+股海导航 7月16日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150716/071022701811.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150716/071022701811.shtml
+[u'http://finance.sina.com.cn/stock/t/20150716/054022700187.shtml']
+中国天楹股份有限公司关于筹划非公开发行股票事项的进展公告
+http://finance.sina.com.cn/stock/t/20150716/054022700187.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150716/054022700187.shtml
+[u'http://finance.sina.com.cn/stock/t/20150716/024422699459.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150716/024422699459.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150716/024422699459.shtml
+[u'http://finance.sina.com.cn/stock/t/20150711/062022657341.shtml']
+中国天楹股份有限公司关于维护公司股价稳定的公告
+http://finance.sina.com.cn/stock/t/20150711/062022657341.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150711/062022657341.shtml
+[u'http://finance.sina.com.cn/stock/s/20150709/183722640292.shtml']
+7月9日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150709/183722640292.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150709/183722640292.shtml
+[u'http://finance.sina.com.cn/stock/s/20150709/081822634885.shtml']
+股海导航 7月9日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150709/081822634885.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150709/081822634885.shtml
+[u'http://finance.sina.com.cn/stock/t/20150709/073922634115.shtml']
+中国天楹股份有限公司关于筹划非公开发行股票事项的进展公告
+http://finance.sina.com.cn/stock/t/20150709/073922634115.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150709/073922634115.shtml
+[u'http://finance.sina.com.cn/stock/s/20150708/192322627332.shtml']
+7月8日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150708/192322627332.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150708/192322627332.shtml
+[u'http://finance.sina.com.cn/stock/t/20150708/130022631581.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150708/130022631581.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150708/130022631581.shtml
+[u'http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml']
+股海导航 7月2日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml
+[u'http://finance.sina.com.cn/stock/t/20150702/032422567941.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150702/032422567941.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150702/032422567941.shtml
+[u'http://finance.sina.com.cn/stock/t/20150702/024122567159.shtml']
+中国天楹股份有限公司关于筹划非公开发行股票事项的进展公告
+http://finance.sina.com.cn/stock/t/20150702/024122567159.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150702/024122567159.shtml
+[u'http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml']
+7月1日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml
+[u'http://finance.sina.com.cn/stock/t/20150630/034022548265.shtml']
+天弘基金管理有限公司关于旗下基金所持“ 长荣股份”、“中国天楹 ”估值方法调整的提示性公告
+http://finance.sina.com.cn/stock/t/20150630/034022548265.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150630/034022548265.shtml
+[u'http://finance.sina.com.cn/stock/s/20150625/071822512532.shtml']
+股海导航 6月25日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150625/071822512532.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150625/071822512532.shtml
+[u'http://finance.sina.com.cn/stock/t/20150625/051922510254.shtml']
+中国天楹股份有限公司关于筹划非公开发行股票事项停牌的公告
+http://finance.sina.com.cn/stock/t/20150625/051922510254.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150625/051922510254.shtml
+[u'http://finance.sina.com.cn/stock/s/20150624/171522506486.shtml']
+6月24日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150624/171522506486.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150624/171522506486.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150619/162622478908.shtml']
+环保行业中期投资策略:看好3领域 关注并购重组、国企改革
+http://finance.sina.com.cn/stock/hyyj/20150619/162622478908.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150619/162622478908.shtml
+[u'http://finance.sina.com.cn/stock/t/20150618/082722464066.shtml']
+[传闻求证]小天鹅A研发智能医疗监测设备？
+http://finance.sina.com.cn/stock/t/20150618/082722464066.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150618/082722464066.shtml
+[u'http://finance.sina.com.cn/stock/s/20150618/063622463127.shtml']
+股海导航 6月18日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150618/063622463127.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150618/063622463127.shtml
+[u'http://finance.sina.com.cn/stock/t/20150618/022422460894.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150618/022422460894.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150618/022422460894.shtml
+[u'http://finance.sina.com.cn/stock/t/20150618/021922460576.shtml']
+中国天楹股份有限公司关于全资子公司江苏天楹环保能源有限公司收到中标通知书的公告
+http://finance.sina.com.cn/stock/t/20150618/021922460576.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150618/021922460576.shtml
+[u'http://finance.sina.com.cn/stock/s/20150617/171322457166.shtml']
+6月17日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150617/171322457166.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150617/171322457166.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150617/140622455563.shtml']
+快讯：电子支付板块飙升 南天信息涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150617/140622455563.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150617/140622455563.shtml
+[u'http://finance.sina.com.cn/stock/s/20150617/070722452642.shtml']
+股海导航 6月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150617/070722452642.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150617/070722452642.shtml
+[u'http://finance.sina.com.cn/stock/t/20150617/023922450620.shtml']
+中国天楹股份有限公司
+http://finance.sina.com.cn/stock/t/20150617/023922450620.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150617/023922450620.shtml
+[u'http://finance.sina.com.cn/stock/t/20150617/022422449652.shtml']
+中国天楹股份有限公司关于重大事项停牌公告
+http://finance.sina.com.cn/stock/t/20150617/022422449652.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150617/022422449652.shtml
+[u'http://finance.sina.com.cn/stock/s/20150616/171422446838.shtml']
+6月16日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150616/171422446838.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150616/171422446838.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150616/103422443850.shtml']
+快讯：电子信息板块跌停潮 新国都等逾20股跌停
+http://finance.sina.com.cn/stock/gujiayidong/20150616/103422443850.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150616/103422443850.shtml
+[u'http://finance.sina.com.cn/stock/t/20150613/033422423412.shtml']
+中国天楹股份有限公司关于股东办理股票质押及股票购回解除质押的公告
+http://finance.sina.com.cn/stock/t/20150613/033422423412.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150613/033422423412.shtml
+[u'http://finance.sina.com.cn/stock/t/20150613/023922423093.shtml']
+中国天楹股份有限公司关于股东办理股票质押及股票购回解除质押的公告
+http://finance.sina.com.cn/stock/t/20150613/023922423093.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150613/023922423093.shtml
+[u'http://finance.sina.com.cn/stock/s/20150612/181522420671.shtml']
+6月12日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150612/181522420671.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150612/181522420671.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150611/031922402045.shtml']
+地理信息开发者大会举行 地理信息+迎千亿产值
+http://finance.sina.com.cn/stock/hyyj/20150611/031922402045.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150611/031922402045.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150708/192322627332.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150709/081822634885.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150711/062022657341.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150709/073922634115.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150709/183722640292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150708/130022631581.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150716/024422699459.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150721/064522746569.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150716/054022700187.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150716/071022701811.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150717/011922710007.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150717/044422711946.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150717/064422713203.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150720/174222739394.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150721/023922743182.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150721/050422743889.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150611/031922402045.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150612/181522420671.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150613/023922423093.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150613/033422423412.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150616/103422443850.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150616/171422446838.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150617/022422449652.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150617/023922450620.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150617/070722452642.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150617/140622455563.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=2完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/t/20150610/070422393850.shtml']
+江苏万林现代物流股份有限公司首次公开发行股票招股意向书摘要
+http://finance.sina.com.cn/stock/t/20150610/070422393850.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150610/070422393850.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150617/171322457166.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150618/021922460576.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150609/005922378767.shtml']
+“泽熙概念股”华丽家族牛市计划拷问
+http://finance.sina.com.cn/stock/s/20150609/005922378767.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150609/005922378767.shtml
+[u'http://finance.sina.com.cn/stock/s/20150605/064922355831.shtml']
+股海导航 6月5日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150605/064922355831.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150605/064922355831.shtml
+[u'http://finance.sina.com.cn/stock/t/20150605/023922353838.shtml']
+中国天楹股份有限公司关于签署泰国VKE垃圾焚烧发电工程项目设备交钥匙工程总承包合同的公告
+http://finance.sina.com.cn/stock/t/20150605/023922353838.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150605/023922353838.shtml
+[u'http://finance.sina.com.cn/stock/t/20150605/023422353012.shtml']
+中国天楹股份有限公司关于签署泰国VKE垃圾焚烧发电工程项目设备交钥匙工程总承包合同的公告
+http://finance.sina.com.cn/stock/t/20150605/023422353012.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150605/023422353012.shtml
+[u'http://finance.sina.com.cn/stock/t/20150604/194322350863.shtml']
+[公司]中国天楹子公司签署9430万设备合同
+http://finance.sina.com.cn/stock/t/20150604/194322350863.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150604/194322350863.shtml
+[u'http://finance.sina.com.cn/stock/s/20150604/173622350022.shtml']
+6月4日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20150604/173622350022.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150604/173622350022.shtml
+[u'http://finance.sina.com.cn/stock/s/20150604/170122349792.shtml']
+6月4日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150604/170122349792.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150604/170122349792.shtml
+[u'http://finance.sina.com.cn/stock/t/20150604/161422349574.shtml']
+中国天楹签9430万元发电设备供货合同
+http://finance.sina.com.cn/stock/t/20150604/161422349574.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150604/161422349574.shtml
+[u'http://finance.sina.com.cn/stock/s/20150604/065022345476.shtml']
+股海导航 6月4日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150604/065022345476.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150604/065022345476.shtml
+[u'http://finance.sina.com.cn/stock/t/20150604/021922343316.shtml']
+中国天楹股份有限公司第六届董事会第八次会议决议公告
+http://finance.sina.com.cn/stock/t/20150604/021922343316.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150604/021922343316.shtml
+[u'http://finance.sina.com.cn/stock/t/20150604/021422342415.shtml']
+中国天楹股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150604/021422342415.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150604/021422342415.shtml
+[u'http://finance.sina.com.cn/stock/s/20150603/171422339639.shtml']
+6月3日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150603/171422339639.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150603/171422339639.shtml
+[u'http://finance.sina.com.cn/stock/s/20150602/065022324106.shtml']
+股海导航 6月2日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150602/065022324106.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150602/065022324106.shtml
+[u'http://finance.sina.com.cn/stock/t/20150602/032422322454.shtml']
+中国天楹股份有限公司关于重大资产重组限售股份解除限售的提示性公告
+http://finance.sina.com.cn/stock/t/20150602/032422322454.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150602/032422322454.shtml
+[u'http://finance.sina.com.cn/stock/t/20150602/032022322292.shtml']
+中国天楹股份有限公司关于重大资产重组限售股份解除限售的提示性公告
+http://finance.sina.com.cn/stock/t/20150602/032022322292.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150602/032022322292.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150618/022422460894.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150618/063622463127.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150618/082722464066.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150619/162622478908.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150624/171522506486.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150625/051922510254.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150601/170822318241.shtml']
+6月1日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150601/170822318241.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150601/170822318241.shtml
+[u'http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml']
+[传闻求证]兴森科技给大疆无人机供货？
+http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150525/161022261248.shtml']
+公用事业行业:PPP模式带来环保行业新动力
+http://finance.sina.com.cn/stock/hyyj/20150525/161022261248.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150525/161022261248.shtml
+[u'http://finance.sina.com.cn/stock/t/20150525/153822260405.shtml']
+本周26公司解禁34.8亿股 流通市值581亿
+http://finance.sina.com.cn/stock/t/20150525/153822260405.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150525/153822260405.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150525/151622260324.shtml']
+环保行业:国祯环保中标合肥PPP项目 京津冀七地共治六大污染
+http://finance.sina.com.cn/stock/hyyj/20150525/151622260324.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150525/151622260324.shtml
+[u'http://finance.sina.com.cn/stock/s/20150521/065622231686.shtml']
+股海导航 5月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150521/065622231686.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150521/065622231686.shtml
+[u'http://finance.sina.com.cn/stock/t/20150521/022022229906.shtml']
+中国天楹股份有限公司关于签署太和县垃圾焚烧发电厂项目特许经营协议的公告
+http://finance.sina.com.cn/stock/t/20150521/022022229906.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150521/022022229906.shtml
+[u'http://finance.sina.com.cn/stock/t/20150521/021922229330.shtml']
+中国天楹签垃圾焚烧发电厂项目
+http://finance.sina.com.cn/stock/t/20150521/021922229330.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150521/021922229330.shtml
+[u'http://finance.sina.com.cn/stock/t/20150520/185422227286.shtml']
+中国天楹签下太和县垃圾焚烧发电厂BOT项目
+http://finance.sina.com.cn/stock/t/20150520/185422227286.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150520/185422227286.shtml
+[u'http://finance.sina.com.cn/stock/t/20150520/183422227160.shtml']
+中证解读:中国天楹拿下太和县垃圾焚烧发电厂项目
+http://finance.sina.com.cn/stock/t/20150520/183422227160.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150520/183422227160.shtml
+[u'http://finance.sina.com.cn/stock/s/20150520/171522226747.shtml']
+5月20日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150520/171522226747.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150520/171522226747.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150515/130522189935.shtml']
+快讯：电子信息板块掀涨停潮 信雅达等9股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150515/130522189935.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150515/130522189935.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20150513/074822167784.shtml']
+国家能源互联网行动计划年内出台
+http://finance.sina.com.cn/chanjing/cyxw/20150513/074822167784.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20150513/074822167784.shtml
+[u'http://finance.sina.com.cn/stock/s/20150513/055222167067.shtml']
+股海导航 5月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150513/055222167067.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150513/055222167067.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150625/071822512532.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150630/034022548265.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150701/172922564327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150513/022022166115.shtml']
+中国天楹股份有限公司2014年度股东大会决议公告
+http://finance.sina.com.cn/stock/t/20150513/022022166115.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150513/022022166115.shtml
+[u'http://finance.sina.com.cn/stock/s/20150512/172622163171.shtml']
+5月12日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150512/172622163171.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150512/172622163171.shtml
+[u'http://finance.sina.com.cn/stock/s/20150507/065722124276.shtml']
+股海导航 5月7日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150507/065722124276.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150507/065722124276.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150507/055922123879.shtml']
+网络战催热信息安全 四大细分领域机会凸显
+http://finance.sina.com.cn/stock/hyyj/20150507/055922123879.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150507/055922123879.shtml
+[u'http://finance.sina.com.cn/stock/s/20150506/171522119614.shtml']
+5月6日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150506/171522119614.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150506/171522119614.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150506/013922112678.shtml']
+需求强劲+政策支持 网络安全概念持续升温
+http://finance.sina.com.cn/stock/hyyj/20150506/013922112678.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150506/013922112678.shtml
+[u'http://finance.sina.com.cn/stock/s/20150505/065622105754.shtml']
+股海导航 5月5日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150505/065622105754.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150505/065622105754.shtml
+[u'http://finance.sina.com.cn/stock/s/20150504/170422101328.shtml']
+5月4日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150504/170422101328.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150504/170422101328.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml']
+快讯：央企合并概念强势 中国联通涨近7%
+http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150427/110922052615.shtml']
+快讯：ST板块强势 st博元等5股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150427/110922052615.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150427/110922052615.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150702/024122567159.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150702/032422567941.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150702/074322569667.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150610/070422393850.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150602/032422322454.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150602/032022322292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150602/065022324106.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150603/171422339639.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150604/021422342415.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150604/021922343316.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150604/065022345476.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150604/161422349574.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150604/170122349792.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150604/173622350022.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150604/194322350863.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150605/023422353012.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150605/023922353838.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150605/064922355831.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150609/005922378767.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150513/055222167067.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150427/110922052615.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150504/170422101328.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150505/065622105754.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150506/013922112678.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150506/171522119614.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150507/055922123879.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150507/065722124276.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=3完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20150421/070522005712.shtml']
+股海导航 4月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150421/070522005712.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150421/070522005712.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150512/172622163171.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150513/022022166115.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20150513/074822167784.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150421/062022005496.shtml']
+中国天楹股份有限公司
+http://finance.sina.com.cn/stock/t/20150421/062022005496.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150421/062022005496.shtml
+[u'http://finance.sina.com.cn/stock/s/20150420/170721999883.shtml']
+4月20日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150420/170721999883.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150420/170721999883.shtml
+[u'http://finance.sina.com.cn/china/20150419/162721990836.shtml']
+广东自贸区4月21日南沙挂牌 深圳前海紧随其后
+http://finance.sina.com.cn/china/20150419/162721990836.shtml
+request Y href http://finance.sina.com.cn/china/20150419/162721990836.shtml
+[u'http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml']
+股海导航 4月15日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml
+[u'http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml']
+4月14日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml']
+多重利好叠加 广东上市公司引领时代大潮
+http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml
+[u'http://finance.sina.com.cn/stock/s/20150330/170521845210.shtml']
+3月30日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150330/170521845210.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150330/170521845210.shtml
+[u'http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml']
+广东自贸区挂牌在即 多家上市公司分享政策红利
+http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml
+request Y href http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150308/214221672550.shtml']
+掘金环保股 环保产业链78只个股深度报告
+http://finance.sina.com.cn/stock/hyyj/20150308/214221672550.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150308/214221672550.shtml
+[u'http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml']
+股海导航 2月26日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml
+[u'http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml']
+2月25日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml
+[u'http://finance.sina.com.cn/stock/s/20150217/064621569359.shtml']
+股海导航 2月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150217/064621569359.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150217/064621569359.shtml
+[u'http://finance.sina.com.cn/stock/s/20150216/171621565471.shtml']
+2月16日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150216/171621565471.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150216/171621565471.shtml
+[u'http://finance.sina.com.cn/stock/s/20150213/065821545675.shtml']
+股海导航 2月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150213/065821545675.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150213/065821545675.shtml
+[u'http://finance.sina.com.cn/stock/s/20150212/170621540497.shtml']
+2月12日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150212/170621540497.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150212/170621540497.shtml
+[u'http://finance.sina.com.cn/stock/s/20150212/115521538290.shtml']
+23股获机构调高评级 最大涨幅近70%
+http://finance.sina.com.cn/stock/s/20150212/115521538290.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150212/115521538290.shtml
+[u'http://finance.sina.com.cn/stock/t/20150212/091621536795.shtml']
+[数据]12日深市上市公司网络投票特别提示
+http://finance.sina.com.cn/stock/t/20150212/091621536795.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150212/091621536795.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150515/130522189935.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150520/171522226747.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150520/183422227160.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150520/185422227286.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150521/021922229330.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150211/071021526352.shtml']
+股海导航 2月11日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150211/071021526352.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150211/071021526352.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml']
+吉林政府报告提出申报自贸区 分析称获批希望较大
+http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml
+[u'http://finance.sina.com.cn/stock/s/20150210/170421520887.shtml']
+2月10日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150210/170421520887.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150210/170421520887.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml']
+广东自贸区方案与部委达成共识 预计近期获批
+http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml
+[u'http://finance.sina.com.cn/stock/s/20150210/070521516307.shtml']
+股海导航 2月10日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150210/070521516307.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150210/070521516307.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150209/184621511276.shtml']
+两市42只股票市盈率跌破10倍
+http://finance.sina.com.cn/stock/hyyj/20150209/184621511276.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150209/184621511276.shtml
+[u'http://finance.sina.com.cn/stock/s/20150209/165821510690.shtml']
+2月9日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150209/165821510690.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150209/165821510690.shtml
+[u'http://finance.sina.com.cn/stock/s/20150128/064621415343.shtml']
+股海导航 1月28日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150128/064621415343.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150128/064621415343.shtml
+[u'http://finance.sina.com.cn/stock/t/20150128/045921414205.shtml']
+中国天楹股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150128/045921414205.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150128/045921414205.shtml
+[u'http://finance.sina.com.cn/stock/t/20150128/011921412805.shtml']
+中国天楹股份有限公司第六届董事会第六次会议决议公告
+http://finance.sina.com.cn/stock/t/20150128/011921412805.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150128/011921412805.shtml
+[u'http://finance.sina.com.cn/stock/s/20150127/201721411143.shtml']
+中国天楹拟逾6亿元收购两公司 加码主业
+http://finance.sina.com.cn/stock/s/20150127/201721411143.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150127/201721411143.shtml
+[u'http://finance.sina.com.cn/stock/s/20150126/102921396977.shtml']
+29只股票市盈率低于10倍 银行板块占半数
+http://finance.sina.com.cn/stock/s/20150126/102921396977.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150126/102921396977.shtml
+[u'http://finance.sina.com.cn/stock/s/20150122/065421359480.shtml']
+股海导航 1月22日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150122/065421359480.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150122/065421359480.shtml
+[u'http://finance.sina.com.cn/stock/s/20150121/172321354773.shtml']
+1月21日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150121/172321354773.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150121/172321354773.shtml
+[u'http://finance.sina.com.cn/stock/s/20150115/065321302694.shtml']
+股海导航 1月15日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150115/065321302694.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150115/065321302694.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150521/022022229906.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150525/151622260324.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150525/153822260405.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150525/161022261248.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150114/165321297682.shtml']
+1月14日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150114/165321297682.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150114/165321297682.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150112/095921275435.shtml']
+33只股票市盈率低于10倍 银行板块数量最多
+http://finance.sina.com.cn/stock/hyyj/20150112/095921275435.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150112/095921275435.shtml
+[u'http://finance.sina.com.cn/stock/s/20150108/065021250297.shtml']
+股海导航 1月8日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150108/065021250297.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150108/065021250297.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml']
+快讯：*ST广夏复牌一字跌停 宁东铁路45亿借壳
+http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml
+[u'http://finance.sina.com.cn/stock/s/20141230/064621194065.shtml']
+股海导航 12月30日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141230/064621194065.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141230/064621194065.shtml
+[u'http://finance.sina.com.cn/stock/t/20141230/044021193203.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141230/044021193203.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141230/044021193203.shtml
+[u'http://finance.sina.com.cn/stock/s/20141229/170721189018.shtml']
+12月29日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141229/170721189018.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141229/170721189018.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150601/082422314138.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150601/170822318241.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150521/065622231686.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150212/091621536795.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150421/070522005712.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150212/115521538290.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150225/173621591909.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150212/170621540497.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150213/065821545675.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150216/171621565471.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150226/064921595220.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150308/214221672550.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/stockptd/20150319/075721756628.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150217/064621569359.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150330/170521845210.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150407/073821896155.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150414/165021953670.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141230/044021193203.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150415/072321958889.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150115/065321302694.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141229/170721189018.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150108/065021250297.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150112/095921275435.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141230/064621194065.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=4完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20141226/111521171742.shtml']
+两市38股市盈率低于10倍 银行低市盈率股最多
+http://finance.sina.com.cn/stock/s/20141226/111521171742.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141226/111521171742.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150126/102921396977.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150127/201721411143.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150114/165321297682.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150128/011921412805.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150128/045921414205.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150121/172321354773.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20141224/065621151274.shtml']
+股海导航 12月24日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141224/065621151274.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141224/065621151274.shtml
+[u'http://finance.sina.com.cn/stock/s/20141223/172821145903.shtml']
+12月23日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141223/172821145903.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141223/172821145903.shtml
+[u'http://finance.sina.com.cn/stock/t/20141220/031921123902.shtml']
+中国天楹股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141220/031921123902.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141220/031921123902.shtml
+[u'http://finance.sina.com.cn/stock/t/20141220/011921123049.shtml']
+中国天楹股份有限公司第六届董事会第五次会议决议公告
+http://finance.sina.com.cn/stock/t/20141220/011921123049.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141220/011921123049.shtml
+[u'http://finance.sina.com.cn/stock/s/20141219/170621120597.shtml']
+12月19日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141219/170621120597.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141219/170621120597.shtml
+[u'http://finance.sina.com.cn/stock/s/20141217/065821094794.shtml']
+股海导航 12月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141217/065821094794.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141217/065821094794.shtml
+[u'http://finance.sina.com.cn/stock/s/20141216/165121090367.shtml']
+12月16日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141216/165121090367.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141216/165121090367.shtml
+[u'http://finance.sina.com.cn/stock/s/20141209/064421028884.shtml']
+股海导航 12月9日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141209/064421028884.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141209/064421028884.shtml
+[u'http://finance.sina.com.cn/stock/s/20141119/065420858516.shtml']
+股海导航 11月19日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141119/065420858516.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141119/065420858516.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml']
+权威人士：广东自贸区不设两份负面清单
+http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml
+[u'http://finance.sina.com.cn/stock/s/20141118/170920852269.shtml']
+11月18日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141118/170920852269.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141118/170920852269.shtml
+[u'http://finance.sina.com.cn/stock/s/20141113/173220810377.shtml']
+11月13日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141113/173220810377.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141113/173220810377.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml']
+广东国资改革方案落地 概念股蓄势待发
+http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml
+[u'http://finance.sina.com.cn/stock/s/20141113/064720804554.shtml']
+股海导航 11月13日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141113/064720804554.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141113/064720804554.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml']
+广东国企改革方案落地 机构趁涨甩卖概念股
+http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml
+[u'http://finance.sina.com.cn/stock/t/20141112/090320795051.shtml']
+[数据]12日深市上市公司网络投票特别提示
+http://finance.sina.com.cn/stock/t/20141112/090320795051.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141112/090320795051.shtml
+[u'http://finance.sina.com.cn/stock/s/20141107/173220762192.shtml']
+11月7日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141107/173220762192.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141107/173220762192.shtml
+[u'http://finance.sina.com.cn/stock/y/20141027/155520652924.shtml']
+江苏国企改革细则落地 部分国企试点启动
+http://finance.sina.com.cn/stock/y/20141027/155520652924.shtml
+request Y href http://finance.sina.com.cn/stock/y/20141027/155520652924.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141027/015120645652.shtml']
+雾霾袭扰 环保板块迎来走强契机
+http://finance.sina.com.cn/stock/hyyj/20141027/015120645652.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141027/015120645652.shtml
+[u'http://finance.sina.com.cn/stock/t/20141027/010020645236.shtml']
+中国天楹股份有限公司
+http://finance.sina.com.cn/stock/t/20141027/010020645236.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141027/010020645236.shtml
+[u'http://finance.sina.com.cn/stock/s/20141026/171420644011.shtml']
+10月26日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141026/171420644011.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141026/171420644011.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141023/092920618275.shtml']
+退市新政警报拉响 ST板块机会与风险并存
+http://finance.sina.com.cn/stock/hyyj/20141023/092920618275.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141023/092920618275.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141023/015520614241.shtml']
+江苏国资改革落地 汇鸿集团将整体上市
+http://finance.sina.com.cn/stock/hyyj/20141023/015520614241.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141023/015520614241.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141021/090620595478.shtml']
+退市新政将生效 ST股生死倒计时
+http://finance.sina.com.cn/stock/hyyj/20141021/090620595478.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141021/090620595478.shtml
+[u'http://finance.sina.com.cn/stock/s/20141017/070120565784.shtml']
+股海导航 10月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141017/070120565784.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141017/070120565784.shtml
+[u'http://finance.sina.com.cn/stock/s/20141017/021420562507.shtml']
+三年重整路漫漫：ST宏盛浮现股价周期律
+http://finance.sina.com.cn/stock/s/20141017/021420562507.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141017/021420562507.shtml
+[u'http://finance.sina.com.cn/stock/s/20141016/172220559403.shtml']
+10月16日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141016/172220559403.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141016/172220559403.shtml
+[u'http://finance.sina.com.cn/stock/s/20141010/064820500349.shtml']
+股海导航 10月10日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141010/064820500349.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141010/064820500349.shtml
+[u'http://finance.sina.com.cn/stock/s/20141009/162820494143.shtml']
+10月9日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20141009/162820494143.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141009/162820494143.shtml
+[u'http://finance.sina.com.cn/stock/s/20140930/072120450292.shtml']
+股海导航 9月30日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140930/072120450292.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140930/072120450292.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150122/065421359480.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150128/064621415343.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150209/184621511276.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20150210/134421519365.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20150211/015921524253.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140929/163220444789.shtml']
+9月29日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140929/163220444789.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140929/163220444789.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140929/133320443076.shtml']
+快讯：ST板块集体飙涨 ST仪化等10股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140929/133320443076.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140929/133320443076.shtml
+[u'http://finance.sina.com.cn/stock/s/20140926/064420419043.shtml']
+股海导航 9月26日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140926/064420419043.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140926/064420419043.shtml
+[u'http://finance.sina.com.cn/stock/t/20140926/031020417507.shtml']
+中国天楹股份有限公司公告（系列） -中国基金报多媒体数字报
+http://finance.sina.com.cn/stock/t/20140926/031020417507.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140926/031020417507.shtml
+[u'http://finance.sina.com.cn/stock/t/20140926/010020416206.shtml']
+中国天楹股份有限公司关于签订募集资金三方监管协议的公告
+http://finance.sina.com.cn/stock/t/20140926/010020416206.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140926/010020416206.shtml
+[u'http://finance.sina.com.cn/stock/s/20140925/170920413802.shtml']
+9月25日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140925/170920413802.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140925/170920413802.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml']
+国投系重组倒计时 国投中鲁连涨5个一字板
+http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml
+[u'http://finance.sina.com.cn/stock/s/20140924/065420396646.shtml']
+股海导航 9月24日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140924/065420396646.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140924/065420396646.shtml
+[u'http://finance.sina.com.cn/stock/t/20140924/010620393961.shtml']
+中国天楹股份有限公司发行股份购买资产并募集配套资金暨关联交易之募集配套资金非公开发行股票发行情况报告暨上市公告书摘要
+http://finance.sina.com.cn/stock/t/20140924/010620393961.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140924/010620393961.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150209/165821510690.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150210/070521516307.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150210/170421520887.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20150419/162721990836.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150211/071021526352.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150420/170721999883.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150421/062022005496.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141226/111521171742.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141112/090320795051.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141113/013420801737.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141113/064720804554.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141113/085320805499.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20141118/225420854046.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141113/173220810377.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141118/170920852269.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141119/065420858516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141016/172220559403.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140930/072120450292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141009/162820494143.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140924/010620393961.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141010/064820500349.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140926/010020416206.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=5完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140923/170720391615.shtml']
+9月23日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140923/170720391615.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140923/170720391615.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140924/065420396646.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140926/031020417507.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140929/133320443076.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140925/170920413802.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/china/20140922/005920372298.shtml']
+ETC全国联网设备价格遭哄抬 财政投资或增加30亿
+http://finance.sina.com.cn/china/20140922/005920372298.shtml
+request Y href http://finance.sina.com.cn/china/20140922/005920372298.shtml
+[u'http://finance.sina.com.cn/stock/s/20140910/031220248980.shtml']
+中报观察:345股扣非后净利翻倍 机构寻两类股
+http://finance.sina.com.cn/stock/s/20140910/031220248980.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140910/031220248980.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml']
+改革将为广东国企带来并购重组机会 关联个股机会大
+http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml
+[u'http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml']
+广东国资改革意见出炉 力度超预期
+http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml
+request Y href http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml
+[u'http://finance.sina.com.cn/stock/s/20140808/181719957438.shtml']
+8月8日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140808/181719957438.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140808/181719957438.shtml
+[u'http://finance.sina.com.cn/stock/s/20140808/173419957394.shtml']
+中国天楹上半年净利6042万 同比增长68%
+http://finance.sina.com.cn/stock/s/20140808/173419957394.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140808/173419957394.shtml
+[u'http://finance.sina.com.cn/stock/s/20140808/172819957061.shtml']
+8月8日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140808/172819957061.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140808/172819957061.shtml
+[u'http://finance.sina.com.cn/stock/s/20140731/091419872467.shtml']
+湘鄂情现4000万股大宗交易 玩家疑借利好清仓
+http://finance.sina.com.cn/stock/s/20140731/091419872467.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140731/091419872467.shtml
+[u'http://finance.sina.com.cn/stock/s/20140731/025919868511.shtml']
+湘鄂情第二大股东大幅减持 两天套现2.2亿元
+http://finance.sina.com.cn/stock/s/20140731/025919868511.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140731/025919868511.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140715/013019700926.shtml']
+电信联通关闭机场贵宾厅 三大运营商销售费2千亿
+http://finance.sina.com.cn/chanjing/gsnews/20140715/013019700926.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140715/013019700926.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140714/023219690404.shtml']
+百亿铁塔公司效率或不高 对电信格局影响不大
+http://finance.sina.com.cn/chanjing/gsnews/20140714/023219690404.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140714/023219690404.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140707/104519627021.shtml']
+快讯：新一轮退市制度改革启动 ST股走势低迷
+http://finance.sina.com.cn/stock/gujiayidong/20140707/104519627021.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140707/104519627021.shtml
+[u'http://finance.sina.com.cn/stock/s/20140624/065719501027.shtml']
+股海导航 6月24日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140624/065719501027.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140624/065719501027.shtml
+[u'http://finance.sina.com.cn/stock/t/20140624/024719499949.shtml']
+中国天楹股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140624/024719499949.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140624/024719499949.shtml
+[u'http://finance.sina.com.cn/stock/t/20140624/010019498354.shtml']
+中国天楹股份有限公司
+http://finance.sina.com.cn/stock/t/20140624/010019498354.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140624/010019498354.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141017/021420562507.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140926/064420419043.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140929/163220444789.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140623/174419496183.shtml']
+6月23日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140623/174419496183.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140623/174419496183.shtml
+[u'http://finance.sina.com.cn/stock/s/20140619/063219456420.shtml']
+股海导航 6月19日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140619/063219456420.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140619/063219456420.shtml
+[u'http://finance.sina.com.cn/stock/t/20140619/054819456133.shtml']
+中国科健股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140619/054819456133.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140619/054819456133.shtml
+[u'http://finance.sina.com.cn/stock/t/20140619/010019453647.shtml']
+中国科健股份有限公司2013年度股东大会决议公告
+http://finance.sina.com.cn/stock/t/20140619/010019453647.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140619/010019453647.shtml
+[u'http://finance.sina.com.cn/stock/s/20140618/170319451270.shtml']
+6月18日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140618/170319451270.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140618/170319451270.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml']
+道博股份拟7.8亿收购强视传媒 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml']
+东莞臭脚米粉涉事企业停业整顿:照片拍于半年前
+http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml']
+中发科技终止资产重组 复牌一字跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml']
+乾照光电重组被终止 复牌一字跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml']
+天润控股拟发行股份购旭游网络 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140610/005919358563.shtml']
+芯片企业投入不及国际巨头1/10 产品做得出卖不出
+http://finance.sina.com.cn/chanjing/cyxw/20140610/005919358563.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140610/005919358563.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140609/011919348474.shtml']
+我国芯片产业每年进口消耗2000多亿美元超石油
+http://finance.sina.com.cn/chanjing/cyxw/20140609/011919348474.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140609/011919348474.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140605/222019327634.shtml']
+微软：从未协助任何政府攻击其它政府或客户
+http://finance.sina.com.cn/chanjing/gsnews/20140605/222019327634.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140605/222019327634.shtml
+[u'http://finance.sina.com.cn/chanjing/sdbd/20140605/220019327569.shtml']
+外企在华受挫：以前提麦肯锡审批加分 现在则相反
+http://finance.sina.com.cn/chanjing/sdbd/20140605/220019327569.shtml
+request Y href http://finance.sina.com.cn/chanjing/sdbd/20140605/220019327569.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml']
+新文化15亿收购户外广告媒体 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml
+[u'http://finance.sina.com.cn/money/fund/20140603/080019296625.shtml']
+5月信息安全板块反弹 中邮战略新兴基金领跑
+http://finance.sina.com.cn/money/fund/20140603/080019296625.shtml
+request Y href http://finance.sina.com.cn/money/fund/20140603/080019296625.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141021/090620595478.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141023/015520614241.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141023/092920618275.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141026/171420644011.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141017/070120565784.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140603/031219294509.shtml']
+中冶南京256亿地王遭肢解甩卖 赚巨额利润梦碎
+http://finance.sina.com.cn/chanjing/gsnews/20140603/031219294509.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140603/031219294509.shtml
+[u'http://finance.sina.com.cn/china/20140603/005319293165.shtml']
+北京楼市或迎实质性降价 库存达2013年来最高点
+http://finance.sina.com.cn/china/20140603/005319293165.shtml
+request Y href http://finance.sina.com.cn/china/20140603/005319293165.shtml
+[u'http://finance.sina.com.cn/stock/s/20140602/170919292480.shtml']
+A股最迷你上市公司曝光：员工共7人 市值26亿
+http://finance.sina.com.cn/stock/s/20140602/170919292480.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140602/170919292480.shtml
+[u'http://finance.sina.com.cn/stock/s/20140531/073719285682.shtml']
+A股50人上市公司生态调查
+http://finance.sina.com.cn/stock/s/20140531/073719285682.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140531/073719285682.shtml
+[u'http://finance.sina.com.cn/stock/s/20140530/065019273156.shtml']
+股海导航 5月30日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140530/065019273156.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140530/065019273156.shtml
+[u'http://finance.sina.com.cn/stock/t/20140530/024919271572.shtml']
+中国科健股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140530/024919271572.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140530/024919271572.shtml
+[u'http://finance.sina.com.cn/stock/s/20140529/170319267705.shtml']
+5月29日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140529/170319267705.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140529/170319267705.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140529/144819266336.shtml']
+快讯：软件股大幅反弹 浪潮软件直线拉升涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140529/144819266336.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140529/144819266336.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141027/010020645236.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141027/015120645652.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/y/20141027/155520652924.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141107/173220762192.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141216/165121090367.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141209/064421028884.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141220/011921123049.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141220/031921123902.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141217/065821094794.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141219/170621120597.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140624/010019498354.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140923/170720391615.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140624/024719499949.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140707/104519627021.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140714/023219690404.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20140603/080019296625.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/sdbd/20140605/220019327569.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140624/065719501027.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140529/144819266336.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140530/024919271572.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140529/170319267705.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140531/073719285682.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140602/170919292480.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140603/005319293165.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140603/031219294509.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140605/222019327634.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=6完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140529/094819263266.shtml']
+快讯：电子信息板块再冲高 启明信息等3股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140529/094819263266.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140529/094819263266.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140530/065019273156.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140529/094719263265.shtml']
+快讯：电子信息板块再冲高 启明信息等3股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140529/094719263265.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140529/094719263265.shtml
+[u'http://finance.sina.com.cn/stock/s/20140529/064519259984.shtml']
+股海导航 5月29日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140529/064519259984.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140529/064519259984.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140529/023919258137.shtml']
+IBM回应或遭弃用：未听说 浪潮集团正对接多部委
+http://finance.sina.com.cn/chanjing/gsnews/20140529/023919258137.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140529/023919258137.shtml
+[u'http://finance.sina.com.cn/stock/t/20140529/023519257967.shtml']
+中国科健股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140529/023519257967.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140529/023519257967.shtml
+[u'http://finance.sina.com.cn/stock/t/20140529/010219256927.shtml']
+中国科健股份有限公司第五届董事会第三十五次（临时）会议决议公告
+http://finance.sina.com.cn/stock/t/20140529/010219256927.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140529/010219256927.shtml
+[u'http://finance.sina.com.cn/stock/s/20140528/173019254661.shtml']
+5月28日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140528/173019254661.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140528/173019254661.shtml
+[u'http://finance.sina.com.cn/stock/s/20140528/065419246753.shtml']
+股海导航 5月28日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140528/065419246753.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140528/065419246753.shtml
+[u'http://finance.sina.com.cn/stock/s/20140527/171219241109.shtml']
+5月27日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140527/171219241109.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140527/171219241109.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140527/004719230266.shtml']
+传运营商铁塔公司三季度挂牌 主要照顾中电信
+http://finance.sina.com.cn/chanjing/gsnews/20140527/004719230266.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140527/004719230266.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml']
+鹿港科技拟4.7亿收购世纪长龙 股价再度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml
+[u'http://finance.sina.com.cn/money/smjj/20140521/071119174350.shtml']
+王亚伟公司研究员密集调研电子产业链
+http://finance.sina.com.cn/money/smjj/20140521/071119174350.shtml
+request Y href http://finance.sina.com.cn/money/smjj/20140521/071119174350.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140521/051819172582.shtml']
+轻资产：经济转型期牛股基因
+http://finance.sina.com.cn/stock/hyyj/20140521/051819172582.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140521/051819172582.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140520/135719165934.shtml']
+通鼎光电欲1.1亿购瑞翼信息 股价跌逾8%
+http://finance.sina.com.cn/stock/gujiayidong/20140520/135719165934.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140520/135719165934.shtml
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140609/011919348474.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140610/005919358563.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20140612/023919384959.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140520/101019163599.shtml']
+佳创视讯进军电视游戏 股价一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140520/101019163599.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140520/101019163599.shtml
+[u'http://finance.sina.com.cn/stock/s/20140515/070019113045.shtml']
+股海导航 5月15日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140515/070019113045.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140515/070019113045.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140512/144119078829.shtml']
+国家基站公司被指是垄断下的蛋：运营商都有小九九
+http://finance.sina.com.cn/chanjing/gsnews/20140512/144119078829.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140512/144119078829.shtml
+[u'http://finance.sina.com.cn/stock/s/20140506/064419010888.shtml']
+股海导航 5月6日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140506/064419010888.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140506/064419010888.shtml
+[u'http://finance.sina.com.cn/stock/t/20140505/232719007099.shtml']
+*ST科健重组获得证监会核准
+http://finance.sina.com.cn/stock/t/20140505/232719007099.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140505/232719007099.shtml
+[u'http://finance.sina.com.cn/stock/s/20140505/211019006679.shtml']
+中科健18亿收购天楹环保 变身环保公司
+http://finance.sina.com.cn/stock/s/20140505/211019006679.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140505/211019006679.shtml
+[u'http://finance.sina.com.cn/stock/s/20140505/173519005667.shtml']
+5月5日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140505/173519005667.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140505/173519005667.shtml
+[u'http://finance.sina.com.cn/stock/s/20140505/172319005590.shtml']
+5月5日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140505/172319005590.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140505/172319005590.shtml
+[u'http://finance.sina.com.cn/stock/s/20140501/185118983744.shtml']
+中科健去年人均创利8700万A股称雄背后:仅13名员工
+http://finance.sina.com.cn/stock/s/20140501/185118983744.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140501/185118983744.shtml
+[u'http://finance.sina.com.cn/stock/s/20140430/210618979256.shtml']
+46家公司人均创利超百万 银行地产员工最赚钱
+http://finance.sina.com.cn/stock/s/20140430/210618979256.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140430/210618979256.shtml
+[u'http://finance.sina.com.cn/china/20140430/192918978804.shtml']
+工信部回应将建国家基站公司：符合深化改革精神
+http://finance.sina.com.cn/china/20140430/192918978804.shtml
+request Y href http://finance.sina.com.cn/china/20140430/192918978804.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140619/010019453647.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140619/054819456133.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140430/100818973614.shtml']
+传电信业将重组成立国家基站公司 三大运营商共同持股
+http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140430/100818973614.shtml
+request Y href http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140430/100818973614.shtml
+[u'http://finance.sina.com.cn/china/20140430/005918965459.shtml']
+粤港澳自贸区单设港澳负面清单 方案获中央首肯
+http://finance.sina.com.cn/china/20140430/005918965459.shtml
+request Y href http://finance.sina.com.cn/china/20140430/005918965459.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140429/230918965291.shtml']
+传电信业将重组成立国家基站公司 与三大运营商平起平坐
+http://finance.sina.com.cn/chanjing/cyxw/20140429/230918965291.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140429/230918965291.shtml
+[u'http://finance.sina.com.cn/stock/s/20140424/070218903583.shtml']
+股海导航 4月24日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140424/070218903583.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140424/070218903583.shtml
+[u'http://finance.sina.com.cn/stock/s/20140423/171318897726.shtml']
+4月23日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140423/171318897726.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140423/171318897726.shtml
+[u'http://finance.sina.com.cn/stock/s/20140423/041018887519.shtml']
+11家*ST公司有望接棒摘星脱帽
+http://finance.sina.com.cn/stock/s/20140423/041018887519.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140423/041018887519.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140422/103418878582.shtml']
+快讯：摘帽概念炒作再起 中科健涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140422/103418878582.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140422/103418878582.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140421/135818867156.shtml']
+快讯：信息安全逆势活跃 旋极信息涨5%
+http://finance.sina.com.cn/stock/gujiayidong/20140421/135818867156.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140421/135818867156.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml']
+快讯：高金食品一字涨停 累计涨幅超95%
+http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml
+[u'http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml']
+股海导航 4月21日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml
+[u'http://finance.sina.com.cn/stock/t/20140421/051218860718.shtml']
+中国科健股份有限公司关于撤销股票交易退市风险警示的公告
+http://finance.sina.com.cn/stock/t/20140421/051218860718.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140421/051218860718.shtml
+[u'http://finance.sina.com.cn/stock/t/20140421/010018858260.shtml']
+中国科健股份有限公司关于撤销股票交易退市风险警示的公告
+http://finance.sina.com.cn/stock/t/20140421/010018858260.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140421/010018858260.shtml
+[u'http://finance.sina.com.cn/stock/t/20140420/215618857959.shtml']
+[公司]*ST科健22日起摘星去帽 简称为"中科健"
+http://finance.sina.com.cn/stock/t/20140420/215618857959.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140420/215618857959.shtml
+[u'http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml']
+4月20日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml
+[u'http://finance.sina.com.cn/stock/t/20140420/173518858217.shtml']
+*ST科健22日起摘星脱帽 21日停牌一日
+http://finance.sina.com.cn/stock/t/20140420/173518858217.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140420/173518858217.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140618/170319451270.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140623/174419496183.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140715/013019700926.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140731/025919868511.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140731/091419872467.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140619/063219456420.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140808/173419957394.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140808/181719957438.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/stockptd/20140819/082220052136.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140825/065920107186.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140529/094819263266.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140910/031220248980.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140808/172819957061.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140922/005920372298.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140520/135719165934.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140521/051819172582.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/smjj/20140521/071119174350.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140430/192918978804.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140430/210618979256.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140501/185118983744.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140420/173518858217.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140420/174718857394.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140505/172319005590.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140420/215618857959.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140421/010018858260.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140421/051218860718.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140421/064918862010.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=7完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140418/042018838158.shtml']
+2013年649家公司裁员近25万 中国中冶裁1.15万
+http://finance.sina.com.cn/stock/s/20140418/042018838158.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140418/042018838158.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140421/135818867156.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140422/103418878582.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140423/041018887519.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140417/070118827231.shtml']
+年报近尾声 逾30公司落入ST阵营
+http://finance.sina.com.cn/stock/s/20140417/070118827231.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140417/070118827231.shtml
+[u'http://finance.sina.com.cn/stock/s/20140416/020018808911.shtml']
+年报披露近尾声 逾30家上市公司加入ST阵营
+http://finance.sina.com.cn/stock/s/20140416/020018808911.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140416/020018808911.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml']
+广东省长：粤港澳自贸区设想获中央支持
+http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml
+[u'http://finance.sina.com.cn/stock/s/20140414/031018784889.shtml']
+1593家上市公司披露年报 凸显四大新特征
+http://finance.sina.com.cn/stock/s/20140414/031018784889.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140414/031018784889.shtml
+[u'http://finance.sina.com.cn/stock/t/20140409/075418742462.shtml']
+4月9日早间深市主板公告汇总
+http://finance.sina.com.cn/stock/t/20140409/075418742462.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140409/075418742462.shtml
+[u'http://finance.sina.com.cn/stock/s/20140409/064618741576.shtml']
+股海导航 4月9日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140409/064618741576.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140409/064618741576.shtml
+[u'http://finance.sina.com.cn/stock/s/20140409/034318740263.shtml']
+并购重组分道制审核半年 12家公司上榜“审慎审核”
+http://finance.sina.com.cn/stock/s/20140409/034318740263.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140409/034318740263.shtml
+[u'http://finance.sina.com.cn/stock/t/20140409/025418739651.shtml']
+中国科健股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140409/025418739651.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140409/025418739651.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140409/011218738803.shtml']
+工信部：宽带接入业务有望不久后向民资全面开放
+http://finance.sina.com.cn/chanjing/cyxw/20140409/011218738803.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140409/011218738803.shtml
+[u'http://finance.sina.com.cn/stock/t/20140409/010018738588.shtml']
+中国科健股份有限公司第五届董事会第三十三次（临时）会议决议公告
+http://finance.sina.com.cn/stock/t/20140409/010018738588.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140409/010018738588.shtml
+[u'http://finance.sina.com.cn/stock/t/20140408/232218737793.shtml']
+4月8日晚间深市主板公告一览
+http://finance.sina.com.cn/stock/t/20140408/232218737793.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140408/232218737793.shtml
+[u'http://finance.sina.com.cn/stock/t/20140408/212118737411.shtml']
+*ST科健申请撤销*ST 一季度预亏157万
+http://finance.sina.com.cn/stock/t/20140408/212118737411.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140408/212118737411.shtml
+[u'http://finance.sina.com.cn/stock/s/20140408/170718736147.shtml']
+4月8日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140408/170718736147.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140408/170718736147.shtml
+[u'http://finance.sina.com.cn/stock/s/20140404/233018718590.shtml']
+顺荣股份重组折戟 5倍涨幅诱惑私募押宝
+http://finance.sina.com.cn/stock/s/20140404/233018718590.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140404/233018718590.shtml
+[u'http://finance.sina.com.cn/stock/s/20140404/062118710321.shtml']
+标的公司内控不达标 鑫富药业重组遭否决
+http://finance.sina.com.cn/stock/s/20140404/062118710321.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140404/062118710321.shtml
+[u'http://finance.sina.com.cn/stock/s/20140403/101018701021.shtml']
+21家上市公司年报存瑕疵 “非标”拦路再融资
+http://finance.sina.com.cn/stock/s/20140403/101018701021.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140403/101018701021.shtml
+[u'http://finance.sina.com.cn/stock/t/20140403/095218700878.shtml']
+4月3日大跌行业公司资讯揭秘（更新中）
+http://finance.sina.com.cn/stock/t/20140403/095218700878.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140403/095218700878.shtml
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140429/230918965291.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140430/005918965459.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hkstock/hkstocknews/20140430/100818973614.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140423/171318897726.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140403/065118698317.shtml']
+股海导航 4月3日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140403/065118698317.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140403/065118698317.shtml
+[u'http://finance.sina.com.cn/stock/s/20140403/031918696407.shtml']
+鑫富药业重组遭否 标的逃税或为硬伤
+http://finance.sina.com.cn/stock/s/20140403/031918696407.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140403/031918696407.shtml
+[u'http://finance.sina.com.cn/stock/t/20140402/183618693709.shtml']
+*ST科健重组获证监会通过 明复牌
+http://finance.sina.com.cn/stock/t/20140402/183618693709.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140402/183618693709.shtml
+[u'http://finance.sina.com.cn/stock/s/20140402/182618693649.shtml']
+4月2日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140402/182618693649.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140402/182618693649.shtml
+[u'http://finance.sina.com.cn/stock/s/20140402/174718693430.shtml']
+4月2日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140402/174718693430.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140402/174718693430.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140402/023618684331.shtml']
+深圳国资改革方案或近期出台：涉6199亿元资产
+http://finance.sina.com.cn/china/dfjj/20140402/023618684331.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140402/023618684331.shtml
+[u'http://finance.sina.com.cn/stock/t/20140401/062018673341.shtml']
+江汉石油钻头股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140401/062018673341.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140401/062018673341.shtml
+[u'http://finance.sina.com.cn/stock/t/20140401/013918671608.shtml']
+江汉石油钻头股份有限公司第五届董事会第二十二次会议决议公告
+http://finance.sina.com.cn/stock/t/20140401/013918671608.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140401/013918671608.shtml
+[u'http://finance.sina.com.cn/china/jrxw/20140331/124518666340.shtml']
+前海产业优惠目录获国务院同意 按15%征企业所得税
+http://finance.sina.com.cn/china/jrxw/20140331/124518666340.shtml
+request Y href http://finance.sina.com.cn/china/jrxw/20140331/124518666340.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml']
+广东正积极申报自贸区 制定两份清单
+http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml
+[u'http://finance.sina.com.cn/stock/s/20140327/064618626931.shtml']
+股海导航 3月27日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140327/064618626931.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140327/064618626931.shtml
+[u'http://finance.sina.com.cn/stock/t/20140326/211018623277.shtml']
+[公司]*ST科健27日起停牌 因重组事宜将上会
+http://finance.sina.com.cn/stock/t/20140326/211018623277.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140326/211018623277.shtml
+[u'http://finance.sina.com.cn/stock/t/20140326/210518623054.shtml']
+*ST科健重组将上会 明起停牌
+http://finance.sina.com.cn/stock/t/20140326/210518623054.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140326/210518623054.shtml
+[u'http://finance.sina.com.cn/stock/s/20140326/173218621974.shtml']
+3月26日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140326/173218621974.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140326/173218621974.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140424/070218903583.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140505/173519005667.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140505/211019006679.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140505/232719007099.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140324/010018588482.shtml']
+江汉石油钻头股份有限公司
+http://finance.sina.com.cn/stock/t/20140324/010018588482.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140324/010018588482.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140317/143518529010.shtml']
+快讯：电子信息板块飙涨 网宿科技等5股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140317/143518529010.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140317/143518529010.shtml
+[u'http://finance.sina.com.cn/stock/s/20140317/080418525088.shtml']
+ST股摘帽预期 机会还是陷阱需甄别
+http://finance.sina.com.cn/stock/s/20140317/080418525088.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140317/080418525088.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140314/030018503722.shtml']
+摘星脱帽盛宴开启 ST板块迎来短炒热潮
+http://finance.sina.com.cn/stock/hyyj/20140314/030018503722.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140314/030018503722.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140314/005918502047.shtml']
+运营商和银行被批电信诈骗帮凶:原因显然是不为
+http://finance.sina.com.cn/chanjing/cyxw/20140314/005918502047.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140314/005918502047.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140313/100618496029.shtml']
+快讯：ST板块大幅拉升 *ST思达等5股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140313/100618496029.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140313/100618496029.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140313/025718490748.shtml']
+运营商银行被批助纣为虐：电话诈骗可获13%利益
+http://finance.sina.com.cn/chanjing/cyxw/20140313/025718490748.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140313/025718490748.shtml
+[u'http://finance.sina.com.cn/stock/s/20140313/023218490403.shtml']
+*ST族摘帽盛宴开启 6只达标股轻装上阵
+http://finance.sina.com.cn/stock/s/20140313/023218490403.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140313/023218490403.shtml
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140512/144119078829.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140520/101019163599.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140527/004719230266.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140506/064419010888.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140515/070019113045.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140528/065419246753.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140529/010219256927.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140527/171219241109.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140528/173019254661.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140529/023519257967.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140529/023919258137.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140418/042018838158.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140529/094719263265.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140529/064519259984.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140403/095218700878.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140403/101018701021.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141223/172821145903.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140326/210518623054.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141224/065621151274.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140326/211018623277.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140326/173218621974.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140327/064618626931.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140313/023218490403.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140313/025718490748.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140313/100618496029.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140314/005918502047.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140314/030018503722.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140317/080418525088.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=8完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140312/064818480490.shtml']
+股海导航 3月12日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140312/064818480490.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140312/064818480490.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140317/143518529010.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140312/035918479239.shtml']
+人大代表称电话诈骗去年掠百亿 运营商获利10亿
+http://finance.sina.com.cn/chanjing/cyxw/20140312/035918479239.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140312/035918479239.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140312/031018478722.shtml']
+联想承诺并购后IBM员工待遇不降 20名抗议者被解雇
+http://finance.sina.com.cn/chanjing/gsnews/20140312/031018478722.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140312/031018478722.shtml
+[u'http://finance.sina.com.cn/consume/puguangtai/20140312/014018478077.shtml']
+电信业十大隐性侵权现象揭秘:擅自更改消费套餐
+http://finance.sina.com.cn/consume/puguangtai/20140312/014018478077.shtml
+request Y href http://finance.sina.com.cn/consume/puguangtai/20140312/014018478077.shtml
+[u'http://finance.sina.com.cn/stock/t/20140312/010018477516.shtml']
+中国科健股份有限公司
+http://finance.sina.com.cn/stock/t/20140312/010018477516.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140312/010018477516.shtml
+[u'http://finance.sina.com.cn/stock/t/20140311/195718476317.shtml']
+STCN解读:*ST科健债务重组 2013年净利113154.69万元
+http://finance.sina.com.cn/stock/t/20140311/195718476317.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140311/195718476317.shtml
+[u'http://finance.sina.com.cn/stock/t/20140311/184718476761.shtml']
+[年报]*ST科健去年净利11.32亿 同比扭亏为盈
+http://finance.sina.com.cn/stock/t/20140311/184718476761.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140311/184718476761.shtml
+[u'http://finance.sina.com.cn/stock/s/20140311/171018475279.shtml']
+3月11日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140311/171018475279.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140311/171018475279.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml']
+两会现场传佳音 广东自贸区概念股逆市逞强
+http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140311/015918465760.shtml']
+联想收购引发震荡：IBM深圳员工不满补偿停工
+http://finance.sina.com.cn/chanjing/gsnews/20140311/015918465760.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140311/015918465760.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140311/012918465510.shtml']
+年报披露渐入高峰期 摘帽概念关注度升温
+http://finance.sina.com.cn/stock/hyyj/20140311/012918465510.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140311/012918465510.shtml
+[u'http://finance.sina.com.cn/stock/s/20140310/025118454440.shtml']
+149份年报本周出炉 逾1.3亿资金潜入11只预喜股
+http://finance.sina.com.cn/stock/s/20140310/025118454440.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140310/025118454440.shtml
+[u'http://finance.sina.com.cn/stock/s/20140310/024918454408.shtml']
+摘帽股市场炒作再度升温 6只*ST股将“乌鸡变凤凰”
+http://finance.sina.com.cn/stock/s/20140310/024918454408.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140310/024918454408.shtml
+[u'http://finance.sina.com.cn/stock/s/20140307/015118431409.shtml']
+30家*ST公司保壳有望
+http://finance.sina.com.cn/stock/s/20140307/015118431409.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140307/015118431409.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml']
+资产注入预期升温 广东国资股受追捧
+http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml
+[u'http://finance.sina.com.cn/stock/s/20140303/170818389114.shtml']
+3月3日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140303/170818389114.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140303/170818389114.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140324/010018588482.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140331/045218660677.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/jrxw/20140331/124518666340.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140401/013918671608.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140401/062018673341.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140402/023618684331.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/chanjing/sdbd/20140303/111618385724.shtml']
+发改委专注汽车等6行业反垄断：谁是下一个高通
+http://finance.sina.com.cn/chanjing/sdbd/20140303/111618385724.shtml
+request Y href http://finance.sina.com.cn/chanjing/sdbd/20140303/111618385724.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml']
+广东国资改革盛宴开席 三领域受益股有望成淘金乐土
+http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml']
+广东国资改革进入实操阶段 首批推出54个项目
+http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml']
+广东国企改革已启动 政策利好刺激投资机会
+http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml']
+广东国资混合制提速：千亿国有股权引入民资
+http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140226/004818328226.shtml']
+联通电信反垄断案三年无果：曾抛出技术问题干扰调查
+http://finance.sina.com.cn/chanjing/gsnews/20140226/004818328226.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140226/004818328226.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140221/071618287040.shtml']
+电信联通涉垄断被指因监管落后 处罚或不了了之
+http://finance.sina.com.cn/chanjing/gsnews/20140221/071618287040.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140221/071618287040.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140219/095918263013.shtml']
+发改委对美国IDC和高通发起反垄断调查 均源于举报
+http://finance.sina.com.cn/chanjing/gsnews/20140219/095918263013.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140219/095918263013.shtml
+[u'http://finance.sina.com.cn/stock/s/20140219/025918257499.shtml']
+*ST国发、*ST大地申请摘帽 30余家T族有望接力
+http://finance.sina.com.cn/stock/s/20140219/025918257499.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140219/025918257499.shtml
+[u'http://finance.sina.com.cn/stock/s/20140218/171418253419.shtml']
+2月18日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140218/171418253419.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140218/171418253419.shtml
+[u'http://finance.sina.com.cn/stock/s/20140218/072218245455.shtml']
+股海导航 2月18日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140218/072218245455.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140218/072218245455.shtml
+[u'http://finance.sina.com.cn/stock/s/20140214/030318207295.shtml']
+A股公司退市难 260只股10年净利润之和为负
+http://finance.sina.com.cn/stock/s/20140214/030318207295.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140214/030318207295.shtml
+[u'http://finance.sina.com.cn/china/20140213/023418192780.shtml']
+粤港澳自贸区范围有望扩大 白云机场保税区或纳入
+http://finance.sina.com.cn/china/20140213/023418192780.shtml
+request Y href http://finance.sina.com.cn/china/20140213/023418192780.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml']
+媒体称东莞形成色情产业链 年经济效益或达500亿
+http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140130/102418125306.shtml']
+国务院：加强财税金融支持地理信息产业发展
+http://finance.sina.com.cn/chanjing/cyxw/20140130/102418125306.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140130/102418125306.shtml
+[u'http://finance.sina.com.cn/stock/s/20140130/073618124013.shtml']
+年终大考 54家ST公司逾七成业绩报喜
+http://finance.sina.com.cn/stock/s/20140130/073618124013.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140130/073618124013.shtml
+[u'http://finance.sina.com.cn/stock/s/20140129/040018114392.shtml']
+三大法宝抬轿子33家ST公司扭亏
+http://finance.sina.com.cn/stock/s/20140129/040018114392.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140129/040018114392.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140402/182618693649.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140402/183618693709.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140402/174718693430.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140403/031918696407.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140403/065118698317.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140128/071218105064.shtml']
+ST股生死速递 机会还是风险
+http://finance.sina.com.cn/stock/s/20140128/071218105064.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140128/071218105064.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140127/100218095567.shtml']
+快讯：软件股逆势走强 海隆软件强势涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140127/100218095567.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140127/100218095567.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140126/070918085421.shtml']
+电信员工为筹赌资虚构预存赠机骗局：涉13万元
+http://finance.sina.com.cn/chanjing/gsnews/20140126/070918085421.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140126/070918085421.shtml
+[u'http://finance.sina.com.cn/china/20140124/134318074519.shtml']
+美女富豪何燕被正式批捕 举报信曾惊动几大部委
+http://finance.sina.com.cn/china/20140124/134318074519.shtml
+request Y href http://finance.sina.com.cn/china/20140124/134318074519.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140121/053918022538.shtml']
+深圳国资改革定调 力争2020年实现“五个突破”
+http://finance.sina.com.cn/stock/hyyj/20140121/053918022538.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140121/053918022538.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml']
+广东国资改革顶层设计方案将加速出炉
+http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140120/043318006740.shtml']
+本周7家公司公布年报 四角度挖掘行情新热点
+http://finance.sina.com.cn/stock/hyyj/20140120/043318006740.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140120/043318006740.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140404/062118710321.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140404/233018718590.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140408/212118737411.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140408/232218737793.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140408/170718736147.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140409/010018738588.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140409/011218738803.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140409/025418739651.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140312/064818480490.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140409/034318740263.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140409/064618741576.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140306/013918418020.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140307/015118431409.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140310/024918454408.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140310/025118454440.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140303/170818389114.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140129/040018114392.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140130/073618124013.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140120/043318006740.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140121/050618022177.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140121/053918022538.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20140124/134318074519.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140126/070918085421.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140127/100218095567.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140128/071218105064.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140130/102418125306.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=9完成
+getting title's text and href
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140117/030617981961.shtml']
+国腾系何燕14年前就遭举报 挪用资金或涉侵占国资罪
+http://finance.sina.com.cn/chanjing/gsnews/20140117/030617981961.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140117/030617981961.shtml
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140211/023918166778.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20140116/070417969084.shtml']
+24家业绩预披露公司16家扭亏 *ST公司命运不一
+http://finance.sina.com.cn/stock/hyyj/20140116/070417969084.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140116/070417969084.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140116/023917966734.shtml']
+四川美女富豪何燕被批捕 涉挪用资金罪最高可判十年
+http://finance.sina.com.cn/chanjing/gsnews/20140116/023917966734.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140116/023917966734.shtml
+[u'http://finance.sina.com.cn/stock/t/20140110/235517917958.shtml']
+重整计划执行完毕 *ST科健2013年预盈11亿
+http://finance.sina.com.cn/stock/t/20140110/235517917958.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140110/235517917958.shtml
+[u'http://finance.sina.com.cn/stock/t/20140110/183817917292.shtml']
+[公司]*ST科健预计去年净利11.3亿 因债务重组
+http://finance.sina.com.cn/stock/t/20140110/183817917292.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140110/183817917292.shtml
+[u'http://finance.sina.com.cn/stock/s/20140107/064817864478.shtml']
+股海导航 1月7日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140107/064817864478.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140107/064817864478.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140107/022217861618.shtml']
+中移动香港公司遭内部调查 被指贱卖牌照涉国资
+http://finance.sina.com.cn/chanjing/gsnews/20140107/022217861618.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140107/022217861618.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140107/015517861140.shtml']
+虚拟运营商高薪挖角：联通多名高管屡传跳槽
+http://finance.sina.com.cn/chanjing/gsnews/20140107/015517861140.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140107/015517861140.shtml
+[u'http://finance.sina.com.cn/stock/s/20140106/165217858668.shtml']
+1月6日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140106/165217858668.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140106/165217858668.shtml
+[u'http://finance.sina.com.cn/stock/s/20140106/040017850962.shtml']
+分道制审核将满百日 6公司进入审慎审核通道
+http://finance.sina.com.cn/stock/s/20140106/040017850962.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140106/040017850962.shtml
+[u'http://finance.sina.com.cn/stock/s/20140103/083017832874.shtml']
+ST股年底喜获保壳红包 6公司去年末急获6亿输血
+http://finance.sina.com.cn/stock/s/20140103/083017832874.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140103/083017832874.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml']
+佛山富士康厂迁出社区顿时荒芜:商铺几天关一个
+http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml
+[u'http://finance.sina.com.cn/chanjing/gsnews/20140102/102417821601.shtml']
+中移动4G计划让业内倒吸一口冷气：理论上无法完成
+http://finance.sina.com.cn/chanjing/gsnews/20140102/102417821601.shtml
+request Y href http://finance.sina.com.cn/chanjing/gsnews/20140102/102417821601.shtml
+[u'http://finance.sina.com.cn/stock/s/20140102/020017817503.shtml']
+5家ST公司搭上保壳末班车 *ST超日等3家处境险
+http://finance.sina.com.cn/stock/s/20140102/020017817503.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140102/020017817503.shtml
+[u'http://finance.sina.com.cn/stock/s/20131231/170617810828.shtml']
+12月31日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20131231/170617810828.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131231/170617810828.shtml
+下载y页面 url: http://finance.sina.com.cn/china/20140213/023418192780.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140214/030318207295.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140219/025918257499.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140219/095918263013.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140221/071618287040.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140218/072218245455.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140218/171418253419.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20131231/082017805285.shtml']
+12月31日早间深市主板公告一览
+http://finance.sina.com.cn/stock/t/20131231/082017805285.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131231/082017805285.shtml
+[u'http://finance.sina.com.cn/stock/s/20131231/065917803601.shtml']
+股海导航 12月31日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20131231/065917803601.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131231/065917803601.shtml
+[u'http://finance.sina.com.cn/stock/t/20131231/050017802276.shtml']
+中国科健股份有限公司
+http://finance.sina.com.cn/stock/t/20131231/050017802276.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131231/050017802276.shtml
+[u'http://finance.sina.com.cn/stock/t/20131231/020017800679.shtml']
+中国科健股份有限公司第五届董事会第三十一次(临时)会议决议公告
+http://finance.sina.com.cn/stock/t/20131231/020017800679.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131231/020017800679.shtml
+[u'http://finance.sina.com.cn/stock/t/20131230/231017799105.shtml']
+12月30日晚间深市主板公告汇总
+http://finance.sina.com.cn/stock/t/20131230/231017799105.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131230/231017799105.shtml
+[u'http://finance.sina.com.cn/stock/t/20131230/224017799048.shtml']
+12月30日晚间两市重要公司公告
+http://finance.sina.com.cn/stock/t/20131230/224017799048.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131230/224017799048.shtml
+[u'http://finance.sina.com.cn/stock/t/20131230/204717798598.shtml']
+*ST科健重组方案获受理
+http://finance.sina.com.cn/stock/t/20131230/204717798598.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131230/204717798598.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20131230/081917791625.shtml']
+ST板块“乌鸡”难变“凤凰”
+http://finance.sina.com.cn/stock/hyyj/20131230/081917791625.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20131230/081917791625.shtml
+[u'http://finance.sina.com.cn/stock/t/20131230/020217788426.shtml']
+信息快车
+http://finance.sina.com.cn/stock/t/20131230/020217788426.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131230/020217788426.shtml
+[u'http://finance.sina.com.cn/stock/t/20131230/020217788406.shtml']
+老搭档形影相随 墨西科技命运难料
+http://finance.sina.com.cn/stock/t/20131230/020217788406.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131230/020217788406.shtml
+[u'http://finance.sina.com.cn/stock/s/20131227/015917765692.shtml']
+上市公司跨界环保成风 炒作还是转型
+http://finance.sina.com.cn/stock/s/20131227/015917765692.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131227/015917765692.shtml
+[u'http://finance.sina.com.cn/china/bwdt/20131226/160317761696.shtml']
+工信部发放移动通信转售业务试点批文解读
+http://finance.sina.com.cn/china/bwdt/20131226/160317761696.shtml
+request Y href http://finance.sina.com.cn/china/bwdt/20131226/160317761696.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131226/150417761033.shtml']
+工信部发放首批虚拟运营商牌照 京东等11家获牌
+http://finance.sina.com.cn/chanjing/cyxw/20131226/150417761033.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131226/150417761033.shtml
+[u'http://finance.sina.com.cn/china/20131226/023917752800.shtml']
+广州国土房管局回应取消限购说：与限购不矛盾
+http://finance.sina.com.cn/china/20131226/023917752800.shtml
+request Y href http://finance.sina.com.cn/china/20131226/023917752800.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml']
+广州酝酿楼市取消限购限价 业内称可能性不大
+http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml']
+广州称将探索逐步取消房地产限价限购
+http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140226/004818328226.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140228/024118359575.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/hyyj/20131225/020417739302.shtml']
+暂停上市公司料再添丁年关“＊ST”保壳各显神通
+http://finance.sina.com.cn/stock/hyyj/20131225/020417739302.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20131225/020417739302.shtml
+[u'http://finance.sina.com.cn/china/20131224/013117726006.shtml']
+粤港澳自贸区方案已上报国务院 范围将超上海
+http://finance.sina.com.cn/china/20131224/013117726006.shtml
+request Y href http://finance.sina.com.cn/china/20131224/013117726006.shtml
+[u'http://finance.sina.com.cn/stock/s/20131220/065317696121.shtml']
+股海导航 12月20日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20131220/065317696121.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131220/065317696121.shtml
+[u'http://finance.sina.com.cn/stock/t/20131219/203417691546.shtml']
+[盘点]2013年度董秘十宗"最":最文艺VS最毒舌
+http://finance.sina.com.cn/stock/t/20131219/203417691546.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131219/203417691546.shtml
+[u'http://finance.sina.com.cn/stock/s/20131219/173117689784.shtml']
+12月19日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20131219/173117689784.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131219/173117689784.shtml
+[u'http://finance.sina.com.cn/stock/t/20131219/094117685673.shtml']
+[数据]12月19日深市上市公司网络投票特别提示
+http://finance.sina.com.cn/stock/t/20131219/094117685673.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131219/094117685673.shtml
+[u'http://finance.sina.com.cn/stock/s/20131218/010617665122.shtml']
+退市悬崖逼近 22家公司忙补窟窿
+http://finance.sina.com.cn/stock/s/20131218/010617665122.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131218/010617665122.shtml
+[u'http://finance.sina.com.cn/stock/s/20131216/173217649872.shtml']
+12月16日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20131216/173217649872.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131216/173217649872.shtml
+[u'http://finance.sina.com.cn/stock/s/20131216/134317647529.shtml']
+*ST远洋领衔ST年关保壳战 6家公司退市风险大
+http://finance.sina.com.cn/stock/s/20131216/134317647529.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131216/134317647529.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140228/083918364012.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140228/092318364792.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140303/065218382476.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/sdbd/20140303/111618385724.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140311/012918465510.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140311/015918465760.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140311/021918465942.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140311/184718476761.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140117/030617981961.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140311/195718476317.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140312/010018477516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140311/171018475279.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/consume/puguangtai/20140312/014018478077.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140312/031018478722.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140102/020017817503.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131231/170617810828.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140102/102417821601.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131225/132617747073.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20131226/020417752182.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20131226/023917752800.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131226/150417761033.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/bwdt/20131226/160317761696.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131216/134317647529.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131216/173217649872.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131218/010617665122.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131219/094117685673.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131219/173117689784.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131219/203417691546.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131220/065317696121.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/20131224/013117726006.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sz000035&Page=10完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20131215/183617639063.shtml']
+12月15日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20131215/183617639063.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131215/183617639063.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20131225/020417739302.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131227/015917765692.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131230/020217788406.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131230/020217788426.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20131230/081917791625.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131230/204717798598.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131230/224017799048.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131230/231017799105.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20131207/011617559076.shtml']
+孟凯套现支持转型 湘鄂情三次突围效果不佳
+http://finance.sina.com.cn/stock/s/20131207/011617559076.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131207/011617559076.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20131206/105617552712.shtml']
+快讯：ST板块走强 ST宏盛等3股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20131206/105617552712.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20131206/105617552712.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131205/162217542403.shtml']
+工信部发4G牌照 业内称将利好本土终端厂商
+http://finance.sina.com.cn/chanjing/cyxw/20131205/162217542403.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131205/162217542403.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131205/034817533681.shtml']
+4G牌照花落三大运营商 5000亿元产业盛宴开席
+http://finance.sina.com.cn/chanjing/cyxw/20131205/034817533681.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131205/034817533681.shtml
+[u'http://finance.sina.com.cn/stock/s/20131205/030317533028.shtml']
+天楹环保借壳*ST科健 国金证劵地毯式核查
+http://finance.sina.com.cn/stock/s/20131205/030317533028.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131205/030317533028.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131205/023917532778.shtml']
+4G牌照发放催生新一轮产业机遇 市场面临重新洗牌
+http://finance.sina.com.cn/chanjing/cyxw/20131205/023917532778.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131205/023917532778.shtml
+[u'http://finance.sina.com.cn/stock/s/20131205/013017531805.shtml']
+借壳新规适逢年末大限 倒逼ST公司重组提速
+http://finance.sina.com.cn/stock/s/20131205/013017531805.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131205/013017531805.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131204/172417528923.shtml']
+工信部解读4G牌照发放：推动三家运营企业共建共享
+http://finance.sina.com.cn/chanjing/cyxw/20131204/172417528923.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131204/172417528923.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131204/155917528165.shtml']
+4G牌照正式发放 三家运营商均获TD-LTE牌照
+http://finance.sina.com.cn/chanjing/cyxw/20131204/155917528165.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131204/155917528165.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20131204/111917525789.shtml']
+4G牌照将发放 专家称资费或降至几分钱1兆
+http://finance.sina.com.cn/chanjing/cyxw/20131204/111917525789.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20131204/111917525789.shtml
+[u'http://finance.sina.com.cn/stock/s/20131204/064917521850.shtml']
+股海导航 12月4日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20131204/064917521850.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131204/064917521850.shtml
+[u'http://finance.sina.com.cn/stock/t/20131204/023417519755.shtml']
+中国科健股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20131204/023417519755.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131204/023417519755.shtml
+[u'http://finance.sina.com.cn/stock/t/20131204/023417519739.shtml']
+公司新闻
+http://finance.sina.com.cn/stock/t/20131204/023417519739.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131204/023417519739.shtml
+[u'http://finance.sina.com.cn/stock/s/20131204/010017518179.shtml']
+发行制度改革推进 37家壳公司壳资源加速贬值
+http://finance.sina.com.cn/stock/s/20131204/010017518179.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131204/010017518179.shtml
+[u'http://finance.sina.com.cn/stock/t/20131203/214217517715.shtml']
+*ST科健拟定增购买天楹环保能源100%股份
+http://finance.sina.com.cn/stock/t/20131203/214217517715.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131203/214217517715.shtml
+[u'http://finance.sina.com.cn/stock/s/20131203/212917517679.shtml']
+*ST科健重组方案敲定 欲转投环保能源行业
+http://finance.sina.com.cn/stock/s/20131203/212917517679.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131203/212917517679.shtml
+[u'http://finance.sina.com.cn/stock/t/20131203/212917517673.shtml']
+*ST科健重组方案敲定 欲转投环保能源行业
+http://finance.sina.com.cn/stock/t/20131203/212917517673.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131203/212917517673.shtml
+[u'http://finance.sina.com.cn/stock/s/20131203/171217516353.shtml']
+12月3日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20131203/171217516353.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131203/171217516353.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131231/020017800679.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131231/050017802276.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131231/065917803601.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131231/082017805285.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140103/052217830386.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140103/083017832874.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140106/040017850962.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140107/015517861140.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140106/165217858668.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140107/022217861618.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140110/183817917292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140110/235517917958.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/gsnews/20140116/023917966734.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140116/070417969084.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140107/064817864478.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140312/035918479239.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131215/183617639063.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131203/214217517715.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131204/010017518179.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131204/023417519739.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131204/023417519755.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131204/111917525789.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131204/064917521850.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131203/212917517673.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131203/212917517679.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131204/155917528165.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131204/172417528923.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131205/013017531805.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131203/171217516353.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131205/023917532778.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131205/030317533028.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131205/034817533681.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20131205/162217542403.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20131206/105617552712.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131207/011617559076.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140409/075418742462.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140414/031018784889.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140415/105018802292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140416/020018808911.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140417/070118827231.shtml完成
+connect mysql sinaData suc!
+insert suc!

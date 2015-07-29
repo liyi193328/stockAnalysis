@@ -1,0 +1,3791 @@
+init: connect mysql sinaData suc!
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620完成
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=2
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93023&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93027&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82860&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93025&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93028&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93026&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93018&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93002&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=82860&bid=10273', u'3')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=82860&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91938&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91264&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93030&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93029&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91262&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93031&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273', u'39')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92075&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85736&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85486&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85682&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86711&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86064&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85886&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85894&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86078&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86414&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86495&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86514&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86508&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86591&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=2完成
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=82860&bid=10273完成
+06月09日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86989&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=3
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86533&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86631&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=87994&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273完成
+07月02日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86562&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+07月01日 
+connect mysql sinaData suc!
+insert suc!
+reply
+07月01日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88022&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88016&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月30日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月30日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月29日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88197&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88089&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月29日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月26日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月25日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月25日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88218&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88438&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月25日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月24日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月24日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月22日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88682&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月22日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88684&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=88682&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=88682&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85392&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=88683&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85476&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=89177&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84338&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84339&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78021&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78030&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77283&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78102&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77405&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+('fullNextUrl: ', u'http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273&page=2')
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=3完成
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=4
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78351&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78175&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78553&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78575&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78740&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78599&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78555&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78661&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=88682&bid=10273完成
+06月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=79081&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78676&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75495&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=78932&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=79231&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=80759&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273', u'34')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81061&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70858&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=78558&bid=10273&page=2完成
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70860&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70862&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70864&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70866&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71136&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71264&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71117&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71736&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+(u'http://guba.sina.com.cn/?s=thread&tid=71264&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=71264&bid=10273请求
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71272&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=4完成
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71879&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71751&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71738&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=71797&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273完成
+05月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72004&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72011&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+06月21日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72012&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+05月14日 
+connect mysql sinaData suc!
+insert suc!
+reply
+06月06日 
+connect mysql sinaData suc!
+insert suc!
+reply
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=5
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72123&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72082&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72192&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72189&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72190&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月12日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72130&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72131&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+05月12日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月12日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月12日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月11日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月11日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月08日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=71264&bid=10273完成
+05月06日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月08日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月08日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月07日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72180&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72175&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72134&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72148&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72173&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+('fullNextUrl: ', u'http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273&page=2')
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70854&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70822&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70729&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67209&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66626&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=66626&bid=10273', u'5')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=66626&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67331&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67532&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66615&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67535&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66588&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66611&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66572&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66564&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66606&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=5完成
+(u'http://guba.sina.com.cn/?s=thread&tid=66564&bid=10273', u'2')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=66564&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66618&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66620&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66632&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=6
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66655&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66638&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66622&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=66664&bid=10273&page=2完成
+05月06日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66698&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+05月06日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月05日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月05日 
+connect mysql sinaData suc!
+insert suc!
+reply
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66859&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66929&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=66626&bid=10273完成
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67080&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+04月28日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67580&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67043&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67024&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67083&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67932&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66236&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=67932&bid=10273', u'2')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=67932&bid=10273请求
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=66564&bid=10273完成
+04月27日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=68008&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66264&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+04月27日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66469&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66687&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66686&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64373&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64380&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64392&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64386&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64394&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64393&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64410&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64414&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64647&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64462&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=6完成
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=67932&bid=10273完成
+05月01日 
+connect mysql sinaData suc!
+insert suc!
+reply
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=7
+04月30日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64672&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64780&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64784&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64819&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64785&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64792&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64839&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65047&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65082&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65101&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65142&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65104&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65121&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65156&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65484&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65474&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65482&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65515&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65464&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65492&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64372&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65550&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57866&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57713&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57882&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57975&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=57713&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=57713&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57774&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=58026&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57980&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=60016&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61716&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61435&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=60017&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=59224&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61715&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61552&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61445&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62162&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62055&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=61962&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62112&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62153&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=7完成
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=8
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62803&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62845&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62314&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62852&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63023&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=57713&bid=10273完成
+04月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62370&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=62955&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63079&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63148&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63146&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63080&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63051&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63195&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63144&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63145&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56573&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56562&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57618&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56702&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56644&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56798&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56611&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56712&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54211&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54231&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54230&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54244&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54310&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54363&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54415&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55141&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54405&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55069&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55465&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55245&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55463&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55255&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55298&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55293&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=8完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=53365&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=53603&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=9
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=53459&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=53734&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54102&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54114&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54136&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54176&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54231&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54211&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54230&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54244&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54415&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54363&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54310&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=54405&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55069&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55141&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=50267&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49474&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46370&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=46370&bid=10273', u'2')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=46370&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45151&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45200&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45140&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=51174&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=51300&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45039&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45143&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45142&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45146&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46921&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46740&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45589&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=45656&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46186&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46463&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46347&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46348&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=46370&bid=10273完成
+03月31日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=9完成
+03月31日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46308&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46332&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46356&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46436&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46419&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=10
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=47169&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46457&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=46406&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=46406&bid=10273', u'2')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=46406&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=50456&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=48379&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=48216&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=50364&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=48473&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=50336&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=48520&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=50234&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49886&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44729&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49885&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44588&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44587&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42660&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43383&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42368&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41878&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41900&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=46406&bid=10273完成
+04月01日 
+connect mysql sinaData suc!
+insert suc!
+reply
+03月31日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41883&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42583&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42242&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41921&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42584&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42209&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41965&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42270&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42357&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42269&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42201&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=10完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42305&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42293&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42346&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42347&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42322&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42369&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42355&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=11
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42374&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42612&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42395&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42562&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42597&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44117&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42654&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42675&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42664&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43899&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42719&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43029&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42748&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42686&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41696&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41641&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41648&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41642&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41760&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41644&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41645&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41646&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=11完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41647&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41654&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41658&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41655&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41651&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41653&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=12
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41669&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41664&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41667&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41660&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41663&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41668&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41662&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41670&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41673&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41677&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41676&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41674&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41681&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41678&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41672&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41682&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41599&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41604&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41601&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41598&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41596&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41592&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41594&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41593&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41557&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41553&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41551&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41556&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41549&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41555&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41550&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41565&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41569&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41560&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41562&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41564&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41561&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41567&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=12完成
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=13
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41579&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41580&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41578&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41570&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41576&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41571&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41574&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41581&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41585&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41586&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41591&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41589&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41583&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41587&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41605&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41606&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41527&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41536&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41541&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41537&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41529&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41535&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41531&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41534&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41462&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41459&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41453&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41455&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41450&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41458&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41451&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41463&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=13完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41470&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41468&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41469&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41464&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41466&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41472&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41473&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=14
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41474&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41476&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41477&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41475&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41480&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41479&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41482&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41485&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41483&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41491&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41486&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41488&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41496&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41495&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41493&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41371&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41368&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41366&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41370&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41411&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41352&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41353&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41268&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41265&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41267&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41270&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41271&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41269&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41272&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41280&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41277&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41278&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41273&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41279&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载x页面 url: http://guba.sina.com.cn/?s=bar&name=sz002620&type=0&page=14完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42152&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41344&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41347&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41351&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41349&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41350&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41348&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41345&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41354&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41356&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41358&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41359&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41363&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41360&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41365&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41373&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41374&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41376&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41248&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41254&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41257&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41255&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40925&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41251&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38187&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38197&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38413&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38320&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38406&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38409&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38282&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38245&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38529&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38414&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38908&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38588&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38863&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39033&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=38938&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39034&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39030&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39380&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39049&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39048&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39051&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39266&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39086&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39672&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39601&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39941&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40539&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40206&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39916&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40838&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40041&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=39945&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40855&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40912&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40900&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40899&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40903&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40902&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41073&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=40884&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41246&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41244&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41247&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41076&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41219&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41075&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41225&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41074&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41377&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41261&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41263&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41264&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41379&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41259&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41258&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41262&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41415&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41425&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41380&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41419&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41420&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42103&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41424&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41422&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41431&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41426&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41437&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41429&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41434&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41430&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41432&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41438&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41439&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41500&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41447&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41440&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41442&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41445&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41499&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41497&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41512&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41513&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41508&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41510&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41511&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41509&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41505&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41502&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41526&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41543&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41525&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41523&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41515&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41524&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41522&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41518&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41547&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41545&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41548&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41608&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41610&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41609&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41614&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41613&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41620&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41615&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41623&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41625&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41626&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41622&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41618&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41621&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41627&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41636&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41637&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41633&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41630&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41631&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41634&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41638&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41639&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41693&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41691&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41687&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41688&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41689&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41686&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41683&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41701&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42083&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41703&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41695&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41694&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41752&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41698&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41754&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41759&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41761&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41767&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41755&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41757&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41766&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41763&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41764&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41828&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41773&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41769&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=42042&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43144&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41770&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41774&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=41847&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44083&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44121&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43659&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44009&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43531&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=43357&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44040&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44082&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44131&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=44131&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=44131&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44599&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44636&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44624&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44609&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44647&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44475&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44237&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49833&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=48687&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44701&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49856&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49794&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49742&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44675&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=44670&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49686&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49736&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49718&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49737&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49722&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49682&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49666&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49740&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49667&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49484&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49601&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49485&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=44131&bid=10273完成
+03月23日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49565&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49599&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49600&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55293&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55298&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55255&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49450&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=49393&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55465&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55245&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55463&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55457&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56337&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55436&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55307&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56445&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=55431&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56408&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=56522&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63237&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57648&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57647&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63236&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57649&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=57792&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63297&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63263&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63327&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64037&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64034&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63999&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63351&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64251&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63348&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63352&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64339&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64288&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64319&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64349&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64324&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64360&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64340&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64413&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64364&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65565&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64365&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65560&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65558&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64369&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65573&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64370&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65829&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65595&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65825&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65751&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65848&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65581&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65683&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65883&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66226&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66144&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66501&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66642&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66097&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66536&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65911&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66516&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=68000&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66561&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67969&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66530&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=66544&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=63235&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=67996&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=63235&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=63235&bid=10273请求
+(u'http://guba.sina.com.cn/?s=thread&tid=67996&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=67996&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70283&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=69842&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=68541&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=68992&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70274&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70257&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=69214&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70275&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=68992&bid=10273', u'1')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=68992&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70824&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70816&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70735&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70814&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70749&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70366&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70751&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70804&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70828&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=63235&bid=10273完成
+04月17日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70832&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=67996&bid=10273完成
+05月03日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70826&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70838&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70836&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70830&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70840&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70852&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70850&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72574&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=68992&bid=10273完成
+05月03日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70842&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72411&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=70848&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72618&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=73632&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=73445&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=73670&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=72928&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=73191&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=65404&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=65404&bid=10273', u'12')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=65404&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=74926&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=73635&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=74099&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=74248&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=74930&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=74250&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=64428&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77609&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+(u'http://guba.sina.com.cn/?s=thread&tid=64428&bid=10273', u'2')
+产生回复页http://guba.sina.com.cn/?s=thread&tid=64428&bid=10273请求
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77538&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77576&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75501&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75488&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77548&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75485&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75397&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77504&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=65404&bid=10273完成
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81157&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75628&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77208&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=76501&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=77279&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75924&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=75932&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81997&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81394&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载回复页面http://guba.sina.com.cn/?s=thread&tid=64428&bid=10273完成
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81306&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81275&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81616&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81742&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81741&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月13日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月12日 
+connect mysql sinaData suc!
+insert suc!
+reply
+05月07日 
+connect mysql sinaData suc!
+insert suc!
+reply
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81841&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81842&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81860&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81885&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81952&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81833&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81791&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=81840&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82849&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82275&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82319&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82206&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82852&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82333&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82338&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=82804&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84904&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84884&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84925&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84197&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84955&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=86725&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=84911&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85009&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85416&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85581&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=89404&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=89702&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=90537&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=85397&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=90376&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=89908&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91153&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91154&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=90709&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=91152&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92893&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92103&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92430&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=90954&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92982&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=92899&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost
+下载y页面 url: http://guba.sina.com.cn/?s=thread&tid=93001&bid=10273完成
+connect mysql sinaData suc!
+insert suc!
+sinabbsPost

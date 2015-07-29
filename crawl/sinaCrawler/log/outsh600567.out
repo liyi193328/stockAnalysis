@@ -1,0 +1,1362 @@
+connection to sinaData suc
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllNewsStock/symbol/sh600567.phtml完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20150722/064522757378.shtml']
+股海导航 7月22日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150722/064522757378.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150722/064522757378.shtml
+[u'http://finance.sina.com.cn/stock/t/20150722/033922755824.shtml']
+安徽山鹰纸业股份有限公司关于股票复牌的提示性公告
+http://finance.sina.com.cn/stock/t/20150722/033922755824.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150722/033922755824.shtml
+[u'http://finance.sina.com.cn/stock/t/20150722/022422754943.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150722/022422754943.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150722/022422754943.shtml
+[u'http://finance.sina.com.cn/stock/s/20150721/172122751920.shtml']
+7月21日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150721/172122751920.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150721/172122751920.shtml
+[u'http://finance.sina.com.cn/stock/t/20150715/033422688208.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150715/033422688208.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150715/033422688208.shtml
+[u'http://finance.sina.com.cn/stock/t/20150715/024022687314.shtml']
+安徽山鹰纸业股份有限公司停牌进展公告
+http://finance.sina.com.cn/stock/t/20150715/024022687314.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150715/024022687314.shtml
+[u'http://finance.sina.com.cn/stock/t/20150711/061922657096.shtml']
+安徽山鹰纸业股份有限公司关于维护公司股价稳定工作的公告
+http://finance.sina.com.cn/stock/t/20150711/061922657096.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150711/061922657096.shtml
+[u'http://finance.sina.com.cn/stock/t/20150708/061922620422.shtml']
+安徽山鹰纸业股份有限公司2014年度利润分配实施公告
+http://finance.sina.com.cn/stock/t/20150708/061922620422.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150708/061922620422.shtml
+[u'http://finance.sina.com.cn/stock/t/20150708/044422618827.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150708/044422618827.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150708/044422618827.shtml
+[u'http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml']
+近500公司申请停牌 总数超1200A股停牌比将破40%(全名单)
+http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml
+[u'http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml']
+近300公司申请停牌 总数超千家占上市公司总数1/3(全名单)
+http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml
+[u'http://finance.sina.com.cn/stock/t/20150627/030422531566.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150627/030422531566.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150627/030422531566.shtml
+[u'http://finance.sina.com.cn/stock/t/20150627/030422531543.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150627/030422531543.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150627/030422531543.shtml
+[u'http://finance.sina.com.cn/stock/t/20150627/024322531201.shtml']
+安徽山鹰纸业股份有限公司关于“１２山鹰债”跟踪评级结果的公告
+http://finance.sina.com.cn/stock/t/20150627/024322531201.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150627/024322531201.shtml
+[u'http://finance.sina.com.cn/stock/t/20150623/023422490523.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150623/023422490523.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150623/023422490523.shtml
+[u'http://finance.sina.com.cn/stock/t/20150623/013922490270.shtml']
+安徽山鹰纸业股份有限公司关于2015年度第一期短期融资券发行的公告
+http://finance.sina.com.cn/stock/t/20150623/013922490270.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150623/013922490270.shtml
+[u'http://finance.sina.com.cn/stock/t/20150616/033922439946.shtml']
+安徽山鹰纸业股份有限公司股票交易异常波动公告
+http://finance.sina.com.cn/stock/t/20150616/033922439946.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150616/033922439946.shtml
+[u'http://finance.sina.com.cn/stock/t/20150605/023922354012.shtml']
+安徽山鹰纸业股份有限公司关于短期融资券获准注册的公告
+http://finance.sina.com.cn/stock/t/20150605/023922354012.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150605/023922354012.shtml
+[u'http://finance.sina.com.cn/stock/t/20150605/023422352851.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150605/023422352851.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150605/023422352851.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150603/161922339267.shtml']
+造纸轻工行业:造纸改革转型,轻工产业升级
+http://finance.sina.com.cn/stock/hyyj/20150603/161922339267.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150603/161922339267.shtml
+[u'http://finance.sina.com.cn/stock/t/20150529/023922294578.shtml']
+安徽山鹰纸业股份有限公司2014年年度股东大会决议公告
+http://finance.sina.com.cn/stock/t/20150529/023922294578.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150529/023922294578.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150529/021922294210.shtml']
+A股重挫泥沙俱下 通信等三类股逆市上涨显中坚
+http://finance.sina.com.cn/stock/hyyj/20150529/021922294210.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150529/021922294210.shtml
+[u'http://finance.sina.com.cn/stock/s/20150528/180622292088.shtml']
+5月28日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150528/180622292088.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150528/180622292088.shtml
+[u'http://finance.sina.com.cn/stock/t/20150523/041922248857.shtml']
+安徽山鹰纸业股份有限公司关于控股股东部分股权解除质押及进行股票质押式回购交易的公告
+http://finance.sina.com.cn/stock/t/20150523/041922248857.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150523/041922248857.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150522/134922243855.shtml']
+造纸板块大涨 景兴纸业涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150522/134922243855.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150522/134922243855.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150522/134622243844.shtml']
+快讯：造纸板块大涨 景兴纸业涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150522/134622243844.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150522/134622243844.shtml
+[u'http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml']
+多家高含权公司除权后将步入低价股行列
+http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml
+[u'http://finance.sina.com.cn/stock/t/20150430/063922080520.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20150430/063922080520.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150430/063922080520.shtml
+[u'http://finance.sina.com.cn/stock/t/20150430/063922080517.shtml']
+(上接B149版)
+http://finance.sina.com.cn/stock/t/20150430/063922080517.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150430/063922080517.shtml
+[u'http://finance.sina.com.cn/stock/t/20150430/063922080516.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20150430/063922080516.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150430/063922080516.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml']
+快讯：央企合并概念强势 中国联通涨近7%
+http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml
+[u'http://finance.sina.com.cn/stock/t/20150422/022022012989.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20150422/022022012989.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150422/022022012989.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150404/105921888662.shtml']
+三维度掘金低价股 业内人士认为还可翻倍(名单)
+http://finance.sina.com.cn/stock/hyyj/20150404/105921888662.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150404/105921888662.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150403/062021880457.shtml']
+人民币持续升值 造纸板块6股有望受益站风口
+http://finance.sina.com.cn/stock/hyyj/20150403/062021880457.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150403/062021880457.shtml
+[u'http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml']
+股海导航 4月1日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml
+[u'http://finance.sina.com.cn/stock/t/20150401/011921858324.shtml']
+安徽山鹰纸业股份有限公司2015年第一次临时股东大会决议公告
+http://finance.sina.com.cn/stock/t/20150401/011921858324.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150401/011921858324.shtml
+[u'http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml']
+3月31日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml
+[u'http://finance.sina.com.cn/stock/t/20150325/010021798838.shtml']
+股票简称：山鹰纸业            股票代码：600567          公告编号：临 2015-011债券简称：12山鹰债           债券代码：1221
+http://finance.sina.com.cn/stock/t/20150325/010021798838.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150325/010021798838.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150319/071821756413.shtml']
+低价股安全系数高引发资金追捧 三维度掘金
+http://finance.sina.com.cn/stock/hyyj/20150319/071821756413.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150319/071821756413.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150317/155321741264.shtml']
+天然林商业性采伐将全面停止 11股受益
+http://finance.sina.com.cn/stock/hyyj/20150317/155321741264.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150317/155321741264.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150627/030422531543.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150623/023422490523.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150707/225122615951.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150627/024322531201.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150708/044422618827.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150707/214922615781.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150722/064522757378.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150627/030422531566.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150711/061922657096.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150715/024022687314.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150715/033422688208.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150708/061922620422.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150721/172122751920.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150722/022422754943.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150722/033922755824.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150430/063922080516.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150317/155321741264.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150319/071821756413.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150325/010021798838.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150331/170721856133.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150401/011921858324.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150401/070921861490.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150403/062021880457.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150404/105921888662.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150422/022022012989.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600567&Page=2完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20150317/084321737528.shtml']
+A股低价股缩编 两元股绝迹
+http://finance.sina.com.cn/stock/s/20150317/084321737528.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150317/084321737528.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150427/133422053379.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20150314/021721719979.shtml']
+山鹰纸业拟定增募资20亿元发展主营业务
+http://finance.sina.com.cn/stock/s/20150314/021721719979.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150314/021721719979.shtml
+[u'http://finance.sina.com.cn/stock/t/20150314/005921719226.shtml']
+安徽山鹰纸业股份有限公司第六届董事会第二次会议决议公告
+http://finance.sina.com.cn/stock/t/20150314/005921719226.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150314/005921719226.shtml
+[u'http://finance.sina.com.cn/stock/t/20150314/005921719215.shtml']
+安徽山鹰纸业股份有限公司非公开发行股票预案
+http://finance.sina.com.cn/stock/t/20150314/005921719215.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150314/005921719215.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/183021717859.shtml']
+STCN解读：兼并见成效山鹰纸业拟定增20亿扩产能
+http://finance.sina.com.cn/stock/t/20150313/183021717859.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/183021717859.shtml
+[u'http://finance.sina.com.cn/stock/s/20150313/181121717689.shtml']
+3月13日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20150313/181121717689.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150313/181121717689.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/181121717742.shtml']
+3月13日晚间沪深两市利好公司公告（更新中）
+http://finance.sina.com.cn/stock/t/20150313/181121717742.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/181121717742.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/180321717666.shtml']
+山鹰纸业拟定增募资20亿 16日复牌
+http://finance.sina.com.cn/stock/t/20150313/180321717666.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/180321717666.shtml
+[u'http://finance.sina.com.cn/stock/s/20150313/173921717505.shtml']
+3月13日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20150313/173921717505.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150313/173921717505.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/172021717426.shtml']
+[公司]山鹰纸业拟定增募资20亿元 16日复牌
+http://finance.sina.com.cn/stock/t/20150313/172021717426.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/172021717426.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/170621717327.shtml']
+山鹰纸业拟定增募资不逾20亿元
+http://finance.sina.com.cn/stock/t/20150313/170621717327.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/170621717327.shtml
+[u'http://finance.sina.com.cn/stock/t/20150313/170121717385.shtml']
+山鹰纸业拟定增20亿元 用于生产线建设
+http://finance.sina.com.cn/stock/t/20150313/170121717385.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150313/170121717385.shtml
+[u'http://finance.sina.com.cn/stock/t/20150311/010021691314.shtml']
+安徽山鹰纸业股份有限公司非公开发行股票进展公告
+http://finance.sina.com.cn/stock/t/20150311/010021691314.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150311/010021691314.shtml
+[u'http://finance.sina.com.cn/stock/t/20150305/024021647744.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150305/024021647744.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150305/024021647744.shtml
+[u'http://finance.sina.com.cn/stock/t/20150305/023921647456.shtml']
+安徽山鹰纸业股份有限公司关于年产80万吨造纸项目投产的公告
+http://finance.sina.com.cn/stock/t/20150305/023921647456.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150305/023921647456.shtml
+[u'http://finance.sina.com.cn/stock/t/20150304/182821644692.shtml']
+山鹰纸业年产80万吨造纸项目投产
+http://finance.sina.com.cn/stock/t/20150304/182821644692.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150304/182821644692.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150430/063922080517.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150430/063922080520.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150506/041722113921.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150522/134622243844.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150522/134922243855.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150523/041922248857.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150528/180622292088.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150304/165921645350.shtml']
+[公司]山鹰纸业年产80万吨造纸项目投产
+http://finance.sina.com.cn/stock/t/20150304/165921645350.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150304/165921645350.shtml
+[u'http://finance.sina.com.cn/stock/t/20150304/165821644251.shtml']
+山鹰纸业年产80万吨造纸项目正式投产
+http://finance.sina.com.cn/stock/t/20150304/165821644251.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150304/165821644251.shtml
+[u'http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml']
+股海导航 3月4日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml
+[u'http://finance.sina.com.cn/stock/t/20150304/041921638402.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20150304/041921638402.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150304/041921638402.shtml
+[u'http://finance.sina.com.cn/stock/t/20150304/005921636378.shtml']
+安徽山鹰纸业股份有限公司非公开发行股票停牌公告
+http://finance.sina.com.cn/stock/t/20150304/005921636378.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150304/005921636378.shtml
+[u'http://finance.sina.com.cn/stock/t/20150303/193121635701.shtml']
+[公司]山鹰纸业筹划定增事项 4日起停牌
+http://finance.sina.com.cn/stock/t/20150303/193121635701.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150303/193121635701.shtml
+[u'http://finance.sina.com.cn/stock/t/20150303/192921635107.shtml']
+山鹰纸业停牌筹划定增
+http://finance.sina.com.cn/stock/t/20150303/192921635107.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150303/192921635107.shtml
+[u'http://finance.sina.com.cn/stock/s/20150214/151321555139.shtml']
+百元股大扩容飙升至14只 多为近两年上市次新股
+http://finance.sina.com.cn/stock/s/20150214/151321555139.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150214/151321555139.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20150212/104421537752.shtml']
+快讯：造纸印刷板块大涨 青山纸业等两股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20150212/104421537752.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20150212/104421537752.shtml
+[u'http://finance.sina.com.cn/stock/s/20150212/100121537193.shtml']
+A股低价股不死：近三年1元股平均涨幅逾150%
+http://finance.sina.com.cn/stock/s/20150212/100121537193.shtml
+request Y href http://finance.sina.com.cn/stock/s/20150212/100121537193.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150211/110821528431.shtml']
+轻工制造行业:三条主线择股 继续推荐2股
+http://finance.sina.com.cn/stock/hyyj/20150211/110821528431.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150211/110821528431.shtml
+[u'http://finance.sina.com.cn/stock/t/20150210/043921515155.shtml']
+安徽山鹰纸业股份有限公司关于控股股东一致行动人股权解除质押暨进行股票质押式回购交易的公告
+http://finance.sina.com.cn/stock/t/20150210/043921515155.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150210/043921515155.shtml
+[u'http://finance.sina.com.cn/stock/t/20150210/005921513120.shtml']
+安徽山鹰纸业股份有限公司关于控股股东一致行动人股权解除质押暨进行股票质押式回购交易的公告
+http://finance.sina.com.cn/stock/t/20150210/005921513120.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150210/005921513120.shtml
+[u'http://finance.sina.com.cn/stock/t/20150209/160721510347.shtml']
+[公司]山鹰纸业股东1.22亿股解押后再质押
+http://finance.sina.com.cn/stock/t/20150209/160721510347.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150209/160721510347.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150529/021922294210.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150529/023922294578.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150603/161922339267.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20150207/031921499137.shtml']
+安徽山鹰纸业股份有限公司关于在深圳前海现代服务业合作区设立子公司的进展公告
+http://finance.sina.com.cn/stock/t/20150207/031921499137.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150207/031921499137.shtml
+[u'http://finance.sina.com.cn/stock/t/20150207/005921498046.shtml']
+安徽山鹰纸业股份有限公司关于在深圳前海现代服务业合作区设立子公司的进展公告
+http://finance.sina.com.cn/stock/t/20150207/005921498046.shtml
+request Y href http://finance.sina.com.cn/stock/t/20150207/005921498046.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150119/012321325966.shtml']
+牛市消灭低价股 三大角度精选低价潜力股
+http://finance.sina.com.cn/stock/hyyj/20150119/012321325966.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150119/012321325966.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20150112/143321277588.shtml']
+造纸行业2015年日常报告:季节性提价略有提前 建议配置造纸板块
+http://finance.sina.com.cn/stock/hyyj/20150112/143321277588.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20150112/143321277588.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml']
+快讯：*ST广夏复牌一字跌停 宁东铁路45亿借壳
+http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml
+[u'http://finance.sina.com.cn/stock/t/20141218/075921106041.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141218/075921106041.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141218/075921106041.shtml
+[u'http://finance.sina.com.cn/stock/t/20141218/011921102758.shtml']
+安徽山鹰纸业股份有限公司关于2014年度第一期短期融资券发行的公告
+http://finance.sina.com.cn/stock/t/20141218/011921102758.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141218/011921102758.shtml
+[u'http://finance.sina.com.cn/stock/t/20141213/052021067878.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141213/052021067878.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141213/052021067878.shtml
+[u'http://finance.sina.com.cn/stock/t/20141213/012021066863.shtml']
+安徽山鹰纸业股份有限公司关于持股
+http://finance.sina.com.cn/stock/t/20141213/012021066863.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141213/012021066863.shtml
+[u'http://finance.sina.com.cn/stock/t/20141212/180321064712.shtml']
+[公司]山鹰纸业股东抛1.02亿股 占比2.72%
+http://finance.sina.com.cn/stock/t/20141212/180321064712.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141212/180321064712.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150605/023422352851.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150605/023922354012.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150616/033922439946.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150623/013922490270.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150317/084321737528.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150304/182821644692.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150305/023921647456.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150305/024021647744.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150311/010021691314.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/170121717385.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/170621717327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/172021717426.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150313/173921717505.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/180321717666.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/181121717742.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150313/181121717689.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150313/183021717859.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150314/005921719215.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150314/005921719226.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150209/160721510347.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150210/005921513120.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141212/180321064712.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141213/012021066863.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141213/052021067878.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141218/011921102758.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141218/075921106041.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141230/093021195534.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150112/143321277588.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600567&Page=3完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20141205/064421003911.shtml']
+股海导航 12月5日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141205/064421003911.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141205/064421003911.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150119/012321325966.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150207/005921498046.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150207/031921499137.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150210/043921515155.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20150211/110821528431.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150212/100121537193.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20150212/104421537752.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20141205/035021002135.shtml']
+上市公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141205/035021002135.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141205/035021002135.shtml
+[u'http://finance.sina.com.cn/stock/t/20141205/010021000639.shtml']
+安徽山鹰纸业股份有限公司关于发行短期融资券申请获得注册的公告
+http://finance.sina.com.cn/stock/t/20141205/010021000639.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141205/010021000639.shtml
+[u'http://finance.sina.com.cn/stock/t/20141204/191520999248.shtml']
+[公司]山鹰纸业短期融资券发行申请已注册
+http://finance.sina.com.cn/stock/t/20141204/191520999248.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141204/191520999248.shtml
+[u'http://finance.sina.com.cn/stock/s/20141202/064920972824.shtml']
+股海导航 12月2日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141202/064920972824.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141202/064920972824.shtml
+[u'http://finance.sina.com.cn/stock/t/20141202/035020971542.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141202/035020971542.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141202/035020971542.shtml
+[u'http://finance.sina.com.cn/stock/t/20141202/010020969627.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20141202/010020969627.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141202/010020969627.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20141125/140220915136.shtml']
+轻工制造行业周报:国务院首次推动电子发票应用
+http://finance.sina.com.cn/stock/hyyj/20141125/140220915136.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20141125/140220915136.shtml
+[u'http://finance.sina.com.cn/stock/t/20141124/074620900182.shtml']
+19家公司12.69亿股解禁 解禁市值环比小增
+http://finance.sina.com.cn/stock/t/20141124/074620900182.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141124/074620900182.shtml
+[u'http://finance.sina.com.cn/stock/s/20141124/022020897971.shtml']
+本周19家公司12.69亿股解禁 解禁市值环比小增
+http://finance.sina.com.cn/stock/s/20141124/022020897971.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141124/022020897971.shtml
+[u'http://finance.sina.com.cn/stock/t/20141122/154220892682.shtml']
+下周解禁17.33亿限售股将上市流通
+http://finance.sina.com.cn/stock/t/20141122/154220892682.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141122/154220892682.shtml
+[u'http://finance.sina.com.cn/stock/t/20141121/032020878984.shtml']
+安徽山鹰纸业股份有限公司关于非公开发行限售股上市流通的公告
+http://finance.sina.com.cn/stock/t/20141121/032020878984.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141121/032020878984.shtml
+[u'http://finance.sina.com.cn/stock/t/20141121/010020877359.shtml']
+安徽山鹰纸业股份有限公司关于非公开发行限售股上市流通的公告
+http://finance.sina.com.cn/stock/t/20141121/010020877359.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141121/010020877359.shtml
+[u'http://finance.sina.com.cn/stock/t/20141115/025020825961.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20141115/025020825961.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141115/025020825961.shtml
+[u'http://finance.sina.com.cn/stock/t/20141115/010020824958.shtml']
+安徽山鹰纸业股份有限公司第五届董事会第二十五次会议决议公告
+http://finance.sina.com.cn/stock/t/20141115/010020824958.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141115/010020824958.shtml
+[u'http://finance.sina.com.cn/stock/t/20141114/203620823615.shtml']
+山鹰纸业拟3亿元深圳前海设投资管理子公司
+http://finance.sina.com.cn/stock/t/20141114/203620823615.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141114/203620823615.shtml
+[u'http://finance.sina.com.cn/stock/t/20141113/032020802818.shtml']
+安徽山鹰纸业股份有限公司关于选举职工监事的公告
+http://finance.sina.com.cn/stock/t/20141113/032020802818.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141113/032020802818.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150214/151321555139.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150303/192921635107.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20141113/010020801397.shtml']
+安徽山鹰纸业股份有限公司关于选举职工监事的公告
+http://finance.sina.com.cn/stock/t/20141113/010020801397.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141113/010020801397.shtml
+[u'http://finance.sina.com.cn/stock/s/20141103/081520713034.shtml']
+ST板块的沉浮与枯荣：借壳上市不易 好壳难求
+http://finance.sina.com.cn/stock/s/20141103/081520713034.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141103/081520713034.shtml
+[u'http://finance.sina.com.cn/stock/s/20141031/065020695370.shtml']
+股海导航 10月31日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20141031/065020695370.shtml
+request Y href http://finance.sina.com.cn/stock/s/20141031/065020695370.shtml
+[u'http://finance.sina.com.cn/stock/t/20141031/045920694009.shtml']
+安徽山鹰纸业股份有限公司2014第三季度报告
+http://finance.sina.com.cn/stock/t/20141031/045920694009.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141031/045920694009.shtml
+[u'http://finance.sina.com.cn/stock/t/20141031/041920693151.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20141031/041920693151.shtml
+request Y href http://finance.sina.com.cn/stock/t/20141031/041920693151.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20141009/095420490920.shtml']
+造纸板块拉升 美利纸业等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20141009/095420490920.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20141009/095420490920.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml']
+国投系重组倒计时 国投中鲁连涨5个一字板
+http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140916/102420304560.shtml']
+快讯：造纸板块大幅走高 青山纸业等2股涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140916/102420304560.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140916/102420304560.shtml
+[u'http://finance.sina.com.cn/stock/e/20140827/104820134851.shtml']
+快讯：造纸股整体走强 太阳纸业大涨
+http://finance.sina.com.cn/stock/e/20140827/104820134851.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140827/104820134851.shtml
+[u'http://finance.sina.com.cn/stock/e/20140826/111820122871.shtml']
+造纸板块急拉 银鸽投资等涨停
+http://finance.sina.com.cn/stock/e/20140826/111820122871.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140826/111820122871.shtml
+[u'http://finance.sina.com.cn/stock/t/20140814/025420004381.shtml']
+安徽山鹰纸业股份有限公司2012年公司债券2014年付息公告 -中国基金报多媒体数字报
+http://finance.sina.com.cn/stock/t/20140814/025420004381.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140814/025420004381.shtml
+[u'http://finance.sina.com.cn/stock/t/20140814/010020003175.shtml']
+安徽山鹰纸业股份有限公司2012年公司债券2014年付息公告
+http://finance.sina.com.cn/stock/t/20140814/010020003175.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140814/010020003175.shtml
+[u'http://finance.sina.com.cn/stock/s/20140808/073319950479.shtml']
+股海导航 8月8日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140808/073319950479.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140808/073319950479.shtml
+[u'http://finance.sina.com.cn/stock/t/20140808/072519950498.shtml']
+8月8日早间沪市公告一览
+http://finance.sina.com.cn/stock/t/20140808/072519950498.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140808/072519950498.shtml
+[u'http://finance.sina.com.cn/stock/t/20140808/021019947027.shtml']
+安徽山鹰纸业股份有限公司2014半年度报告摘要 -中国基金报多媒体数字报
+http://finance.sina.com.cn/stock/t/20140808/021019947027.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140808/021019947027.shtml
+[u'http://finance.sina.com.cn/stock/t/20140808/021019946909.shtml']
+公司新闻 -中国基金报多媒体数字报
+http://finance.sina.com.cn/stock/t/20140808/021019946909.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140808/021019946909.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150303/193121635701.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150304/005921636378.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150304/041921638402.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150304/165821644251.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20150304/165921645350.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/t/20140808/010019946138.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20140808/010019946138.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140808/010019946138.shtml
+[u'http://finance.sina.com.cn/stock/t/20140807/205119945028.shtml']
+山鹰纸业中期净利9814万 同比增15.7%
+http://finance.sina.com.cn/stock/t/20140807/205119945028.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140807/205119945028.shtml
+[u'http://finance.sina.com.cn/stock/s/20140807/162919943607.shtml']
+山鹰纸业中期净利9814万 同比增长15.7%
+http://finance.sina.com.cn/stock/s/20140807/162919943607.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140807/162919943607.shtml
+[u'http://finance.sina.com.cn/stock/jsy/20140806/104819928501.shtml']
+造纸板块拉升 山鹰纸业一度涨停
+http://finance.sina.com.cn/stock/jsy/20140806/104819928501.shtml
+request Y href http://finance.sina.com.cn/stock/jsy/20140806/104819928501.shtml
+[u'http://finance.sina.com.cn/stock/e/20140806/103319928332.shtml']
+造纸板块拉升 山鹰纸业一度涨停
+http://finance.sina.com.cn/stock/e/20140806/103319928332.shtml
+request Y href http://finance.sina.com.cn/stock/e/20140806/103319928332.shtml
+[u'http://finance.sina.com.cn/stock/t/20140806/102519928362.shtml']
+造纸板块拉升 山鹰纸业一度涨停
+http://finance.sina.com.cn/stock/t/20140806/102519928362.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140806/102519928362.shtml
+[u'http://finance.sina.com.cn/stock/t/20140702/061119580292.shtml']
+安徽山鹰纸业股份有限公司关于控股股东开展融资融券及股权质押的公告
+http://finance.sina.com.cn/stock/t/20140702/061119580292.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140702/061119580292.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150314/021721719979.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141205/064421003911.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20150304/065621639529.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141113/032020802818.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141114/203620823615.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141115/010020824958.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141115/025020825961.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141121/010020877359.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141121/032020878984.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141124/022020897971.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141124/074620900182.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20141125/140220915136.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141202/010020969627.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141202/035020971542.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141202/064920972824.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140808/021019946909.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140808/021019947027.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140808/072519950498.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140702/061119580292.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140806/102519928362.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140806/103319928332.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/jsy/20140806/104819928501.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/stockptd/20141122/154220892682.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140807/162919943607.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140807/205119945028.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140808/010019946138.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140808/073319950479.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140814/010020003175.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140814/025420004381.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600567&Page=4完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/t/20140702/010019577898.shtml']
+安徽山鹰纸业股份有限公司关于控股股东开展融资融券及股权质押的公告
+http://finance.sina.com.cn/stock/t/20140702/010019577898.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140702/010019577898.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140826/111820122871.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20140827/104820134851.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140701/015019566265.shtml']
+酒钢宏兴10.8亿股定增股被深套 神秘资金借道解围
+http://finance.sina.com.cn/stock/s/20140701/015019566265.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140701/015019566265.shtml
+[u'http://finance.sina.com.cn/stock/t/20140627/165319545581.shtml']
+下周沪深上市公司重大公告及事项早知道（更新中）
+http://finance.sina.com.cn/stock/t/20140627/165319545581.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140627/165319545581.shtml
+[u'http://finance.sina.com.cn/stock/t/20140627/025019536571.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140627/025019536571.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140627/025019536571.shtml
+[u'http://finance.sina.com.cn/stock/t/20140627/010619535224.shtml']
+安徽山鹰纸业股份有限公司关于“12山鹰债”债券跟踪评级结果的公告
+http://finance.sina.com.cn/stock/t/20140627/010619535224.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140627/010619535224.shtml
+[u'http://finance.sina.com.cn/stock/t/20140621/025019480181.shtml']
+安徽山鹰纸业股份有限公司关于变更公司联系地址和联系方式的公告
+http://finance.sina.com.cn/stock/t/20140621/025019480181.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140621/025019480181.shtml
+[u'http://finance.sina.com.cn/stock/t/20140621/010619479121.shtml']
+安徽山鹰纸业股份有限公司关于变更公司联系地址和联系方式的公告
+http://finance.sina.com.cn/stock/t/20140621/010619479121.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140621/010619479121.shtml
+[u'http://finance.sina.com.cn/stock/s/20140619/023719454768.shtml']
+合兴包装公布定增预案 包装新贵与扩张难题
+http://finance.sina.com.cn/stock/s/20140619/023719454768.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140619/023719454768.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml']
+道博股份拟7.8亿收购强视传媒 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml']
+中发科技终止资产重组 复牌一字跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml']
+乾照光电重组被终止 复牌一字跌停
+http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml']
+天润控股拟发行股份购旭游网络 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml']
+新文化15亿收购户外广告媒体 复牌一字涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml
+[u'http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml']
+安徽军工原董事长黄小虎被查后举报前任董事长
+http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml
+request Y href http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml
+[u'http://finance.sina.com.cn/stock/t/20140524/041819213063.shtml']
+安徽山鹰纸业股份有限公司2013年度股东大会决议公告
+http://finance.sina.com.cn/stock/t/20140524/041819213063.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140524/041819213063.shtml
+[u'http://finance.sina.com.cn/stock/t/20140524/010019211488.shtml']
+安徽山鹰纸业股份有限公司2013年度股东大会决议公告
+http://finance.sina.com.cn/stock/t/20140524/010019211488.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140524/010019211488.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140916/102420304560.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140925/104820410837.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20141009/095420490920.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141031/041920693151.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141031/045920694009.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141031/065020695370.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20141103/081520713034.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141113/010020801397.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml']
+鹿港科技拟4.7亿收购世纪长龙 股价再度涨停
+http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml
+[u'http://finance.sina.com.cn/stock/s/20140508/065019037402.shtml']
+股海导航 5月8日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140508/065019037402.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140508/065019037402.shtml
+[u'http://finance.sina.com.cn/stock/t/20140508/032519035327.shtml']
+安徽山鹰纸业股份有限公司关于孙公司租赁仓库发生火灾的公告
+http://finance.sina.com.cn/stock/t/20140508/032519035327.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140508/032519035327.shtml
+[u'http://finance.sina.com.cn/stock/t/20140507/203919033111.shtml']
+[公司]山鹰纸业孙公司物资遭火灾 损失在统计
+http://finance.sina.com.cn/stock/t/20140507/203919033111.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140507/203919033111.shtml
+[u'http://finance.sina.com.cn/stock/t/20140505/040518997791.shtml']
+安徽山鹰纸业股份有限公司关于2013年第一期短期融资券到期兑付的公告
+http://finance.sina.com.cn/stock/t/20140505/040518997791.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140505/040518997791.shtml
+[u'http://finance.sina.com.cn/stock/t/20140505/010318996142.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20140505/010318996142.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140505/010318996142.shtml
+[u'http://finance.sina.com.cn/stock/t/20140430/071318970392.shtml']
+4月30日早间沪市公告汇总
+http://finance.sina.com.cn/stock/t/20140430/071318970392.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140430/071318970392.shtml
+[u'http://finance.sina.com.cn/stock/s/20140430/070818970250.shtml']
+股海导航 4月30日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140430/070818970250.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140430/070818970250.shtml
+[u'http://finance.sina.com.cn/stock/t/20140430/040518968207.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20140430/040518968207.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140430/040518968207.shtml
+[u'http://finance.sina.com.cn/stock/t/20140430/040518968193.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20140430/040518968193.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140430/040518968193.shtml
+[u'http://finance.sina.com.cn/stock/s/20140429/174018963539.shtml']
+4月29日晚间上市公司利好消息一览
+http://finance.sina.com.cn/stock/s/20140429/174018963539.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140429/174018963539.shtml
+[u'http://finance.sina.com.cn/stock/t/20140429/161618963061.shtml']
+[公司]山鹰纸业去年净利增244% 1季净利增278%
+http://finance.sina.com.cn/stock/t/20140429/161618963061.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140429/161618963061.shtml
+[u'http://finance.sina.com.cn/stock/s/20140421/101018865058.shtml']
+本周限售股解禁环比增12% 国电清新2.68亿居首
+http://finance.sina.com.cn/stock/s/20140421/101018865058.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140421/101018865058.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml']
+快讯：高金食品一字涨停 累计涨幅超95%
+http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml
+[u'http://finance.sina.com.cn/stock/t/20140421/051218860686.shtml']
+本周29家公司解禁18.54亿股
+http://finance.sina.com.cn/stock/t/20140421/051218860686.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140421/051218860686.shtml
+[u'http://finance.sina.com.cn/stock/s/20140417/064618826204.shtml']
+股海导航 4月17日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140417/064618826204.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140417/064618826204.shtml
+[u'http://finance.sina.com.cn/stock/t/20140417/041418824674.shtml']
+安徽山鹰纸业股份有限公司关于非公开发行限售股上市流通的公告
+http://finance.sina.com.cn/stock/t/20140417/041418824674.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140417/041418824674.shtml
+[u'http://finance.sina.com.cn/stock/t/20140417/010018822402.shtml']
+安徽山鹰纸业股份有限公司关于非公开发行限售股上市流通的公告
+http://finance.sina.com.cn/stock/t/20140417/010018822402.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140417/010018822402.shtml
+[u'http://finance.sina.com.cn/stock/t/20140408/032618728929.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140408/032618728929.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140408/032618728929.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141204/191520999248.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml']
+快讯：安徽申请自贸区 概念股午后强势拉升
+http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml
+[u'http://finance.sina.com.cn/stock/t/20140325/010218599170.shtml']
+安徽山鹰纸业股份有限公司关于控股股东一致行动人股权质押的公告
+http://finance.sina.com.cn/stock/t/20140325/010218599170.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140325/010218599170.shtml
+[u'http://finance.sina.com.cn/stock/s/20140321/041018570974.shtml']
+A股股本扩张史:98股扩逾20倍 飞乐等5股超万倍
+http://finance.sina.com.cn/stock/s/20140321/041018570974.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140321/041018570974.shtml
+[u'http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml']
+安徽国企改革剑指混合所有制 3企业或首批试点
+http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml
+request Y href http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml
+[u'http://finance.sina.com.cn/stock/s/20140307/071018434496.shtml']
+今年以来15家公司超五位高管离职
+http://finance.sina.com.cn/stock/s/20140307/071018434496.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140307/071018434496.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141205/010021000639.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20141205/035021002135.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140702/010019577898.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140524/010019211488.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140610/095619365155.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140524/041819213063.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140610/100819365273.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140611/101819377682.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/chanjing/cyxw/20140530/091019276262.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140604/102319309728.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140612/095319390044.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140619/023719454768.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140621/010619479121.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140621/025019480181.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140627/010619535224.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140627/025019536571.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140627/165319545581.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140701/015019566265.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140408/032618728929.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140307/071018434496.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/china/dfjj/20140311/023218466078.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140321/041018570974.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140325/010218599170.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140328/131418646011.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140417/010018822402.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140417/041418824674.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140417/064618826204.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载x页面 url: http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600567&Page=5完成
+getting title's text and href
+[u'http://finance.sina.com.cn/stock/s/20140306/065918421179.shtml']
+股海导航 3月6日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140306/065918421179.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140306/065918421179.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140421/094918864471.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140421/101018865058.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140429/161618963061.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140429/174018963539.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140430/040518968193.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140430/040518968207.shtml完成
+connect mysql sinaData suc!
+insert suc!
+[u'http://finance.sina.com.cn/stock/s/20140306/025018418798.shtml']
+山鹰纸业10亿跨界建热电项目
+http://finance.sina.com.cn/stock/s/20140306/025018418798.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140306/025018418798.shtml
+[u'http://finance.sina.com.cn/stock/t/20140306/020818418410.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140306/020818418410.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140306/020818418410.shtml
+[u'http://finance.sina.com.cn/stock/t/20140306/010018417627.shtml']
+安徽山鹰纸业股份有限公司第五届董事会第二十次会议决议公告
+http://finance.sina.com.cn/stock/t/20140306/010018417627.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140306/010018417627.shtml
+[u'http://finance.sina.com.cn/stock/t/20140305/212218416911.shtml']
+3月5日晚间上交所公告摘要一览
+http://finance.sina.com.cn/stock/t/20140305/212218416911.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140305/212218416911.shtml
+[u'http://finance.sina.com.cn/stock/t/20140305/175418415866.shtml']
+山鹰纸业下属公司近10亿投资热电联产项目
+http://finance.sina.com.cn/stock/t/20140305/175418415866.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140305/175418415866.shtml
+[u'http://finance.sina.com.cn/stock/t/20140305/171518415926.shtml']
+[公司]山鹰纸业拟投9.6亿元建设余能利用项目
+http://finance.sina.com.cn/stock/t/20140305/171518415926.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140305/171518415926.shtml
+[u'http://finance.sina.com.cn/stock/t/20140301/010018371880.shtml']
+安徽山鹰纸业股份有限公司
+http://finance.sina.com.cn/stock/t/20140301/010018371880.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140301/010018371880.shtml
+[u'http://finance.sina.com.cn/stock/t/20140228/162418369576.shtml']
+[公司]山鹰纸业控股股东质押5亿股 占比13.54%
+http://finance.sina.com.cn/stock/t/20140228/162418369576.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140228/162418369576.shtml
+[u'http://finance.sina.com.cn/stock/t/20140214/170418217248.shtml']
+山鹰纸业总经理汤涌泉辞职
+http://finance.sina.com.cn/stock/t/20140214/170418217248.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140214/170418217248.shtml
+[u'http://finance.sina.com.cn/stock/t/20140214/163218217038.shtml']
+山鹰纸业总经理汤涌泉辞职
+http://finance.sina.com.cn/stock/t/20140214/163218217038.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140214/163218217038.shtml
+[u'http://finance.sina.com.cn/stock/t/20140213/023518192994.shtml']
+安徽山鹰纸业股份有限公司关于公司和相关方承诺及履行情况的公告
+http://finance.sina.com.cn/stock/t/20140213/023518192994.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140213/023518192994.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml']
+安徽将全力支持芜湖申报自贸区 发展准金融机构
+http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140207/043918140806.shtml']
+四行业领涨蛇年 超强势高换手暗示马年仍有机会
+http://finance.sina.com.cn/stock/hyyj/20140207/043918140806.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140207/043918140806.shtml
+[u'http://finance.sina.com.cn/stock/s/20140127/064618092909.shtml']
+股海导航 1月27日沪深股市公告提示
+http://finance.sina.com.cn/stock/s/20140127/064618092909.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140127/064618092909.shtml
+[u'http://finance.sina.com.cn/stock/t/20140127/013318091084.shtml']
+安徽山鹰纸业股份有限公司2013年度业绩预告
+http://finance.sina.com.cn/stock/t/20140127/013318091084.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140127/013318091084.shtml
+[u'http://finance.sina.com.cn/stock/t/20140127/010318090355.shtml']
+安徽山鹰纸业股份有限公司2013年度业绩预告
+http://finance.sina.com.cn/stock/t/20140127/010318090355.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140127/010318090355.shtml
+[u'http://finance.sina.com.cn/stock/t/20140126/200618089594.shtml']
+[公司]山鹰纸业预计去年扭亏 净赚约2.1亿元
+http://finance.sina.com.cn/stock/t/20140126/200618089594.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140126/200618089594.shtml
+[u'http://finance.sina.com.cn/stock/s/20140126/173918089046.shtml']
+1月26日上市公司晚间公告速递
+http://finance.sina.com.cn/stock/s/20140126/173918089046.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140126/173918089046.shtml
+[u'http://finance.sina.com.cn/stock/t/20140126/172618089002.shtml']
+山鹰纸业去年净利预计2.1亿 相比重组前业绩大幅扭亏
+http://finance.sina.com.cn/stock/t/20140126/172618089002.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140126/172618089002.shtml
+[u'http://finance.sina.com.cn/stock/t/20140117/180017993327.shtml']
+安徽山鹰纸业股份有限公司第五届董事会第十九次会议决议公告
+http://finance.sina.com.cn/stock/t/20140117/180017993327.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140117/180017993327.shtml
+[u'http://finance.sina.com.cn/stock/t/20140117/051517983730.shtml']
+安徽山鹰纸业股份有限公司公告（系列）
+http://finance.sina.com.cn/stock/t/20140117/051517983730.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140117/051517983730.shtml
+[u'http://finance.sina.com.cn/stock/t/20140116/214517980275.shtml']
+中证解读：山鹰纸业年产35.7万吨造纸项目 加投资5.6亿
+http://finance.sina.com.cn/stock/t/20140116/214517980275.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140116/214517980275.shtml
+[u'http://finance.sina.com.cn/stock/t/20140116/165517978477.shtml']
+山鹰纸业年产35.7万吨造纸项目追加投资5.6亿
+http://finance.sina.com.cn/stock/t/20140116/165517978477.shtml
+request Y href http://finance.sina.com.cn/stock/t/20140116/165517978477.shtml
+[u'http://finance.sina.com.cn/stock/s/20140114/133117947816.shtml']
+“1”字头个股多达17只 4股马钢=3斤青菜
+http://finance.sina.com.cn/stock/s/20140114/133117947816.shtml
+request Y href http://finance.sina.com.cn/stock/s/20140114/133117947816.shtml
+[u'http://finance.sina.com.cn/stock/hyyj/20140107/043417862876.shtml']
+年报预喜股暗流涌动 三行业有望成白马集中营
+http://finance.sina.com.cn/stock/hyyj/20140107/043417862876.shtml
+request Y href http://finance.sina.com.cn/stock/hyyj/20140107/043417862876.shtml
+[u'http://finance.sina.com.cn/stock/t/20131231/043017801804.shtml']
+安徽山鹰纸业股份有限公司关于增加信息披露指定媒体的公告
+http://finance.sina.com.cn/stock/t/20131231/043017801804.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131231/043017801804.shtml
+[u'http://finance.sina.com.cn/stock/t/20131225/010017738355.shtml']
+安徽山鹰纸业股份有限公司关于控股股东股份质押的公告
+http://finance.sina.com.cn/stock/t/20131225/010017738355.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131225/010017738355.shtml
+[u'http://finance.sina.com.cn/stock/e/20131211/141217601298.shtml']
+造纸板块全线走弱 太阳纸业大跌
+http://finance.sina.com.cn/stock/e/20131211/141217601298.shtml
+request Y href http://finance.sina.com.cn/stock/e/20131211/141217601298.shtml
+[u'http://finance.sina.com.cn/stock/gujiayidong/20131211/140317601229.shtml']
+快讯：造纸板块全线走弱 太阳纸业跌停
+http://finance.sina.com.cn/stock/gujiayidong/20131211/140317601229.shtml
+request Y href http://finance.sina.com.cn/stock/gujiayidong/20131211/140317601229.shtml
+[u'http://finance.sina.com.cn/money/fund/20131210/042417581430.shtml']
+基金定增专户大赚 短期账面浮盈最高六成
+http://finance.sina.com.cn/money/fund/20131210/042417581430.shtml
+request Y href http://finance.sina.com.cn/money/fund/20131210/042417581430.shtml
+[u'http://finance.sina.com.cn/stock/s/20131203/071917509258.shtml']
+ST“黄金壳”变“鸡蛋壳” 将会有大量仙股出现
+http://finance.sina.com.cn/stock/s/20131203/071917509258.shtml
+request Y href http://finance.sina.com.cn/stock/s/20131203/071917509258.shtml
+[u'http://finance.sina.com.cn/stock/t/20131129/011017471013.shtml']
+安徽山鹰纸业股份有限公司非公开发行股票发行结果暨股本变动公告
+http://finance.sina.com.cn/stock/t/20131129/011017471013.shtml
+request Y href http://finance.sina.com.cn/stock/t/20131129/011017471013.shtml
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140430/070818970250.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140505/010318996142.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140505/040518997791.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140507/203919033111.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140508/032519035327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140508/065019037402.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20140523/104819205758.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140430/071318970392.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/data/20140421/051218860686.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140306/065918421179.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140127/064618092909.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140126/172618089002.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140126/173918089046.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140126/200618089594.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140127/010318090355.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140127/013318091084.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140207/043918140806.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140212/143118187598.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140213/023518192994.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140214/163218217038.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140214/170418217248.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140228/162418369576.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140301/010018371880.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140305/171518415926.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131129/011017471013.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20131203/071917509258.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/money/fund/20131210/042417581430.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/gujiayidong/20131211/140317601229.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/e/20131211/141217601298.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131225/010017738355.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20131231/043017801804.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/hyyj/20140107/043417862876.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140114/133117947816.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140116/165517978477.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140116/214517980275.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140117/051517983730.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140117/180017993327.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140305/175418415866.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140305/212218416911.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140306/010018417627.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/t/20140306/020818418410.shtml完成
+connect mysql sinaData suc!
+insert suc!
+下载y页面 url: http://finance.sina.com.cn/stock/s/20140306/025018418798.shtml完成
+connect mysql sinaData suc!
+insert suc!
