@@ -89,14 +89,14 @@ class sinaCrawler(scrapy.Spider):
                     month = res.group('month')
                     day = res.group('day')
                     if year == None:
-                        year = 2015
+                        year = datetime.today().date().year
                     if month == None:
                         month = datetime.today().date().month
                     if day == None:
                         day = datetime.today().date().month
                     return date(int(year),int(month),int(day)),time(0,0,0)
                     
-            res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日.*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
+            res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日\D*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
             if res:
                 year = res.group('year')
                 month = res.group('month')
@@ -104,7 +104,7 @@ class sinaCrawler(scrapy.Spider):
                 hour = res.group('hour')
                 minute = res.group('minute')
                 if year == None:
-                    year = 2015
+                    year = datetime.today().date().year
                 if hour == None:
                     hour = 0
                 if minute == None:
@@ -112,7 +112,7 @@ class sinaCrawler(scrapy.Spider):
                 Date = date(int(year),int(month),int(day))
                 Time = time(hour=int(hour),minute = int(minute))
                 return Date,Time
-        return date(1,1,1),time(0,0,0)   
+        return date(1,1,1),time(0,0,0)
 
     def getStockCodeFromUrl(self,url):
         res = re.search(r'.*([s|S][z|h](\w\d+)).*',url)

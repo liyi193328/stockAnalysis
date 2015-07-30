@@ -1,3 +1,4 @@
+#encoding=utf-8
 from mysql.connector import connection
 from datetime import datetime,time,date,timedelta
 
@@ -53,27 +54,23 @@ class DB:
             article = 'sinaArticles'+st
             bbsPost = 'sinabbsPosts'+st
             bbsReply = 'sinabbsReplies'+st
+            bbsPostNum = 'sinabbsPostsNum'+st
 
             self.createArticleTable(article)
             self.createbbsPostTable(bbsPost)
             self.createbbsReplyTable(bbsReply)
+            self.createbbsPostNumTable(bbsPostNum)
+
             self.cnx.commit()
+
         print(cnt)
 
     def createDB(self,dbname):
-        # st = " DEFAULT CHARSET utf8 COLLATE utf8_general_ci"
-        # sen = (
-        #     "CREATE DATABASE %(dbname)s" 
-        #     )
-        # par = {
-        # "dbname":dbname,
-        # }
-
-        # self.cursor.execute(sen,par)
 
         sen = "CREATE DATABASE IF NOT EXISTS %s DEFAULT CHARSET utf8 COLLATE utf8_general_ci"%dbname
         self.cursor.execute(sen)
         self.cnx.commit()
+        self.cnx,self.cursor = self.connectMysql(Database=dbname) #创建完时连接新的数据库
 
     def deleteDatabase(self,dbname):
         sen = "drop database if exists %s" %dbname
@@ -104,10 +101,9 @@ class DB:
             )%(article)
         print(sen)
         self.cursor.execute(sen)
-        self.cnx.commit()
 
         # print(sen)
-    def createbbsPostTable(self,bbsPost):
+    def createbbsPostTable(self,bbsPost):  ##保留最新的帖子信息
         sen = (
                 "create table if not exists %s ("
                 " `id` bigint(11) not null auto_increment,"
@@ -124,6 +120,22 @@ class DB:
                 " primary key(`id`)"
                 ")DEFAULT CHARACTER SET = utf8"
             )%(bbsPost)
+        print(sen)
+        self.cursor.execute(sen)
+
+    def createbbsPostNumTable(self,bbsPostNum):  #记录每一个date的帖子历史的点击量，回复数
+        sen =(
+            "create table if not exists %s("
+            " `id` bigint(11) not null auto_increment,"
+            " `url` varchar(255) not null, "
+            " `clickNum` int null,"
+            " `replyNum` int null,"
+            " `date`     date null,"
+            " `time`     time null,"
+            "  `crawlDate` date not null," 
+            " primary key(`id`)"
+            ")DEFAULT CHARACTER SET = utf8"
+            )%(bbsPostNum)
         print(sen)
         self.cursor.execute(sen)
 
@@ -144,6 +156,9 @@ class DB:
         self.cursor.execute(sen)
 
 db = DB()
+st = "sinaData"
+db.deleteDatabase(st)
+db.createDB(st)
 # db.testCreate()
 # db.createArticleTable("liyi")
 db.createTables()

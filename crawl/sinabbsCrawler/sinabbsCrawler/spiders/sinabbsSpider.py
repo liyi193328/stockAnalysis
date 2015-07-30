@@ -1,8 +1,7 @@
 # encoding=utf-8
 
 import scrapy,os,re,datetime,time
-from sinabbsCrawler.items import sinabbsPost
-from sinabbsCrawler.items import sinabbsReply
+from sinabbsCrawler.items import sinabbsPost,sinabbsReply
 from pprint import pprint
 from marionette import Marionette
 from selenium import webdriver
@@ -13,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from datetime import date,time,datetime,timedelta
 from scrapy.shell import inspect_response
+
 class sinabbsCrawler(scrapy.Spider): 
     name = 'sinabbsCrawler' 
     start_urls = [
@@ -66,7 +66,7 @@ class sinabbsCrawler(scrapy.Spider):
             ('date', self.Ydate)
         ]
         self.stockCode = self.getStockCodeFromUrl(self.start_urls[0])  #make sure start_urls  exists
-        self.fdonUrl = open("log/doneUrl"+self.stockCode+".done","a+")
+        self.fdonUrl = open("log/doneUrl"+str(self.stockCode)+".done","a+")
 
     def end(self):
         # self.driver.quit()
@@ -75,12 +75,12 @@ class sinabbsCrawler(scrapy.Spider):
 
 #######辅助函数#######
 
-    def extracttime(self,s):
+    def extracttime(self,s,thatYear): #当s中缺失year值时，就用thatYear替换
         s = s.strip()
         if s:
             if s.find(u'今天') != -1:
                 Date = datetime.today().date()
-                res = re.search(r'今天(?P<hour>\d+):(?P<minute>\d+)',s.encode('utf-8'))
+                res = re.search(r'今天\D*(?P<hour>\d+):(?P<minute>\d+)',s.encode('utf-8'))
                 Time = time(int( res.group('hour') ),int( res.group('minute') ) )
                 return Date,Time
 
@@ -107,14 +107,17 @@ class sinabbsCrawler(scrapy.Spider):
                     month = res.group('month')
                     day = res.group('day')
                     if year == None:
-                        year = 2015
+                        year = thatYear
                     if month == None:
                         month = datetime.today().date().month
                     if day == None:
                         day = datetime.today().date().month
-                    return date(int(year),int(month),int(day)),time(0,0,0)
+                    try:
+                        return date(int(year),int(month),int(day)),time(0,0,0)
+                    except:
+                        pass
 
-            res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日.*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
+            res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日\D*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
             if res:
                 year = res.group('year')
                 month = res.group('month')
@@ -122,14 +125,17 @@ class sinabbsCrawler(scrapy.Spider):
                 hour = res.group('hour')
                 minute = res.group('minute')
                 if year == None:
-                    year = 2015
+                    year = thatYear
                 if hour == None:
                     hour = 0
                 if minute == None:
                     minute = 0
+            try:
                 Date = date(int(year),int(month),int(day))
                 Time = time(hour=int(hour),minute = int(minute))
                 return Date,Time
+            except:
+                pass
         return date(1,1,1),time(0,0,0)  
 
     def getStockCodeFromUrl(self,url):
@@ -212,7 +218,6 @@ class sinabbsCrawler(scrapy.Spider):
             yield scrapy.Request(fullNextUrl,callback=self.parse,dont_filter=True)
 
 
-
 # Y层工作函数
     def parseY(self, response):
 
@@ -229,7 +234,7 @@ class sinabbsCrawler(scrapy.Spider):
                     text += item
 
             if name == 'date':
-                Date,Time = self.extracttime(text)
+                Date,Time = self.extracttime(text,2015) #目前的年份
                 postItem['date'] = Date
                 postItem['time'] = Time
 
@@ -274,9 +279,7 @@ class sinabbsCrawler(scrapy.Spider):
                     
                 if name == 'commentDate':
                     print(text)
-                    Date,Time = self.extracttime(text)
-                    if int(Date.year == thisyear):  #处理缺少年份的情况
-                        Date = date(year,Date.month,Date.day)  #帖子的时间
+                    Date,Time = self.extracttime(text,commentyear)
                     commentItem['commentDate'] = Date
                 else:
                     commentItem[name] = text

@@ -7,7 +7,6 @@
 
 import scrapy
 
-
 class sinabbsPost(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
@@ -22,6 +21,15 @@ class sinabbsPost(scrapy.Item):
     content = scrapy.Field() #帖子内容
     url = scrapy.Field()  #帖子url
     stockTable = scrapy.Field() #帖子对于的股票表名(数据库中)
+    crawlDate = scrapy.Field()
+
+class sinabbsPostNum(scrapy.Item):
+    stockTable = scrapy.Field()
+    url = scrapy.Field()
+    date = scrapy.Field()
+    time = scrapy.Field()
+    clickNum = scrapy.Field()
+    replyNum = scrapy.Field()
     crawlDate = scrapy.Field()
 
 class sinabbsReply(scrapy.Item):

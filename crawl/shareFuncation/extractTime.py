@@ -1,12 +1,14 @@
+#encoding=utf-8
 import re
 from datetime import date,time,datetime
-
+st = u'今天 12:20'
+# print( re.search(u'\d+[:|：]\d+',st).group(0) )
 def extracttime(s):
     s = s.strip()
     if s:
         if s.find(u'今天') != -1:
             Date = datetime.today().date()
-            res = re.search(r'今天(?P<hour>\d+):(?P<minute>\d+)',s.encode('utf-8'))
+            res = re.search(r'今天\D*(?P<hour>\d+):(?P<minute>\d+)',s.encode('utf-8'))
             Time = time(int( res.group('hour') ),int( res.group('minute') ) )
             return Date,Time
 
@@ -40,7 +42,7 @@ def extracttime(s):
                     day = datetime.today().date().month
                 return date(int(year),int(month),int(day)),time(0,0,0)
 
-        res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日.*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
+        res = re.search(r'((?P<year>\d+)年)?(?P<month>\d+)月(?P<day>\d+)日\D*(?P<hour>\d+):(?P<minute>\d+).*', s.encode('utf8'))
         if res:
             year = res.group('year')
             month = res.group('month')
@@ -57,3 +59,6 @@ def extracttime(s):
             Time = time(hour=int(hour),minute = int(minute))
             return Date,Time
     return date(1,1,1),time(0,0,0)  
+
+if __name__ == '__main__':
+	print(extracttime(st))

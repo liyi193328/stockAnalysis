@@ -8,11 +8,13 @@
 from mysql.connector import connection
 from sinabbsCrawler.items import sinabbsPost,sinabbsReply
 from datetime import datetime,date,time
+from sinabbsCrawler.items import sinabbsPostNum
 
 class SinabbscrawlerPipeline(object):
 
     postTablePre = 'sinabbsPosts'
     replyTablePre = 'sinabbsReplies'
+    postNumTablePre = 'sinabbsPostsNum'
 
     def __init__(self):
         self.cnx = connection.MySQLConnection(user='root',password='',database='sinaData')
@@ -32,6 +34,8 @@ class SinabbscrawlerPipeline(object):
         tablename = item['stockTable']
         if isinstance(item,sinabbsPost):
             tablename = self.postTablePre + tablename
+        elif isinstance(item,sinabbsPostNum):
+            tablename = self.postNumTablePre + tablename
         else:
             tablename = self.replyTablePre + tablename
         # item.pop('stockTable')  ###keng
@@ -48,12 +52,22 @@ class SinabbscrawlerPipeline(object):
         self.cnx.commit()
         print('insert suc!')
         # input("insert suc:")
+    def constructPostNumFromPost(self,item):
+        keys = ['stockTable','url','clickNum','replyNum','date','time']
+        postNum = sinabbsPostNum()
+        for key in keys:
+            postNum[key] = item[key]
+        return postNum
 
     def process_item(self, item, spider):
 
         if isinstance(item,sinabbsPost):
             self.insertDict(item)
             print "sinabbsPost"
+            postNum = self.constructPostNumFromPost(item)
+            self.insertDict(postNum)
+            print("sinabbsPostNum")
+
         else:
             self.insertDict(item)
             print "reply"
